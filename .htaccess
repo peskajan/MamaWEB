@@ -1,0 +1,13 @@
+
+RewriteEngine On
+Options +FollowSymlinks
+
+RewriteRule    uvod/$   /index.php     [L,QSA]
+RewriteRule    uvod$   /index.php     [L,QSA]
+
+RewriteRule ^([^/\.]+)/$ /$1.php [L,QSA]
+RewriteRule ^([^/\.]+)$ /$1.php [L,QSA]
+RewriteRule ^([^/\.]+).html$ /$1.php [L,QSA]
+
+
+
