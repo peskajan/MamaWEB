@@ -14,21 +14,17 @@
                 <li><a title="Úvod, líèení, akèní nabídky" href="/uvod/"><span class="glyphicon glyphicon-home"></span> Úvod</a></li>
                 <li class="dropdown">
                     <a title="Líèení, pøehled služeb" href="/sluzby/" class="dropdown-toggle" data-toggle="dropdown">
-                        <span class="glyphicon glyphicon-gift"></span> Služby <b class="caret"></b>
+                        <span class="glyphicon glyphicon-th-large"></span> Služby <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a title="Pøehled všech poskytovaných služeb" href="/sluzby/">Pøehled služeb</a></li>
-                        <li><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební líèení</a></li>
-                        <li><a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">Veèerní líèení</a></li>
-                        <li><a title="Foto make-up" href="/foto-makeup/">Foto make-up</a></li>
-                        <li><a title="Vlasový styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">Vlasový styling</a></li>
-                        <li><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></li>
-                        <li><a title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/">Dárkové poukázky</a></li>
-                         <li><a title="Kosmetické poradenství, analýza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
-                        <li><a title="Spolupráce pro firmy, spolupráce pro budoucí vizážistky - pøidejte se k nám" href="/spoluprace/">Spolupráce</a></li>
+                        <li><a title="Ženská skupina osobnostního rozvoje" href="/zenska-skupina/">Ženská skupina osobnostního rozvoje</a></li>
+                        <li><a title="Vrstevnická skupina pro dìti" href="/vrstevnicka-skupina/">Vrstevnická skupina pro dìti</a></li>
+                        <li><a title="Cílené cvièení oslabených oblastí" href="/cviceni-oslabenych-oblasti/">Cílené cvièení oslabených oblastí</a></li>
+                        <li><a title="Psychoterapeutické poradenství" href="/psychoterapeuticke-poradenstvi/">Psychoterapeutické poradenství</a></li>
+                        <li><a title="Semináøe pro uèitele a výchovné pracovníky" href="/seminare/">Semináøe pro uèitele a výchovné pracovníky</a></li>
+                        <li><a title="Besedy pro rodièe" href="/besedy-pro-rodice/">Besedy pro rodièe</a></li>
                     </ul>
                 </li>
-                <li><a title="Galerie - svatební líèení, foto make-up" href="/galerie/"><span class="glyphicon glyphicon-picture"></span> Fotogalerie</a></li>
                 <li><a title="Kontakty - email, telefon, facebook" href="/kontakty/"><span class="glyphicon glyphicon-envelope"></span> Kontakty</a></li>
                 <li><a title="Jana Budková - o mnì, reference" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mnì</a></li>
             </ul>

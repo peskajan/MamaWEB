@@ -12,6 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/css/smoothness/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -24,24 +25,67 @@
 
         <div id="content" class="main_content container">
             <h2 class="page-heading">O mnì</h2>
+
+            <div id="dialog-arte" style="width: 500px;" title="Co je arteterapie?">
+                <p>
+                    Arteterapie se opírá o výtvarný projev klienta jako o léèebný prostøedek, který umožòuje pøímìjší vyjádøení emocí, 
+                    potlaèovaných myšlenek, fantazie, postupné zvìdomování vnitøních rozporù. Prožitky bìhem tvorby se dávají 
+                    do souvislostí s aktuálními problémy, pomáhají pøi hledání jejich øešení. Je vhodná u dìtí, u klientù, 
+                    kteøí se tìžko vyjadøují slovy, nebo jsou jimi naopak zahlceni.
+                </p>
+            </div>
+
+            <div id="dialog-sur" style="width: 500px;" title="Co je SUR?">
+                <p>
+                    SUR je systém výcviku v psychoterapii založený (1967) Doc..MUDr. Jaroslavem Skálou, PhDr. Eduardem Urbanem 
+                    a MUDr. Jaromírem Rubešem. Sluèuje v sobì prvky hlubinnì psychologické, skupinovì dynamické a komunitní terapie. 
+                    Takto orientovaný psychoterapeut se setkává s klientem „tváøí tváø“, klade dùraz na vztah terapeuta a 
+                    klienta a na vzájemný respekt, chápe lidský vývoj jako celoživotní cestu s dùležitou hodnotou hledání smyslu života, 
+                    má na zøeteli dùležitost vztahù v dìtství i v souèasnosti a jedineènost osobnosti èlovìka. 
+                    Pracuje s klientem na poznání jeho vlastních vzorcù chování a porozumìní svým motivùm. 
+                    Tím napomáhá ke zmìnì postojù, hledání vhodnìjších zpùsobù øešení a zvládání aktuálních situací vlastními silami.
+                </p>
+            </div>
+
             <div class="row featurette">
-                <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkynì již od roku 2010. Nejprve bylo líèení mým velkým koníèkem, potom se stalo zároveò i mou profesí.
-                        Specializuji se hlavnì na foto-make up, svatební líèení, veèerní líèení a vlasový styling. 
-                        Pùsobím pøevážnì v Praze a ve Slaném, po domluvì kdekoliv dle Vašeho pøání.
+                <div class="col-md-8">
+                    <p class="lead">V souèasné dobì pracuji jako rodinný poradce v Rodinné poradnì Slaný. J
+                        sem psychoterapeutka a speciální pedagog. Zpùsob mé práce je ovlivnìn filozofií výcvikového systému 
+                        <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
+                        jsem èlenkou Èeské arteterapeutické asociace. Vìnuji se pøedevším vztahovým a výchovným obtížím. 
+                        Za nejdùležitìjší ve své práci považuji vytvoøení bezpeèného prostøedí, provázení klienta v obtížné situaci 
+                        a pomoc pøi hledání možných øešení.
                     </p>
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Pracovní zkušenosti</th></tr>
+                        <tr><td nowrap>2009  - dosud</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smeèno</td></tr>
+                        <tr><td nowrap>2001 – 2012</td><td>speciální pedagog – Pedagogicko psychologická poradna  SK, pracovištì Kladno</td></tr>
+                        <tr><td nowrap>1992 -  2001</td><td>speciální pedagog a zástupce øeditele Speciální mateøské školy Slaný</td></tr>
+                        <tr><td nowrap>1982 - 1992</td><td>uèitelka MŠ</td></tr>
+                    </table>
 
-                    <p class="afterlead"></p>
-                    <br/>
-                    <p class="afterlead bold">Reference:</p>
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Další pracovní zkušenosti</th></tr>
+                        <tr><td nowrap>1997 - dosud </td><td>školitel – Pragouniversa Praha, Labyrint Kladno, 
+                                CDVU Univerzity J.E.Purkynì Ústí nad L., PAU Praha, CCVP Pardubického kraje a PC Ústí nad Labem, 
+                                Most,  PPP Støedoèeského kraje, KVIC Ostrava</td></tr>
+                        <tr><td nowrap>1996 – 1997</td><td>zástup klinického logopeda,  Nemocnice Slaný</td></tr>
+                    </table>
 
-                    <ul class="afterlead">
-                        <li>ÓÈKO TV</li>
-                        <li>MISS VŠE</li>
-                    </ul>
-
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Dosažené vzdìlání</th></tr>
+                        <tr><td nowrap>2012</td><td>licence k práci se Sadou projektivních koláží</td></tr>
+                        <tr><td nowrap>2010 – 2011</td><td>Vzdìlávání v arteterapii a artefiletice – 2letý akreditovaný kurz</td></tr>
+                        <tr><td nowrap>2009 – 2012</td><td>Teoretické psychoterapeutické  vzdìlávání  SUR</td></tr>
+                        <tr><td nowrap>2006</td><td>Rigorózní zkouška- PF UK Praha</td></tr>
+                        <tr><td nowrap>2002 – 2008</td><td>Výcvik v psychodynamicky a hlubinnì orientované psychoterapiis arteterapeutickým zamìøením, SUR</td></tr>
+                        <tr><td nowrap>1999 – 2000</td><td>Magisterské studium - PF MU Brno, Speciální pedagogika pro mládež vyžadující zvláštní péèi</td></tr>
+                        <tr><td nowrap>1993 – 1996</td><td>Bakaláøské studium - PF UK Praha,  Speciální pedagogika pro uèitelky MŠ</td></tr>
+                        <tr><td nowrap>1978 - 1982</td><td>Støední pedagogická škola Nový Jièín, uèitelství v MŠ</td></tr>
+                        <tr><td nowrap>1970 - 1978</td><td>Základní škola Rožnov pod Radhoštìm</td></tr>
+                    </table>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <img title="Jana Budková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Budková"  width="250"/>
                 </div>
             </div>
@@ -51,6 +95,7 @@
 
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>

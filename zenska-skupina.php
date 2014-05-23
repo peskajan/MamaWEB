@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="CP1250">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="/icons/title-icon.png">
+
+        <title>Svatební líčení | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/css/lightbox.css" rel="stylesheet"/>
+        <link href="/css/main.css" rel="stylesheet">
+    </head>
+    <!-- NAVBAR
+    ================================================== -->
+    <body>
+        <?php
+        include "header.php";
+        ?>
+
+        <div id="content" class="main_content container">
+
+            <h2 class="page-heading">Ženská skupina osobnostního rozvoje</h2>
+
+
+            <h3 class="featurette-heading">Proč skupina?</h3>
+            <ul class="afterlead">
+                <li>lidé s podobnými potřebami si mohou poskytovat vzájemnou podporu</li>
+                <li>skupina poskytuje vhodné zázemí pro sociální učení, pomáhá při uvědomění si skrytých zdrojů a schopností</li>
+                <li>členové skupiny si mohou v bezpečném prostředí vyzkoušet nové způsoby chování a jednání</li>
+                <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
+            </ul>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Ceník</th></tr>
+                        <tr><td>jedno setkání (2 hod)</td> 
+                            <td class="price">200 Kč</td></tr>
+                        <tr><td>celý cyklus (12 setkání)</td> 
+                            <td class="price">2000 Kč</td></tr>
+                    </table>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                </div>
+                <div class="col-lg-6">
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Galerie - Svatební líčení"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Galerie - Svatební líčení"/>
+                </div>
+            </div>
+
+            <h3 class="featurette-heading">Blíže k obsahu ženské skupiny</h3>
+            <ul class="afterlead">
+                <li>12 setkání po dvou hodinách, skupina 6-10 žen</li>
+                <li>prostor k přemýšlení a sdílení svých názorů, radostí i starostí prostřednictvím různých výtvarných, verbálních i neverbálních technik</li>
+                <li>zamýšlení se nad tématy - sebepoznání, jak vidím sama sebe a jak mě vidí ostatní, vyjadřování emocí, 
+                    komunikace verbální i neverbální, moc x bezmoc, vliv původní rodiny, moje rozhodování, vyrovnanost, 
+                    vztahy, ženská role ... a dalšími náměty, které s sebou členové skupiny přinesou</li>
+                <li>společným cílem všech činností jsou odpovědi na otázku „jaká jsem“ a doprovázení se na cestě „jaká chci být“</li>
+                <li>při práci s výtvarnými, verbálními i neverbálními technikami jde o vlastní prožitek – ne o samotné
+                    (výtvarné) dílo. Ve skupině se tedy pracuje v souladu s mottem „není jeden správný, dobrý způsob, 
+                    jsou různé způsoby a všechny jsou dobré“</li>
+            </ul>
+
+            <h3 class="featurette-heading">Pravidla členství ve skupině</h3>
+            <ul class="afterlead">
+                <li>pravidlo mlčenlivosti a důvěrnosti: to, o čem se mluví a co se dozvím na skupině je důvěrné, 
+                    mimo skupinu o tom nemluví členové, ani vedoucí skupiny</li>
+                <li>pravidlo otevřenosti a svobody: ve skupině mohu otevřeně vyjadřovat své názory a pocity, svobodně se projevuji formou, 
+                    která mi vyhovuje, ale neomezuje ostatní. Nemůžu-li něco hned otevřeně sdělit, nebo na něco upřímně odpovědět, 
+                    mám právo říct „stop“ a nemluvit o tom. Mám právo nevědět – nikdo neví všechno. Když řeknu, že „nevím“, 
+                    otevírám tím možnost, aby mi někdo pomohl porozumět.</li>
+                <li>pravidlo zodpovědnosti k sobě i druhým: součástí je moje pravidelná a včasná docházka a vzájemné naslouchání. 
+                    Druhé nekritizuji, ale mluvím o tom, co se mnou jejich chování dělá, jak se cítím</li>
+            </ul>
+        </div>
+
+        <script src="/js/libs/jquery/jquery.js"></script>
+        <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/holder.js"></script>
+        <script src="/js/libs/lightbox-2.6.min.js"></script>
+        <script src="/js/main.js"></script>
+    </body>
+</html>

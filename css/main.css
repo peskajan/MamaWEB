@@ -15,6 +15,8 @@ body {
     padding-right: 0px;
 }
 
+.ui-dialog { z-index: 2000 !important ;}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -38,11 +40,10 @@ body {
 
 .navbar {
     margin-bottom: 0px;
-    background-image: url(/images/header-background.png);
 }
 
 .navbar-inverse {
-    background-color: #555555;
+    background-color: #454545;
     border-color: #080808;
 }
 
@@ -52,14 +53,14 @@ body {
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-    color: #f1299f;
+    color: #538bfd;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #f1299f;
+    color: #538bfd;
     background-color: transparent;
 }
 
@@ -75,8 +76,10 @@ body {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #c81880;
-    border-color: #a10c6d;
+    background-color: #396fde;
+    /*background-color: #c81880;*/
+    border-color: #2e59b1;
+    /*border-color: #a10c6d;*/
 }
 
 .btn-primary:hover,
@@ -85,14 +88,14 @@ body {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     color: #ffffff;
-    background-color: #f1299f;
-    border-color: #c81880;
+    background-color: #538bfd;
+    border-color: #396fde;
 }
 
 .header-border {
     width: 100%;
     height: 10px;
-    background-color: #f1299f;
+    background-color: #538bfd;
     box-shadow: 0px 3px 10px #888888;
 }
 
@@ -172,7 +175,7 @@ body {
     font-weight: 700;
     line-height: 1;
     letter-spacing: -1px;
-    color: #f1299f;
+    color: #538bfd;
     text-shadow: 2px 2px 5px #888888;
 }
 
@@ -203,7 +206,7 @@ body {
     transition: all 0.3s ease-out;
 }
 .example-image-link:hover {
-    border: 3px solid #f1299f;
+    border: 3px solid #538bfd;
 }
 
 .param-header {
@@ -214,7 +217,7 @@ body {
     transition: all 0.4s ease-out;
 }
 .param-header:hover {
-    border: 6px solid #f1299f;
+    border: 6px solid #538bfd;
 }
 
 .afterlead {
@@ -244,7 +247,7 @@ td.price {
 }
 
 .bold {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .text-muted {
@@ -252,7 +255,7 @@ td.price {
 }
 
 .label-highlight {
-    background-color: #f1299f;
+    background-color: #538bfd;
 }
 
 .label-highlight[href]:hover,
@@ -436,7 +439,7 @@ input.placeholder-text, textarea.placeholder-text  {
 @media (min-width: 768px) {
 
     table.afterlead {
-        margin: 30px 0px 50px 30px;
+        margin: 30px 0px 30px 30px;
     }
 
     table.afterlead td{
@@ -547,7 +550,7 @@ input.placeholder-text, textarea.placeholder-text  {
 @media (min-width: 1600px) {
 
     .parallelogram {
-        width: 200px;
+        width: 230px;
     }
 
     .navbar-brand {
