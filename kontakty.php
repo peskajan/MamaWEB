@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Kontakty | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Kontakty | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -33,11 +33,13 @@
             <h2 class="page-heading">Kontakty</h2>
             <p class="lead">V pøípadì, že máte zájem o mé služby a chtìli byste si domluvit termín nebo máte jakýkoliv dotaz, neváhejte mì kontaktovat buï pøímo:</p>
             <table class="afterlead">
-                <tr><td>Jana Budková</td></tr>
-                <tr><td><a href="tel:+420 736 651 141" target="_top"><img class="contact-icon" src="/images/phone.png" alt="facebook"/>+420 736 651 141</a></td></tr>
-                <tr><td><a href="mailto:budkova.jana@email.cz"><img class="contact-icon" src="/images/mail.png" alt="facebook"/>budkova.jana@email.cz</a></td></tr>
-                <tr><td><a title="Líèení, vizážistika - Jana Budková - Facebook" href="https://www.facebook.com/pages/Jana-Budkov%C3%A1-viz%C3%A1%C5%BEistka-a-kosmetick%C3%A1-poradkyn%C4%9B/277499939054552?fref=ts" target="_top">
-                            <img class="contact-icon" src="/images/fb.png" alt="facebook"/>Jana Budková - vizážistka</a></td></tr>
+                <tr><td>Katka Pešková</td></tr>
+                <tr><td><a title="Psychoterapeut, Speciální pedadog - Katka Pešková" href="tel:+420 776 134 539" target="_top">
+                            <img class="contact-icon" src="/images/phone.png" alt="telefon"/>+420 776 134 539</a>
+                    </td></tr>
+                <tr><td><a title="Psychoterapeut, Speciální pedadog - Katka Pešková" href="mailto:katka.peskova@post.cz">
+                            <img class="contact-icon" src="/images/mail.png" alt="email"/>katka.peskova@post.cz</a>
+                    </td></tr>
             </table>
 
             <p class="lead">nebo pomocí kontaktního formuláøe:</p>

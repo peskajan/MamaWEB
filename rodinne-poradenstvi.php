@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Psychoterapeutické poradenství | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Rodinné poradenství | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,7 +24,7 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Psychoterapeutické poradenství</h2>
+            <h2 class="page-heading">Rodinné poradenství, terapie</h2>
 
             <p class="afterlead bold">Je urèeno lidem v problematické partnerské èi životní situaci, napø:</p>
             <ul class="afterlead">
@@ -38,16 +38,18 @@
             </ul>
 
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
-                        <tr><td>V rámci èinnosti Rodinné poradny Slaný jsou konzultace <b>bezplatné</b>.</td></tr>
+                        <tr><td>Individuálnì</td> 
+                            <td class="price">500 Kè</td></tr>
+                        <tr><td>V páru</td> 
+                            <td class="price">700 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
-                <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Galerie - Svatební líèení"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Galerie - Svatební líèení"/>
+                <div class="col-lg-5">
+                    <img class="example-image-link parallelogram" src="/images/gallery/rodina.jpg" alt="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize"/>
                 </div>
             </div>
 
@@ -63,7 +65,7 @@
                 <li><b>Individuální konzultace</b> - poradenského procesu se úèastní jen klient starší 16let a odborný pracovník</li>
                 <li><b>Párová konzultace</b> - poradenského procesu se úèastní pár, který má možnost jak spoleèných 
                     tak individuálních konzultací s terapeutem</li>
-                <li><b>Rodinná konzultace</b> - amìøuje  se na celou rodinu vèetnì dìtí, vìnuje pozornost vzájemným vztahùm v celé rodinì. 
+                <li><b>Rodinná konzultace</b> - zamìøuje  se na celou rodinu vèetnì dìtí, vìnuje pozornost vzájemným vztahùm v celé rodinì. 
                     Konzultace samotného dítìte mladšího 16let je možná v pøípadì oznaèení problému jako rodinného, 
                     podepsaným souhlasem zákonného zástupce</li>
             </ul>

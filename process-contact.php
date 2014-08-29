@@ -53,7 +53,7 @@ if (isset($_POST)) {
 					  <p><strong>Pøedmìt: </strong> {$subject} </p>
 					  <p><strong>Zpráva: </strong> {$message} </p>";
 
-        mail("budkova.jana@email.cz", "Líèení pro tebe - {$subject}", $emailbody, $headers);
+        mail("katka.peskova@post.cz", "Osobní web - {$subject}", $emailbody, $headers);
     }
 
     //what we need to return back to our form

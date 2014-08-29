@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Cílené cvièení oslabených oblastí | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Cílené cvièení oslabených oblastí | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -35,16 +35,22 @@
             </ul>
 
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
-                        <tr><td>Konzultace jsou v rámci projektu Rodinného centra Slaný <b>bezplatné</b>.</td></tr>
+                        <tr><td>Cvièení pro rozvoj pozornosti u pøedškolních dìtí</td> 
+                            <td class="price">1 300 Kè</td></tr>
+                        <tr><td>Cvièení pro rozvoj pozornosti KUPOZ pro 8-12 let</td> 
+                            <td class="price">2 000 Kè</td></tr>
+                        <tr><td>Cvièení pro rozvoj grafomotoriky</td> 
+                            <td class="price">1 300 Kè</td></tr>
+                        <tr><td>Cvièení pro rozvoj jemné motoriky</td> 
+                            <td class="price">1 300 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
-                <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Galerie - Svatební líèení"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Galerie - Svatební líèení"/>
+                <div class="col-lg-5">
+                    <img class="example-image-link parallelogram" src="/images/gallery/cilene-cviceni.jpg" alt="Cílené cvièení oslabených oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, pøedškoláci, školáci, pro dìti"/>
                 </div>
             </div>
 

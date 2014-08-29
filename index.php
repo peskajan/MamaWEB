@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vizáistka | Jana Budková | Líèení | Praha, Slanı a okolí | Praha, Slanı a okolí</title>
+        <title>Katka Pešková | Psychoterapeut | Speciální pedadog | Slanı a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -28,34 +28,17 @@
                 <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
-                    <div class="item active">
+                    <div class="item blur active">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Hledáte vhodnı dárek?</h1>
-                                <p>Darujte Vašim blízkım poukázku na vizáistické sluby, kurz líèení, kosmetické pøípravky a jiné.</p>
-                                <p><a class="btn btn-lg btn-primary" title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>AKCE: Plesové líèení</h1>
-                                <p>Dejte se se kamarádkami dohromady a nechte se spoleènì nalíèit nebo uèesat za vıhodnìjší cenu!!</p>
-                                <p><a class="btn btn-lg btn-primary" title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="container">
-                            <div class="carousel-caption">
-                                <h1>Svatební líèení</h1>
-                                <p>Volné zimní termíny svatebního líèení a dále také volné termíny na rok 2014!!
-                                </p>
-                                <p><a class="btn btn-lg btn-primary" title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
                     </div>
@@ -69,28 +52,28 @@
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Kosmetické poradenství, analıza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">
-                            <img class="img-circle param-header" src="/images/gallery/poradenstvi2.jpg" alt="Kosmetické poradenství">
-                            <h2>Kosmetické poradenství</h2>
+                        <a class="no-decor" title="enská skupina osobnostního rozvoje, skupinová terapie, pro eny, arteterapie" href="/zenska-skupina/">
+                            <img class="img-circle param-header" src="/images/gallery/zenska-skupina-param.jpg" alt="enská skupina">
+                            <h2>enská skupina</h2>
                         </a>
-                        <p>Máte problémy s pletí? Chcete nìco zmìnit a nevíte jak na to? Nechte si ode mì poradit a objednejte se na kosmetické poradenství zcela ZDARMA!</p>
-                        <p><a title="Kosmetické poradenství, analıza pleti, péèe o ple - vše zdarma" class="btn btn-default" href="/kosmeticke-poradenstvi/" role="button">Více informací &raquo;</a></p>
+                        <p>Pro eny, které mají chu vyprávì i poslouchat, tvoøit a hrát si, sdílet a navzájem se podporovat v rozvíjení své osobnosti</p>
+                        <p><a title="enská skupina osobnostního rozvoje, skupinová terapie, pro eny, arteterapie" class="btn btn-default" href="/zenska-skupina/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Svatební líèení, veèerní líèení, foto make-up a další" href="/sluzby/">
-                            <img class="img-circle param-header" src="/images/gallery/liceni.jpg" alt="Vizáistické sluby">
-                            <h2>Vizáistické sluby</h2>
+                        <a class="no-decor" title="Rodinné poradenství, terapie, vıchovné obtíe, rozvod, partnerská krize" href="/rodinne-poradenstvi/">
+                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Rodinné poradenství">
+                            <h2>Rodinné poradenství</h2>
                         </a>
-                        <p>Buïte krásná pøi kadé pøíleitosti! Svatební a slavnostní líèení, foto make up a další</p>
-                        <p><a title="Svatební líèení, veèerní líèení, foto make-up a další" class="btn btn-default" href="/sluzby/" role="button">Více informací &raquo;</a></p>
+                        <p>Máte aktuálnì obtíe v komunikaci s partnerem? Øešíte sloitou rozvodovou situaci? Øešíte vıchovné potíe s Vašimi dìtmi? Nabízíme Vám individuální konzultace tìchto i dalších obtíí</p>
+                        <p><a title="Rodinné poradenství, terapie, vıchovné obtíe, rozvod, partnerská krize" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tuky na oèi" href="/kurzy-liceni/">
-                            <img class="img-circle param-header" src="/images/gallery/kurz5-nahled.jpg" alt="Kurzy líèení">
-                            <h2>Kurzy líèení</h2>
+                        <a class="no-decor" title="Cílené cvièení oslabenıch oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, pøedškoláci, školáci, pro dìti" href="/cviceni-oslabenych-oblasti/">
+                            <img class="img-circle param-header" src="/images/gallery/cilene-cviceni-param.jpg" alt="Cílené cvièení oslabenıch oblastí">
+                            <h2>Cvièení oslabenıch oblastí</h2>
                         </a>
-                        <p>Kurzy pro zaèáteèníky i pokroèilé. Zjistíte, jak správnì pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci, atd.</p>
-                        <p><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tuky na oèi" class="btn btn-default" href="/kurzy-liceni/" role="button">Více informací &raquo;</a></p>
+                        <p>Cvièení urèená pro dìti pøedškolního a mladšího školního vìku. Zamìøené na rozvoj pozornosti, jemné motoriky a grafomotoriky</p>
+                        <p><a title="Cílené cvièení oslabenıch oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, pøedškoláci, školáci, pro dìti" class="btn btn-default" href="/cviceni-oslabenych-oblasti/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->

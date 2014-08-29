@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vrstevnická skupina pro dìti | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Vrstevnická skupina pro dìti | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 
             <h2 class="page-heading">Vrstevnická skupina pro dìti</h2>
 
-            <p class="afterlead bold">Desetidílný cyklus je urèen pro žáky 1 -2 tøíd, 3-5 tøíd nebo 6- 9 tøíd, kteøí mají obtíže:</p>
+            <p class="afterlead bold">Desetidílný cyklus je urèen pro žáky 1-2 tøíd, 3-5 tøíd nebo 6- 9 tøíd, kteøí mají obtíže:</p>
             <ul class="afterlead">
                 <li>se zaèlenìním do skupiny</li>
                 <li>s korekcí chování doma èi ve škole</li>
@@ -38,13 +38,14 @@
                 <div class="col-lg-6">
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
-                        <tr><td>Konzultace a skupinová setkání jsou v rámci projektu Rodinného centra Slaný <b>bezplatné</b>.</td></tr>
+                        <tr><td>10 setkání, vèetnì pomùcek a závìreèné konzultace s rodièi</td> 
+                            <td class="price">1.500 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Galerie - Svatební líèení"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Galerie - Svatební líèení"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Vrstevnická skupina pro dìti, poruchy chování"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Vrstevnická skupina pro dìti, poruchy chování"/>
                 </div>
             </div>
 

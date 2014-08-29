@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>O mnì | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>O mnì | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -49,8 +49,8 @@
 
             <div class="row featurette">
                 <div class="col-md-8">
-                    <p class="lead">V souèasné dobì pracuji jako rodinný poradce v Rodinné poradnì Slaný. J
-                        sem psychoterapeutka a speciální pedagog. Zpùsob mé práce je ovlivnìn filozofií výcvikového systému 
+                    <p class="lead">V souèasné dobì pracuji jako rodinný poradce v Rodinné poradnì Slaný. 
+                        Jsem psychoterapeutka a speciální pedagog. Zpùsob mé práce je ovlivnìn filozofií výcvikového systému 
                         <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
                         jsem èlenkou Èeské arteterapeutické asociace. Vìnuji se pøedevším vztahovým a výchovným obtížím. 
                         Za nejdùležitìjší ve své práci považuji vytvoøení bezpeèného prostøedí, provázení klienta v obtížné situaci 
@@ -86,7 +86,7 @@
                     </table>
                 </div>
                 <div class="col-md-4">
-                    <img title="Jana Budková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Budková"  width="250"/>
+                    <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me.JPG" alt="Katka Pešková"  width="350"/>
                 </div>
             </div>
 

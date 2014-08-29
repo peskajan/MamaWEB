@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Svatební líèení | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Ženská skupina osobnostního rozvoje | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -39,16 +39,14 @@
                 <div class="col-lg-6">
                     <table class="afterlead">
                         <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>jedno setkání (2 hod)</td> 
-                            <td class="price">200 Kè</td></tr>
-                        <tr><td>celý cyklus (12 setkání)</td> 
-                            <td class="price">2000 Kè</td></tr>
+                        <tr><td>za cyklus (15 setkání)</td> 
+                            <td class="price">2700 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Galerie - Svatební líèení"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Galerie - Svatební líèení"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
                 </div>
             </div>
 

@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Besedy pro rodièe | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Besedy pro rodièe | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -31,6 +31,19 @@
                 Øešíte aktuálnì se svými dìtmi nìjaké problémy v chování doma èi ve škole? Chcete se dozvìdìt jaké jsou další 
                 možnosti jejich øešení? Chcete znát názor odborníka, ale i dalších rodièù, kteøí øeší podobné vìci? 
             </p>
+            
+             <div class="row">
+                <div class="col-lg-6">
+                    <table class="afterlead">
+                        <tr><th>Ceník</th></tr>
+                        <tr><td>za uèastníka</td><td>70 Kè</td></tr>
+                    </table>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
+                </div>
+                <div class="col-lg-6">
+                    <img class="example-image-link parallelogram" src="/images/gallery/beseda.jpg" alt="Besedy pro rodièe, výchova dìtí, chování dìtí doma a ve škole"/>
+                </div>
+            </div>
 
             <p class="afterlead">                 
                 Jsou urèeny všem rodièùm, kteøí  se chtìjí dozvìdìt více o možnostech výchovného pøístupu k dìtem. 
@@ -39,7 +52,7 @@
                 Každé setkání je vìnováno urèitému tématu ze života rodiny s dìtmi (domácí pøíprava na školu, odmìny a tresty ve výchovì, 
                 dítì v období prvního vzdoru, puberta, podpora mluvního projevu dìtí, dìti s poruchou uèení, nevhodné chování dìtí, usínání, 
                 jídlo ...). Rodièe si mohou sdìlit své vlastní zkušenosti a seznámit se s možnými výchovnými postupy. Setkání probíhají 
-                v dohodnutých termínech 1 x za  mìsíc v odpoledních hodinách, délka setkání  je 1-2  hod. <b>Cena besedy je 50 Kè.</b>
+                v dohodnutých termínech 1 x za  mìsíc v odpoledních hodinách, délka setkání  je 1-2  hod.
             </p>
         </div>
 

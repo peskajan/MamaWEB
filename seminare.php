@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Semináøe pro uèitele a výchovné pracovníky | Jana Budková | Líèení | Praha, Slaný a okolí</title>
+        <title>Semináøe pro uèitele a výchovné pracovníky | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -35,13 +35,12 @@
                 <div class="col-lg-6">
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
-                        <tr><td>Konzultace jsou v rámci projektu Rodinného centra Slaný <b>bezplatné</b>.</td></tr>
+                        <tr><td>Cena dohodou, závisí na rozsahu semináøe a poètu úèastníkù</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Galerie - Svatební líèení"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Galerie - Svatební líèení"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/ucitele.jpg" alt="Semináøe pro uèitele a výchovné pracovníky"/>
                 </div>
             </div>
 
