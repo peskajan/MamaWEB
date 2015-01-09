@@ -8,10 +8,11 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Rodinné poradenství | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>Rodinné poradenství, psychoterapie, arteterapie | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -24,9 +25,9 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Rodinné poradenství, terapie</h2>
+            <h2 class="page-heading">Rodinné poradenství, psychoterapie, arteterapie</h2>
 
-            <p class="afterlead bold">Je urèeno lidem v problematické partnerské èi životní situaci, napø:</p>
+            <h3 class="featurette-heading">Je urèeno lidem v problematické partnerské èi životní situaci, napø:</h3>
             <ul class="afterlead">
                 <li>problémy v komunikaci, neshody, nedorozumìní, hádky, osamìlost</li>
                 <li>neshody v oblasti kompetencí, práv a povinností èlenù rodiny</li>
@@ -40,7 +41,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <table class="afterlead">
-                        <tr><th>Ceník</th></tr>
+                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
                         <tr><td>Individuálnì</td> 
                             <td class="price">500 Kè</td></tr>
                         <tr><td>V páru</td> 
@@ -58,22 +59,66 @@
                 Poradenství probíhá v pøedem domluvených termínech, délka jednoho setkání je 1 hodina, 
                 poèet setkání záleží na domluvì klienta s poradcem. 
             </p>
-            <br>
 
-            <p class="afterlead bold">V rámci poradenství mùžete využít:</p>
+            <h3 class="featurette-heading">Poradenství</h3>
+            <p class="afterlead">        
+                Je urèeno pro ty, kteøí se potøebují zorientovat ve své situaci pøi jakékoliv osobní, vztahové èi pracovní problematice. 
+                Také pro jedince v krizové situaci, kteøí hledají oporu a potøebují získat nadhled.  Poradenství je pøíležitost zorientovat 
+                se v problému a je spíše krátkodobého charakteru. Cílem poradenství je zmapování situace a hledání vhodných prostøedkù 
+                k jejímu øešení. Vyústìním poradenství  mùže být také rozkrytí problému a následné hlubší zpracování v rámci terapie.
+            </p>
+
+            <h3 class="featurette-heading">Psychoterapie</h3>
+            <p class="afterlead">        
+                Základem  je vztah klienta a terapeuta, založený na vzájemné dùvìøe a odhodlání klienta porozumìt lépe sobì samému. 
+                Cílem je pak hlubší nahlédnutí do podstaty obtíží a následná zmìna v prožívání  a chování, která vede k aktivnìjšímu 
+                pøístupu k životu a vìtší spokojenosti klienta.
+            </p>
+
+            <h3 class="featurette-heading">Arteterapie</h3>
+            <p class="afterlead">        
+                Opírá se o výtvarný projev klienta jako o léèebný prostøedek, který umožòuje pøímìjší vyjádøení emocí, 
+                potlaèovaných myšlenek, fantazie, postupné zvìdomování vnitøních rozporù. Prožitky bìhem tvorby se dávají do souvislostí 
+                s aktuálními problémy, pomáhají pøi hledání jejich øešení. Je vhodná u dìtí, u klientù, kteøí se tìžko vyjadøují slovy, 
+                nebo jsou jimi naopak zahlceni.
+                Je urèena pro ty, kteøí se na své obtíže chtìjí podívat trochu  z jiného úhlu pohledu. Je vhodná také u zacyklených obtíží, 
+                ke kterým je obtížné dostat se pomocí slov. „Léèebný“ úèinek má i samotný proces tvoøení, který klientovi umožní zpracovat 
+                a zmìnit aktuální situaci v rámci  výtvarného procesu, spoleènì s terapeutem pak hledají paralery 
+                a možnosti zmìny i v reálném životì.
+            </p>
+
+
+            <h3 class="featurette-heading">U všech uvedených služeb mùžete využít:</h3>
             <ul class="afterlead">
-                <li><b>Individuální konzultace</b> - poradenského procesu se úèastní jen klient starší 16let a odborný pracovník</li>
-                <li><b>Párová konzultace</b> - poradenského procesu se úèastní pár, který má možnost jak spoleèných 
-                    tak individuálních konzultací s terapeutem</li>
-                <li><b>Rodinná konzultace</b> - zamìøuje  se na celou rodinu vèetnì dìtí, vìnuje pozornost vzájemným vztahùm v celé rodinì. 
+
+                <li><b>Individuální konzultace</b> - Poradenského procesu se úèastní jen klient starší 16let a odborný pracovník. 
+                    Je urèena pro ty, kteøí chtìjí více porozumìt sami sobì a koøenùm svých obtíží. Je v ní dostatek prostoru pro rozlišení 
+                    „co z toho co dìlám je  pro mì užiteèné a co mi naopak škodí“. V rámci individuální terapie mùžete hledat 
+                    jiné možnosti a tvoøivìjší zpùsoby øešení svých obtíží.</li>
+
+                <li><b>Párová konzultace</b> - Poradenského procesu se úèastní pár, který má možnost jak spoleèných 
+                    tak individuálních konzultací s terapeutem. Je urèena pro ty, kteøí prožívají krizi v partnerském vztahu a vlivem silných emocí, 
+                    vzájemného zraòování a obviòování nemohou najít a pøekonat pøíèinu krize.  Je zde prostor pochopit lépe jeden druhého 
+                    a spoleènì zmìnit to, co vztahu škodí a hledat „co potøebujeme aby nám spolu bylo lépe“.</li>
+
+                <li><b>Rodinná konzultace</b> - Zamìøuje se na celou rodinu vèetnì dìtí, vìnuje pozornost vzájemným vztahùm v celé rodinì. 
                     Konzultace samotného dítìte mladšího 16let je možná v pøípadì oznaèení problému jako rodinného, 
-                    podepsaným souhlasem zákonného zástupce</li>
+                    podepsaným souhlasem zákonného zástupce. Je urèena pro ty, kteøí se ve svém rodinném systému potýkají s tìžkou situací. 
+                    Je zde prostor pro všechny èleny rodiny uvìdomit si a øíct ostatním jak situaci vnímají a spoleènì hledat možná 
+                    východiska z aktuálnì nepøíznivé situace.</li>
             </ul>
         </div>
+        
+        <?php
+        include "./sluzby-dialog.php";
+        ?>
+        
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/services.js"></script>
     </body>
 </html>

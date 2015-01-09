@@ -18,9 +18,10 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a title="Ženská skupina osobnostního rozvoje" href="/zenska-skupina/">Ženská skupina osobnostního rozvoje</a></li>
+                        <li><a title="Sebezkušenostní semináø" href="/sebezkusenostni/">Sebezkušenostní semináø</a></li>
                         <li><a title="Vrstevnická skupina pro dìti" href="/vrstevnicka-skupina/">Vrstevnická skupina pro dìti</a></li>
                         <li><a title="Cílené cvièení oslabených oblastí" href="/cviceni-oslabenych-oblasti/">Cílené cvièení oslabených oblastí</a></li>
-                        <li><a title="Rodinné poradenství, terapie" href="/rodinne-poradenstvi/">Rodinné poradenství, terapie</a></li>
+                        <li><a title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">Rodinné poradenství, psychoterapie, arteterapie</a></li>
                         <li><a title="Semináøe pro uèitele a výchovné pracovníky" href="/seminare/">Semináøe pro uèitele a výchovné pracovníky</a></li>
                         <li><a title="Besedy pro rodièe" href="/besedy-pro-rodice/">Besedy pro rodièe</a></li>
                     </ul>

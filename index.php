@@ -68,12 +68,15 @@
                         <p><a title="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Cílené cvièení oslabených oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, pøedškoláci, školáci, pro dìti" href="/cviceni-oslabenych-oblasti/">
-                            <img class="img-circle param-header" src="/images/gallery/cilene-cviceni-param.jpg" alt="Cílené cvièení oslabených oblastí">
-                            <h2>Cvièení oslabených oblastí</h2>
+                        <a class="no-decor" title="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">
+                            <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináø">
+                            <h2>Sebezkušenostní semináø</h2>
                         </a>
-                        <p>Cvièení urèená pro dìti pøedškolního a mladšího školního vìku. Zamìøené na rozvoj pozornosti, jemné motoriky a grafomotoriky</p>
-                        <p><a title="Cílené cvièení oslabených oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, pøedškoláci, školáci, pro dìti" class="btn btn-default" href="/cviceni-oslabenych-oblasti/" role="button">Více informací &raquo;</a></p>
+                        <p>Chcete více porozumìt sami sobì?
+                            Zajímá Vás, jak pùsobíte na své okolí?
+                            Máte pocit, že se Vám dìjí vìci, kterým nerozumíte?
+                            Chcete nahlédnout do sebe trochu jinak než dosud?</p>
+                        <p><a title="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->

@@ -12,6 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -27,25 +28,18 @@
             <h2 class="page-heading">Cílené cvièení oslabených oblastí</h2>
 
             <h3 class="featurette-heading">Typy nabízených cvièení</h3>
-            <ul class="afterlead">
-                <li>cvièení pro rozvoj pozornosti u pøedškolních dìtí</li>
-                <li>cvièení pro rozvoj pozornosti KUPOZ pro 8-12 let</li>
-                <li>cvièení pro rozvoj jemné motoriky pro 3-4 leté dìti</li>
-                <li>cvièení pro rozvoj grafomotoriky u pøedškolních dìtí</li>
-            </ul>
-
             <div class="row">
                 <div class="col-lg-7">
                     <table class="afterlead">
-                        <tr><th>Ceník</th></tr>
                         <tr><td>Cvièení pro rozvoj pozornosti u pøedškolních dìtí</td> 
                             <td class="price">1 300 Kè</td></tr>
                         <tr><td>Cvièení pro rozvoj pozornosti KUPOZ pro 8-12 let</td> 
                             <td class="price">2 000 Kè</td></tr>
-                        <tr><td>Cvièení pro rozvoj grafomotoriky</td> 
+                        <tr><td>Cvièení pro rozvoj grafomotoriky u pøedškolních dìtí</td> 
                             <td class="price">1 300 Kè</td></tr>
-                        <tr><td>Cvièení pro rozvoj jemné motoriky</td> 
+                        <tr><td>Cvièení pro rozvoj jemné motoriky pro 3-4 leté dìti</td> 
                             <td class="price">1 300 Kè</td></tr>
+                        <tr><td> <a id="a-price-detail" href="" title="Podrobnìji o cenì">Podrobnìji o cenì</a></td> 
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
@@ -54,11 +48,8 @@
                 </div>
             </div>
 
-            <h3 class="featurette-heading">Zpùsob práce a èasové rozložení</h3>
-            <p class="afterlead">                 
-                Po dobu 10 týdnù dítì spolu s rodièem plní každý den tøi až ètyøi jednoduché úkoly (celkem cca 10-15 minut). 
-                Zadání a zpùsob plnìní úkolù pøedvede rodièi a dítìti odborný pracovník  1x za 14 dní pøi spoleèném setkání 
-                (tj. probìhne celkem 5 spoleèných setkání po 14 dnech, cca 15-20 minut).
+            <p class="afterlead">
+                Cena zahrnuje 5-6 setkání s odborným pracovníkem, pomùcky a materiály pro plnìní jednotlivých úkolù
             </p>
 
             <h3 class="featurette-heading">Podrobnìjší informace ke cvièení pozornosti</h3>
@@ -72,6 +63,14 @@
                 pøi koordinaci pohybù,  pøi manuálních èinnostech a pøi mluvním projevu. 
                 Jednotlivé èinnosti jsou seøazeny s narùstající nároèností a zároveò s možností obmìn tak, aby se program mohl 
                 pøizpùsobit schopnostem každého dítìte.
+            </p> 
+            <p class="afterlead bold">                 
+                Zpùsob práce a èasové rozložení:
+            </p> 
+            <p class="afterlead">                 
+                Po dobu 10 týdnù dítì spolu s rodièem plní každý den tøi až ètyøi jednoduché úkoly (celkem cca 10-15 minut). 
+                Zadání a zpùsob plnìní úkolù pøedvede rodièi a dítìti odborný pracovník  1x za 14 dní pøi spoleèném setkání 
+                (tj. probìhne celkem 5 spoleèných setkání po 14 dnech, cca 15-20 minut).
             </p> 
 
             <h3 class="featurette-heading">Podrobnìjší informace pro cvièení jemné motoriky a grafomotoriky</h3>
@@ -91,11 +90,44 @@
                 Formou hry se procvièují také jednotlivé grafické cviky. Èinnosti jsou seøazeny s narùstající nároèností a zároveò s možností 
                 obmìn tak, aby se program mohl  pøizpùsobit schopnostem každého dítìte.
             </p> 
+            <p class="afterlead bold">                 
+                Zpùsob práce a èasové rozložení:
+            </p> 
+            <p class="afterlead">                 
+                Po dobu 10 týdnù dítì spolu s rodièem plní každý den tøi až ètyøi jednoduché úkoly (celkem cca 10-15 minut). 
+                Zadání a zpùsob plnìní úkolù pøedvede rodièi a dítìti odborný pracovník  1x za 14 dní pøi spoleèném setkání 
+                (tj. probìhne celkem 5 spoleèných setkání po 14 dnech, cca 15-20 minut).
+            </p> 
+
+            <h3 class="featurette-heading">Podrobnìjší informace ke cvièení KUPOZ - (autorka PhDr. Pavla Kuncová)</h3>
+            <p class="afterlead">                 
+                Program pro rozvoj pozornosti je urèen dìtem od 7 let s  poruchami pozornosti, dìtem neklidným a nesoustøedìným i dìtem 
+                nejistým  a pomalým, s nižším sebevìdomím. Cílem je zlepšení  pozornosti a schopnosti pravidelné soustøedìné práce dìtí, 
+                zrychlení  jejich psychomotorického tempa. Bìhem spoleènì provádìných èinností se posiluje emoèní vyladìní a komunikace 
+                mezi rodièem a dítìtem a posilováno je také sebevìdomí dítìte.
+            </p> 
+            <p class="afterlead bold">                 
+                Zpùsob práce a èasové rozložení:
+            </p> 
+            <p class="afterlead">                 
+                Rodiè s dítìtem pracuje dle instrukcí s rùznými pracovními listy  každý den po dobu 15ti týdnù (cca 15 minut dennì). 
+                1x za 14 dní  probíhá konzultace s odborníkem, který s dítìtem pøedvede jednotlivé èinnosti a seznámí  rodièe  s úkoly 
+                na dalších 14 dní. Materiál obsahuje vždy ètyøi úkoly - pro rozvoj  zrakové i sluchové pozornosti, vizuomotorické 
+                koordinace a mluvních schopností dítìte , které jsou  nenásilnì procvièovány prostøednictvím  jednoduchých, 
+                hravých èinností a  pracovních listù.
+            </p> 
         </div>
+        
+        <?php
+        include "./sluzby-dialog.php";
+        ?>
+        
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/services.js"></script>
     </body>
 </html>

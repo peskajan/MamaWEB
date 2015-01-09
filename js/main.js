@@ -17,35 +17,4 @@ $(document).ready(function() {	//executed after the page has loaded
             $(this).parent().addClass('active');
         }
     });
-
-
-    $("#a-sur").click(function() {
-        $("#dialog-sur").dialog("open");
-        return false;
-    });
-    
-    $("#a-arte").click(function() {
-        $("#dialog-arte").dialog("open");
-        return false;
-    });
-
-    $("#dialog-sur").dialog({
-        autoOpen: false,
-        width: 500,
-        buttons: {
-            Ok: function() {
-                $(this).dialog("close");
-            }
-        }
-    });
-
-    $("#dialog-arte").dialog({
-        autoOpen: false,
-        width: 500,
-        buttons: {
-            Ok: function() {
-                $(this).dialog("close");
-            }
-        }
-    });
 });

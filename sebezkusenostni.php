@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Ženská skupina osobnostního rozvoje | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>Sebezkušenostní semináø | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,9 +25,33 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Ženská skupina osobnostního rozvoje</h2>
+            <h2 class="page-heading">Sebezkušenostní semináø</h2>
 
 
+            <h3 class="featurette-heading">„To jsem já - a to jsem taky já“</h3>
+            
+            <ul class="afterlead">
+                <li>setkání v malé skupinì lidí (do 10 úèastníkù), kteøí si kladou podobné otázky jako vy</li>
+                <li>hledání odpovìdí prostøednictvím tvoøivých èinností 
+                    (napø. práce se sadou „Projektivních koláží“ Miroslava Huptycha, práce s keramickou hlínou apod.)
+                    a sdílením vlastního pohledu a zkušeností </li>
+                <li>cílem setkání je váš vlastní prožitek a spoleèné nalézání odpovìdí, nepotøebujete  výtvarné schopnosti a zkušenosti </li>
+            </ul>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <table class="afterlead">
+                        <tr><td class="bold">Kdy</td><td>14.2. 9.00 - 16.00 hod</td></tr>
+                        <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
+                        <tr><td class="bold">Cena</td><td>650 Kè <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></td></tr>
+                    </table>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
+                </div>
+                <div class="col-lg-6">
+                    <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie"/>
+                </div>
+            </div>
+             
             <h3 class="featurette-heading">Proè skupina</h3>
             <ul class="afterlead">
                 <li>lidé s podobnými potøebami si mohou poskytovat vzájemnou podporu</li>
@@ -35,39 +59,7 @@
                 <li>èlenové skupiny si mohou v bezpeèném prostøedí vyzkoušet nové zpùsoby chování a jednání</li>
                 <li>pomocí zpìtné vazby od ostatních mohou lépe porozumìt svému projevu a tomu, jak pùsobí na druhé</li>
             </ul>
-            <p class="afterlead">
-                <span class="label label-success">Nová ženská skupina se otevírá od øíjna 2015.</span>
-            </p>
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <table class="afterlead">
-                        <tr><th colspan="2" >Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
-                        <tr><td>za cyklus (15 setkání)</td> 
-                            <td class="price">2700 Kè</td></tr>
-                    </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
-                </div>
-                <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
-                </div>
-            </div>
-
-
-            <h3 class="featurette-heading">Blíže k obsahu ženské skupiny</h3>
-            <ul class="afterlead">
-                <li>vždy v pondìlí 17.30 - 19.30 - celkem 15 setkání</li>
-                <li>prostor k pøemýšlení a sdílení svých názorù, radostí i starostí prostøednictvím rùzných výtvarných, verbálních i neverbálních technik</li>
-                <li>zamýšlení se nad tématy - sebepoznání, jak vidím sama sebe a jak mì vidí ostatní, vyjadøování emocí, 
-                    komunikace verbální i neverbální, moc x bezmoc, vliv pùvodní rodiny, moje rozhodování, vyrovnanost, 
-                    vztahy, ženská role ... a dalšími námìty, které s sebou èlenové skupiny pøinesou</li>
-                <li>spoleèným cílem všech èinností jsou odpovìdi na otázku „jaká jsem“ a doprovázení se na cestì „jaká chci být“</li>
-                <li>pøi práci s výtvarnými, verbálními i neverbálními technikami jde o vlastní prožitek – ne o samotné
-                    (výtvarné) dílo. Ve skupinì se tedy pracuje v souladu s mottem „není jeden správný, dobrý zpùsob, 
-                    jsou rùzné zpùsoby a všechny jsou dobré“</li>
-            </ul>
-
+            
             <h3 class="featurette-heading">Pravidla èlenství ve skupinì</h3>
             <ul class="afterlead">
                 <li>pravidlo mlèenlivosti a dùvìrnosti: to, o èem se mluví a co se dozvím na skupinì je dùvìrné, 

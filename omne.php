@@ -12,7 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
-        <link href="/js/libs/jqueryui/css/smoothness/jquery-ui.css" rel="stylesheet"> 
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -25,37 +25,24 @@
 
         <div id="content" class="main_content container">
             <h2 class="page-heading">O mnì</h2>
-
-            <div id="dialog-arte" style="width: 500px;" title="Co je arteterapie?">
-                <p>
-                    Arteterapie se opírá o výtvarný projev klienta jako o léèebný prostøedek, který umožòuje pøímìjší vyjádøení emocí, 
-                    potlaèovaných myšlenek, fantazie, postupné zvìdomování vnitøních rozporù. Prožitky bìhem tvorby se dávají 
-                    do souvislostí s aktuálními problémy, pomáhají pøi hledání jejich øešení. Je vhodná u dìtí, u klientù, 
-                    kteøí se tìžko vyjadøují slovy, nebo jsou jimi naopak zahlceni.
-                </p>
-            </div>
-
-            <div id="dialog-sur" style="width: 500px;" title="Co je SUR?">
-                <p>
-                    SUR je systém výcviku v psychoterapii založený (1967) Doc..MUDr. Jaroslavem Skálou, PhDr. Eduardem Urbanem 
-                    a MUDr. Jaromírem Rubešem. Sluèuje v sobì prvky hlubinnì psychologické, skupinovì dynamické a komunitní terapie. 
-                    Takto orientovaný psychoterapeut se setkává s klientem „tváøí tváø“, klade dùraz na vztah terapeuta a 
-                    klienta a na vzájemný respekt, chápe lidský vývoj jako celoživotní cestu s dùležitou hodnotou hledání smyslu života, 
-                    má na zøeteli dùležitost vztahù v dìtství i v souèasnosti a jedineènost osobnosti èlovìka. 
-                    Pracuje s klientem na poznání jeho vlastních vzorcù chování a porozumìní svým motivùm. 
-                    Tím napomáhá ke zmìnì postojù, hledání vhodnìjších zpùsobù øešení a zvládání aktuálních situací vlastními silami.
-                </p>
-            </div>
-
+            
             <div class="row featurette">
                 <div class="col-md-8">
-                    <p class="lead">V souèasné dobì pracuji jako rodinný poradce v Rodinné poradnì Slaný. 
+                    <p class="lead">V souèasné dobì pracuji na èásteèný úvazek jako rodinný poradce v Rodinné poradnì Slaný. 
                         Jsem psychoterapeutka a speciální pedagog. Zpùsob mé práce je ovlivnìn filozofií výcvikového systému 
                         <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
-                        jsem èlenkou Èeské arteterapeutické asociace. Vìnuji se pøedevším vztahovým a výchovným obtížím. 
+                        jsem èlenkou Èeské arteterapeutické asociace. Vìnuji se pøedevším osobnostním, vztahovým a vývojovým obtížím a 
+                        vztahové dynamice v partnerském soužití a v rodinì. 
                         Za nejdùležitìjší ve své práci považuji vytvoøení bezpeèného prostøedí, provázení klienta v obtížné situaci 
-                        a pomoc pøi hledání možných øešení.
+                        a pomoc pøi hledání možných øešení. Pravidelnì absolvuji supervizi své práce (supervizor PaedDr.  M. Chytrý). 
+                        V rámci kontinuálního vzdìlávání absolvuji rùzné workshopy, kurzy, konference... Témìø 20 let pracuji 
+                        jako speciální pedagog, v rodinném poradenství  mám 6 let praxe.
                     </p>
+                    
+                    <p class="lead">
+                        Pøi poskytování všech služeb musí být dodrženy <a id="a-podminky" href="">podmínky spolupráce</a>
+                    </p>
+                    
                     <table class="afterlead">
                         <tr><th colspan="2" >Pracovní zkušenosti</th></tr>
                         <tr><td nowrap>2009  - dosud</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smeèno</td></tr>
@@ -74,24 +61,37 @@
 
                     <table class="afterlead">
                         <tr><th colspan="2" >Dosažené vzdìlání</th></tr>
+                        <tr><td nowrap>2014</td><td>Øemeslo skupinové psychoterapie – GestaltStream (54 hod)</td></tr>
                         <tr><td nowrap>2012</td><td>licence k práci se Sadou projektivních koláží</td></tr>
                         <tr><td nowrap>2010 – 2011</td><td>Vzdìlávání v arteterapii a artefiletice – 2letý akreditovaný kurz</td></tr>
                         <tr><td nowrap>2009 – 2012</td><td>Teoretické psychoterapeutické  vzdìlávání  SUR</td></tr>
                         <tr><td nowrap>2006</td><td>Rigorózní zkouška- PF UK Praha</td></tr>
-                        <tr><td nowrap>2002 – 2008</td><td>Výcvik v psychodynamicky a hlubinnì orientované psychoterapiis arteterapeutickým zamìøením, SUR</td></tr>
+                        <tr><td nowrap>2002 – 2008</td><td>Výcvik v psychodynamicky a hlubinnì orientované psychoterapiis arteterapeutickým zamìøením, SUR (600 hod)</td></tr>
                         <tr><td nowrap>1999 – 2000</td><td>Magisterské studium - PF MU Brno, Speciální pedagogika pro mládež vyžadující zvláštní péèi</td></tr>
                         <tr><td nowrap>1993 – 1996</td><td>Bakaláøské studium - PF UK Praha,  Speciální pedagogika pro uèitelky MŠ</td></tr>
                         <tr><td nowrap>1978 - 1982</td><td>Støední pedagogická škola Nový Jièín, uèitelství v MŠ</td></tr>
                         <tr><td nowrap>1970 - 1978</td><td>Základní škola Rožnov pod Radhoštìm</td></tr>
                     </table>
+
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Další vzdìlávání, absolvované semináøe a kurzy</th></tr>
+                        <tr><td>Práce u hlinìného pole, Netradièní využití výtvarných, hudebních a dramatických technik pøi práci s dìtmi a mládeží, 
+                                Test stromu, Školící a výcvikový kurz Zulligerova diapozitového testu, Mimoslovní sdìlování, 
+                                Sociálnì psychologický zážitkovì orientovaný výcvik, Neverbální psychoterapie a komunikace, Dynamika skupinového dìní, 
+                                Jak si lidé rozumìjí,  Využití arteterapie u osob s ADHD </td></tr>
+                    </table>
+                    
                 </div>
                 <div class="col-md-4">
                     <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me.JPG" alt="Katka Pešková"  width="350"/>
                 </div>
             </div>
 
-
         </div>
+        
+        <?php
+        include "./omne-dialog.php";
+        ?>
 
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
@@ -99,5 +99,6 @@
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/about.js"></script>
     </body>
 </html>

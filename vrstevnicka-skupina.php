@@ -12,6 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -37,7 +38,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th>Ceník</th></tr>
+                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
                         <tr><td>10 setkání, vèetnì pomùcek a závìreèné konzultace s rodièi</td> 
                             <td class="price">1.500 Kè</td></tr>
                     </table>
@@ -72,10 +73,16 @@
 
         </div>
 
+        <?php
+        include "./sluzby-dialog.php";
+        ?>
+        
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/services.js"></script>
     </body>
 </html>

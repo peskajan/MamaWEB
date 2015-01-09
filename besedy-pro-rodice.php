@@ -12,6 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -25,17 +26,17 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Besedy pro rodièe</h2>
-            
+
             <p class="lead">
                 Zajímá Vás problematika urèitého vývojového období dítìte? Chcete se více dozvìdìt o výchovì dìtí? 
                 Øešíte aktuálnì se svými dìtmi nìjaké problémy v chování doma èi ve škole? Chcete se dozvìdìt jaké jsou další 
                 možnosti jejich øešení? Chcete znát názor odborníka, ale i dalších rodièù, kteøí øeší podobné vìci? 
             </p>
-            
-             <div class="row">
+
+            <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th>Ceník</th></tr>
+                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
                         <tr><td>za uèastníka</td><td>70 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
@@ -55,11 +56,17 @@
                 v dohodnutých termínech 1 x za  mìsíc v odpoledních hodinách, délka setkání  je 1-2  hod.
             </p>
         </div>
+        
+        <?php
+        include "./sluzby-dialog.php";
+        ?>
 
-            <script src="/js/libs/jquery/jquery.js"></script>
-            <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
-            <script src="/js/libs/holder.js"></script>
-            <script src="/js/libs/lightbox-2.6.min.js"></script>
-            <script src="/js/main.js"></script>
+        <script src="/js/libs/jquery/jquery.js"></script>
+        <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
+        <script src="/js/libs/holder.js"></script>
+        <script src="/js/libs/lightbox-2.6.min.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/services.js"></script>
     </body>
 </html>

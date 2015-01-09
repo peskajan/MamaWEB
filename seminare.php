@@ -12,6 +12,7 @@
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="/js/libs/jqueryui/jquery-ui.css" rel="stylesheet"> 
         <link href="/css/lightbox.css" rel="stylesheet"/>
         <link href="/css/main.css" rel="stylesheet">
     </head>
@@ -34,7 +35,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th>Ceník</th></tr>
+                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
                         <tr><td>Cena dohodou, závisí na rozsahu semináøe a poètu úèastníkù</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
@@ -43,8 +44,24 @@
                     <img class="example-image-link parallelogram" src="/images/gallery/ucitele.jpg" alt="Semináøe pro uèitele a výchovné pracovníky"/>
                 </div>
             </div>
+            
+            <h3 class="featurette-heading">Komunikace s  rodièem a dítìtem ve vypjatých situacích, prvky šikany v MŠ</h3>
+            <p class="afterlead">                 
+                <b>Urèeno:</b> uèitelkám MŠ<br>
+                <b>Obsah:</b> získat informace o  úskalích komunikace s rodièem ve vypjatých situacích a s možnými projevy šikany v MŠ. 
+                Seznámit se se základními zásadami efektivní komunikace s dospìlými i dìtmi. Osvojit si postup pøi pøípravì a realizaci 
+                rozhovoru s rodièi o problémech jejich dítìte. Vyzkoušet si konkrétní postupy  a  možné reakce  na prvky šikany v MŠ.
+            </p>
+            
+            <h3 class="featurette-heading">Pochvaly a tresty v MŠ</h3>
+            <p class="afterlead">                 
+                <b>Urèeno:</b> uèitelkám MŠ<br>
+                <b>Obsah:</b> seznámit se s problematikou odmìn a trestù ve výchovì dìtí, s vhodnými postupy pøi jejich využívání. 
+                Osvojit si základní zásady pøístupu k dìtem pøedškolního vìku a zpùsobu jejich oceòování a výchovného vedení. 
+                Získat informace a konkrétní námìty k podpoøe vzájemného respektování mezi dìtmi i vyjadøování respektu a ocenìní ze strany uèitelky MŠ.
+            </p>
 
-            <h3 class="featurette-heading">Název semináøe: Relaxace pro dìti</h3>
+            <h3 class="featurette-heading">Relaxace pro dìti</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám mateøských škol a 1. –2. roèníku základních škol<br>
                 <b>Obsah:</b> praktický semináø zamìøený na možnosti relaxace dìtí pøedškolního a mladšího školního vìku. 
@@ -54,7 +71,7 @@
                 formou sebezkušenosti.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Preventivní logopedické chvilky</h3>
+            <h3 class="featurette-heading">Preventivní logopedické chvilky</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> Semináø zamìøený na další obohacení rejstøíku logopedických aktivit, respektujících pøedpokládaný 
@@ -63,7 +80,7 @@
                 výmìna zkušeností z preventivní praxe, zásobník èinností k jednotlivým oblastem.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Hry pro zvládání agresivity a neklidu </h3>
+            <h3 class="featurette-heading">Hry pro zvládání agresivity a neklidu </h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelùm 1. a 2. stupnì ZŠ, vychovatelùm ŠD nebo uèitelkám MŠ<br>
                 <b>Obsah:</b> zážitkový semináø zamìøený na praktické vyzkoušení možných technik a èinností, které pomáhají pøi zvládání 
@@ -73,7 +90,7 @@
                 zprostøedkovat èinností, které povedou k obohacení zpùsobù chování a jednání v konfliktní situaci.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Tøídní klima, komunikace v ZŠ</h3>
+            <h3 class="featurette-heading">Tøídní klima, komunikace v ZŠ</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám ZŠ (vhodné je rozdìlení na 1.a 2. stupeò ZŠ)<br>
                 <b>Obsah:</b> praktický semináø zamìøený na zmapování a zlepšování klimatu tøídy a zefektivnìní komunikace pedagoga se 
@@ -82,7 +99,7 @@
                 spolupráce a komunikace dìtí ve tøídì.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Cvièení pro rozvoj pozornosti</h3>
+            <h3 class="featurette-heading">Cvièení pro rozvoj pozornosti</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ nebo uèitelkám ZŠ<br>
                 <b>Obsah:</b> Praktický semináø zamìøený na prodlužování  doby koncentrace pozornosti a její procvièování u dìtí 
@@ -91,7 +108,7 @@
                 relaxaèními  chvilkami,  vhodnými na zaøazení do denního režimu, které rovnìž posilují koncentraci pozornosti dìtí.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Neklidné a nesoustøedìné dítì</h3>
+            <h3 class="featurette-heading">Neklidné a nesoustøedìné dítì</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ  nebo uèitelkám ZŠ, vychovatelkám ve ŠD<br>
                 <b>Obsah:</b> semináø zamìøený na obecný  úvod do problematiky dìtí  s obtížemi se soustøedìním, 
@@ -101,7 +118,7 @@
                 dìtmi a mohou si  navzájem vymìnit zkušenosti ze své praxe.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Nástup dítìte do ZŠ – školní zralost</h3>
+            <h3 class="featurette-heading">Nástup dítìte do ZŠ – školní zralost</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> praktický semináø zamìøený na pedagogickou diagnostiku dítìte pøedškolního vìku a na možnosti spolupráce MŠ 
@@ -110,7 +127,7 @@
                 zamìøených na procvièování jednotlivých oblastí dùležitých pro úspìšné zvládnutí nárokù školy.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Rozvoj sociálních dovedností dìtí pøedškolního vìku</h3>
+            <h3 class="featurette-heading">Rozvoj sociálních dovedností dìtí pøedškolního vìku</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> praktický semináø zamìøený na rozvoj sociálních kompetencí dìtí. Souèástí semináøe je seznámení s 
@@ -121,7 +138,7 @@
                 V semináøi budou využity techniky skupinové práce, práce ve dvojicích, brainstorming, diskuse a situaèní uèení.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Problémové dítì v MŠ</h3>
+            <h3 class="featurette-heading">Problémové dítì v MŠ</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> sebezkušenostní semináø zamìøený na bližší porozumìní a rozšíøení výchovných možností pøi práci s 
@@ -131,7 +148,7 @@
                 V semináøi budou využity techniky skupinové práce, práce ve dvojicích, brainstorming, diskuse a situaèní uèení.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Rozvoj grafomotoriky v pøedškolním vìku</h3>
+            <h3 class="featurette-heading">Rozvoj grafomotoriky v pøedškolním vìku</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> seznámit se s možnostmi podpory pøirozeného vývoje grafických dovedností u dìtí PV. 
@@ -141,7 +158,7 @@
                 programy a s  podporujícími aktivitami v rámci bìžných èinností v MŠ.
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Efektivní komunikace s dìtmi v MŠ</h3>
+            <h3 class="featurette-heading">Efektivní komunikace s dìtmi v MŠ</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> praktický semináø zamìøený na zmapování a zlepšování komunikace mezi dìtmi v MŠ  a zefektivnìní 
@@ -150,7 +167,7 @@
                 které naopak komunikaci  podporují.  Souèástí semináøe bude tvorba zásobníku her a èinností  posilujících efektivní komunikaci. 
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Sociální dovednosti pøedškolního pedagoga</h3>
+            <h3 class="featurette-heading">Sociální dovednosti pøedškolního pedagoga</h3>
             <p class="afterlead">                 
                 <b>Urèeno:</b> uèitelkám MŠ<br>
                 <b>Obsah:</b> praktický semináø zamìøený na zvìdomìní a posilování sociálních dovedností uèitelek MŠ v souvislosti s 
@@ -161,7 +178,7 @@
                 (odezírání, nápodoba, zpevòování a pozitivní oèekáván í).
             </p>
 
-            <h3 class="featurette-heading">Název semináøe: Jak pracovat s únavou, stresem a syndromem vyhoøení u uèitelù</h3>
+            <h3 class="featurette-heading">Jak pracovat s únavou, stresem a syndromem vyhoøení u uèitelù</h3>
             <p class="afterlead">
                 <b>Urèeno:</b> uèitelkám ZŠ nebo uèitelkám MŠ<br>
                 <b>Obsah:</b> sebezkušenostní semináø zamìøený na možnosti pøedcházení syndromu vyhoøení. V rámci semináøe se úèastnice 
@@ -171,10 +188,17 @@
             </p>
 
         </div>
+        
+        <?php
+        include "./sluzby-dialog.php";
+        ?>
+        
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>
         <script src="/js/libs/holder.js"></script>
         <script src="/js/libs/lightbox-2.6.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/services.js"></script>
     </body>
 </html>
