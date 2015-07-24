@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Sebezkušenostní semináø | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>Sebezkušenostní semináøe | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,10 +25,50 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Sebezkušenostní semináø</h2>
+            <h2 class="page-heading">Sebezkušenostní semináøe</h2>
 
-
-            <h3 class="featurette-heading">„To jsem já - a to jsem taky já“</h3>
+            <h3 class="featurette-heading">Termíny a témata semináøù</h3>
+            <div class="row">
+                <div class="col-lg-6">
+                    <table class="afterlead">
+                        <tr>
+                            <td><span class="label label-success">3.10.2015</span></td>
+                            <td>Osobní síla, vnitøní zdroje</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">5.12.2015</span></td>
+                            <td>Mùj støed a rovnováha</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">16.1.2016</span></td>
+                            <td>Já a mùj stín</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">12.3.2016</span></td>
+                            <td>Já jako matka - otec</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">7.5.2016</span></td>
+                            <td>Práce s hnìvem</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">11.6.2016</span></td>
+                            <td>Práce se sny</td> 
+                        </tr>
+                        <tr>
+                            <td class="td-top-margin"colspan="2">Setkání probìhnou vždy v sobotu od 13:00 do 18:00 hod</td> 
+                        </tr>
+                    </table>
+                    <table class="afterlead">
+                        <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
+                        <tr><td class="bold">Cena</td><td>550 Kè <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></td></tr>
+                    </table>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
+                </div>
+                <div class="col-lg-6">
+                    <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináøe, skupinová terapie, pro ženy, arteterapie"/>
+                </div>
+            </div>
             
             <ul class="afterlead">
                 <li>setkání v malé skupinì lidí (do 10 úèastníkù), kteøí si kladou podobné otázky jako vy</li>
@@ -38,20 +78,6 @@
                 <li>cílem setkání je váš vlastní prožitek a spoleèné nalézání odpovìdí, nepotøebujete  výtvarné schopnosti a zkušenosti </li>
             </ul>
 
-            <div class="row">
-                <div class="col-lg-6">
-                    <table class="afterlead">
-                        <tr><td class="bold">Kdy</td><td>14.2. 9.00 - 16.00 hod</td></tr>
-                        <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
-                        <tr><td class="bold">Cena</td><td>650 Kè <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></td></tr>
-                    </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
-                </div>
-                <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie"/>
-                </div>
-            </div>
-             
             <h3 class="featurette-heading">Proè skupina</h3>
             <ul class="afterlead">
                 <li>lidé s podobnými potøebami si mohou poskytovat vzájemnou podporu</li>

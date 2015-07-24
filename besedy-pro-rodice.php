@@ -32,16 +32,60 @@
                 Øešíte aktuálnì se svými dìtmi nìjaké problémy v chování doma èi ve škole? Chcete se dozvìdìt jaké jsou další 
                 možnosti jejich øešení? Chcete znát názor odborníka, ale i dalších rodièù, kteøí øeší podobné vìci? 
             </p>
-
+            
+            
+            <h3 class="featurette-heading">Termíny a témata besed</h3>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-7">
+                    <table class="afterlead">
+                        <tr>
+                            <td><span class="label label-success">17.9.2015</span></td>
+                            <td>Zmìny v rodinném systému s pøíchodem dítìte</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">8.10.2015</span></td>
+                            <td>Potøeby dítìte a jejich naplòování</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">12.11.2015</span></td>
+                            <td>Styly výchovy, pøístup k dítìti</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">21.1.2016</span></td>
+                            <td>Podpora všestranného vývoje dítìte</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">18.2.2016</span></td>
+                            <td>Podpora vývoje øeèi</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">17.3.2016</span></td>
+                            <td>Vyjadøování emocí v rodinì</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">21.4.2016</span></td>
+                            <td>Posilování komunikace v rodinì</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">19.5.2016</span></td>
+                            <td>Podpora sourozeneckých vztahù</td> 
+                        </tr>
+                        <tr>
+                            <td><span class="label label-success">16.6.2016</span></td>
+                            <td>Partnerské obtíže a dítì</td> 
+                        </tr>
+                        <tr>
+                            <td class="td-top-margin" colspan="2">Všechny besedy zaèínají v 16:30</td> 
+                        </tr>
+                    </table>
+                    
                     <table class="afterlead">
                         <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
-                        <tr><td>za uèastníka</td><td>70 Kè</td></tr>
+                        <tr><td>za besedu</td><td>70 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                     <img class="example-image-link parallelogram" src="/images/gallery/beseda.jpg" alt="Besedy pro rodièe, výchova dìtí, chování dìtí doma a ve škole"/>
                 </div>
             </div>

@@ -422,6 +422,10 @@ a.no-decor:focus {
     font-style:italic;
 }
 
+.td-top-margin {
+    padding-top: 25px;
+}
+
 .parallelogram {
     width: 175px;
     border-radius: 50px 5px 50px 5px;

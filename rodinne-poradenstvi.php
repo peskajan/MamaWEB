@@ -46,6 +46,9 @@
                             <td class="price">500 Kè</td></tr>
                         <tr><td>V páru</td> 
                             <td class="price">700 Kè</td></tr>
+                        <tr>
+                            <td class="td-top-margin" colspan="2">pøi dlouhodobìjší spolupráci cena dohodou</td> 
+                        </tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>

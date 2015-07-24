@@ -83,7 +83,7 @@
                     
                 </div>
                 <div class="col-md-4">
-                    <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me.JPG" alt="Katka Pešková"  width="350"/>
+                    <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me1.JPG" alt="Katka Pešková"  width="350"/>
                 </div>
             </div>
 

@@ -60,11 +60,11 @@
                         <p><a title="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/zenska-skupina/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize" href="/rodinne-poradenstvi/">
-                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Rodinné poradenství">
-                            <h2>Rodinné poradenství</h2>
+                        <a class="no-decor" title="Besedy pro rodièe, výchovné obtíže, výchova dítìte" href="/besedy-pro-rodice/">
+                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Besedy pro rodièe">
+                            <h2>Besedy pro rodièe</h2>
                         </a>
-                        <p>Máte aktuálnì obtíže v komunikaci s partnerem? Øešíte složitou rozvodovou situaci? Øešíte výchovné potíže s Vašimi dìtmi? Nabízíme Vám individuální konzultace tìchto i dalších obtíží</p>
+                        <p>Volnì pøístupné besedy zamìøené na pozitivní rodièovství. Široký okruh témat - je na Vás, které si vyberete.</p>
                         <p><a title="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">

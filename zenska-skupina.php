@@ -36,7 +36,7 @@
                 <li>pomocí zpìtné vazby od ostatních mohou lépe porozumìt svému projevu a tomu, jak pùsobí na druhé</li>
             </ul>
             <p class="afterlead">
-                <span class="label label-success">Nová ženská skupina se otevírá od øíjna 2015.</span>
+                <span class="label label-success">Nová ženská skupina zaèíná 14.9.2015 - neváhejte a pøihlašte se.</span>
             </p>
 
             <div class="row">
@@ -57,7 +57,7 @@
 
             <h3 class="featurette-heading">Blíže k obsahu ženské skupiny</h3>
             <ul class="afterlead">
-                <li>vždy v pondìlí 17.30 - 19.30 - celkem 15 setkání</li>
+                <li>vždy v pondìlí 17.45 - 19.45 - celkem 15 setkání</li>
                 <li>prostor k pøemýšlení a sdílení svých názorù, radostí i starostí prostøednictvím rùzných výtvarných, verbálních i neverbálních technik</li>
                 <li>zamýšlení se nad tématy - sebepoznání, jak vidím sama sebe a jak mì vidí ostatní, vyjadøování emocí, 
                     komunikace verbální i neverbální, moc x bezmoc, vliv pùvodní rodiny, moje rozhodování, vyrovnanost, 
