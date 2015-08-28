@@ -26,39 +26,137 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Sebezkušenostní semináøe</h2>
+            <ul class="lead">
+                <li>setkání v malé skupinì lidí (do 10 úèastníkù), kteøí si kladou podobné otázky jako vy</li>
+                <li>hledání odpovìdí prostøednictvím tvoøivıch èinností 
+                    (napø. práce se sadou „Projektivních koláí“ Miroslava Huptycha, práce s keramickou hlínou apod.)
+                    a sdílením vlastního pohledu a zkušeností </li>
+                <li>cílem setkání je váš vlastní proitek a spoleèné nalézání odpovìdí, nepotøebujete  vıtvarné schopnosti a zkušenosti </li>
+            </ul>
 
             <h3 class="featurette-heading">Termíny a témata semináøù</h3>
+            
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default" id="panel1">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion">
+                                <span class="label label-primary">3.10.2015</span> Osobní síla, vnitøní zdroje
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            Setkání pro všechny, kteøí se nìkdy cítí unavení a bez nálady, zamıšlejí se nad vlastními vnitøními zdroji a pokládají si napø. otázku - 
+                            pøi jakıch èinnostech „nabírám energii“ a je vıbìr, kterı mám k dispozici dostateènı? Co pomáhá druhım, kde oni èerpají energii – 
+                            mùu nìkterou monost pøevzít od nich? Jak vypadá moje síla a její zdroj – je to silnı pramen, nebo „vysychající studánka“ a mùu ji nìjak „vyèistit“?
+                            V jakıch situacích se potıkám s pocitem, e „na prameni sedí ába“? Mùu to nìjak zmìnit?
+
+                            Cílem setkání bude spoleèné hledání odpovìdí na tyto a podobné otázky, na které v bìném ivotì není vhodná pøíleitost a èas.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel2">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">5.12.2015</span> Mùj støed a rovnováha
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Kadı z nás má urèité poøadí ivotních hodnot, vìcí, které jsou pro nìj dùleité. Tıkají se jednotlivıch oblastí našeho ivota, 
+                            a u jsou to vztahy, práce, zdraví, rodina.. a jejich naplòování pøináší do ivota rovnováhu a spokojenost. 
+                            Nìkdy si ale své poøadí hodnot pøíliš neuvìdomujeme nebo podle nich z rùznıch dùvodù neijeme. To s sebou pøináší pocity nejistoty a nespokojenosti, 
+                            vychılení z rovnováhy, pocit ztráty smyslu ivota. Setkání bude vìnované uvìdomìní si vlastního hodnotového 
+                            ebøíèku a hledání vlastního støedu a rovnováhy.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary"> 16.1.2016</span> Já a mùj stín
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Stín pøedstavuje odvrácenou stránku „našeho já“- naši nevìdomou, „temnou“ èi odmítanou a „neitou“ stránku - pøesto patøí do struktury naší 
+                            osobnosti stejnì jako naše vìdomé, pøijímané stránky. Uvìdomìní a zpracování vlastního stínu patøí k osobnostnímu rùstu jedince. 
+                            Se zpracováním kadého „stínového tématu“ se pøibliujeme poznání, e štìstí a vyrovnanost nepøichází, kdy dostáváme to co chceme, 
+                            ale kdy zaèneme chtít to, co máme, kdy si toho váíme. Setkání bude vìnováno „seznámení se“ se svım stínem a monostem jeho postupného zpracovávání.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel4">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">12.3.2016</span> Já jako matka - otec
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse4" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Rodièovská role je dùleitou souèástí identity dospìlého èlovìka, má znaènı vliv na osobnost èlovìka, jeho uvaování, emoce a mezilidské vztahy.
+                            Na rozdíl od ostatních ivotních rolí je role otce a matky nevratná (nemùeme pøestat bıt rodièem). Spokojenost èi nespokojenost s tím, 
+                            jak tuto roli zvládáme a naplòujeme vıraznì ovlivòuje naši celkovou pohodu a sebepojetí. Setkání bude zamìøeno na naše pocity spojené 
+                            s rodièovskou rolí a na monosti jejich pozitivního ovlivòování.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel5">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">7.5.2016</span> Práce s hnìvem
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse5" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Hnìv je naše emoèní reakce na situaci, která nás drádí. Je „ivenı“ pocitem køivdy, zklamání, ublíení, odmítnutí èi trapnosti. 
+                            Mùe bıt smìøován smìrem ven i dovnitø (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umoòuje reagovat 
+                            na nebezpeèí, díky hnìvu získáváme energii na øešení situace. Zároveò nás hnìv upozoròuje na nìco dùleitého, èemu moná vìdomì èi 
+                            nevìdomì nevìnujeme dostateènou pozornost. V setkání se zamyslíme nad svım zpùsobem proívání a zpracovávání hnìvu a nad moností pøípadné zmìny.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel6">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse6" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">11.6.2016</span> Práce se sny
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse6" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Proè se mi zdálo právì toto, co to mìlo znamenat? Dává mi sen nìjaké odpovìdi na aktuální situaci a jak mu mám rozumìt? 
+                            Proè se mi opakuje podobnı sen? Jak dál pracovat se sny? Odpovìdím na tyto a podobné otázky bude vìnováno další sobotní setkání. 
+                            Sny nás mohou vést k pøehodnocení rùznıch stanovisek, upozornit na vìci, kterıch si nevšímáme, opomíjíme. Budeme pracovat se sny, 
+                            které si „pøinesete“, hledat jejich spojitost s aktuální osobní situací. Vyzkoušíme nìkteré monosti další práce se sny, jejich 
+                            pochopení a pøesahu do reality.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
             <div class="row">
                 <div class="col-lg-6">
-                    <table class="afterlead">
-                        <tr>
-                            <td><span class="label label-success">3.10.2015</span></td>
-                            <td>Osobní síla, vnitøní zdroje</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">5.12.2015</span></td>
-                            <td>Mùj støed a rovnováha</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">16.1.2016</span></td>
-                            <td>Já a mùj stín</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">12.3.2016</span></td>
-                            <td>Já jako matka - otec</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">7.5.2016</span></td>
-                            <td>Práce s hnìvem</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">11.6.2016</span></td>
-                            <td>Práce se sny</td> 
-                        </tr>
-                        <tr>
-                            <td class="td-top-margin"colspan="2">Setkání probìhnou vdy v sobotu od 13:00 do 18:00 hod</td> 
-                        </tr>
-                    </table>
+                    <p class="afterlead margin-top-space">
+                        Setkání probìhnou vdy v sobotu od 13:00 do 18:00 hod
+                    </p>
                     <table class="afterlead">
                         <tr><td class="bold">Kde</td><td>Slanı, Wilsonova 597</td></tr>
                         <tr><td class="bold">Cena</td><td>550 Kè <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></td></tr>
@@ -70,14 +168,6 @@
                 </div>
             </div>
             
-            <ul class="afterlead">
-                <li>setkání v malé skupinì lidí (do 10 úèastníkù), kteøí si kladou podobné otázky jako vy</li>
-                <li>hledání odpovìdí prostøednictvím tvoøivıch èinností 
-                    (napø. práce se sadou „Projektivních koláí“ Miroslava Huptycha, práce s keramickou hlínou apod.)
-                    a sdílením vlastního pohledu a zkušeností </li>
-                <li>cílem setkání je váš vlastní proitek a spoleèné nalézání odpovìdí, nepotøebujete  vıtvarné schopnosti a zkušenosti </li>
-            </ul>
-
             <h3 class="featurette-heading">Proè skupina</h3>
             <ul class="afterlead">
                 <li>lidé s podobnımi potøebami si mohou poskytovat vzájemnou podporu</li>

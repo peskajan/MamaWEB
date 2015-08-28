@@ -33,52 +33,173 @@
                 možnosti jejich øešení? Chcete znát názor odborníka, ale i dalších rodièù, kteøí øeší podobné vìci? 
             </p>
             
-            
             <h3 class="featurette-heading">Termíny a témata besed</h3>
+
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default" id="panel1">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion">
+                                <span class="label label-primary">17.9.2015</span>Zmìny v rodinném systému s pøíchodem dítìte
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            Beseda zamìøená na vìtší porozumìní zmìnám, které se po narození dítìte v rodinì odehrávají a možnostem, jak se na tyto zmìny pøipravit a zvládat je. 
+                            Mluvit budeme také o vhodné struktuøe rodinného systému a o jednotlivých rolích v ní. O tom jak se vzájemnì podporovat, abychom pro dítì vytvoøili 
+                            bezpeèné a pøívìtivé prostøedí a umožnili mu vytvoøení zdravé citové vazby (attachment). Na co si dát pozor abychom s pøijetím rodièovské role 
+                            zároveò nepøestali být párem. Prostor bude jednak na názory odborníkù, ale také na vaše dotazy a vlastní zkušenosti.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel2">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">8.10.2015</span> Potøeby dítìte a jejich naplòování
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Co jsou to lidské potøeby a jak jsme k jejich naplòování my i dítì geneticky vybaveni. Proè jsou pro zdravý vývoj dítìte dùležité a jakým 
+                            zpùsobem je pøimìøenì naplòovat. Mluvit budeme o potøebách fyzických i psychických, vìnovat se budeme konkrétním zpùsobùm jejich uspokojování a 
+                            možným úskalím, která se pøitom mohou objevit.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">12.11.2015</span> Styly výchovy, pøístup k dítìti
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Spoleèné hledání odpovìdí na otázky – co nás samotné ovlivòuje pøi výchovì dítìte? Co je to temperament a jak ovlivòuje výchovu? 
+                            Jakým zpùsobem je možné dítì vychovávat? Jaká jsou úskalí jednotlivých výchovných pøístupù? Proè je dùležitá jednotnost rodièù? 
+                            Co to znamená, když se øekne dùslednost ve výchovì? Co doporuèují odborníci? Jaké jsou naše vlastní zkušenosti, co se nám daøí a co nedaøí?
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel4">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">21.1.2016</span> Podpora všestranného vývoje dítìte
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse4" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            V rámci vývoje dítìte se dìje øada zákonitých zmìn, které svým výchovným pøístupem mùžeme podpoøit, ale také jim nevìdomì bránit. 
+                            Beseda bude zamìøená na zmapování a porozumìní jednotlivým vývojovým úkolùm. Na uvìdomìní si jejich významu pro zdravý duševní vývoj 
+                            dítìte a na konkrétní možnosti, jak dítìti pomoci je dobøe zvládnout. Vìnovat se budeme také jednotlivým oblastem vývoje v pøedškolním vìku a 
+                            konkrétním èinnostem, které tento vývoj podporují.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel5">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">18.2.2016</span> Podpora vývoje øeèi
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse5" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Beseda zamìøená na to, jak by mìl probíhat pøirozený vývoj øeèi v jednotlivých jazykových rovinách. Na vnitøní a vnìjší podmínky, 
+                            které správný vývoj øeèi podmiòují a zmínìny budou také možné poruchy øeèi. Souèástí besedy bude seznámení s konkrétními èinnostmi, 
+                            kterými rodièe mohou podporovat komunikaèní dovednosti dítìte.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel6">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse6" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">17.3.2016</span> Vyjadøování emocí v rodinì
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse6" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            V rámci besedy budeme spoleènì hledat odpovìdi na tyto a další otázky - Co jsou to emoce a jak ovlivòují život èlovìka? 
+                            Jak v rámci emocí pracuje náš mozek? Proè je dùležité uèit dìti porozumìt svým emocím, pojmenovávat je a ne je potlaèovat? 
+                            Jak uèit dítì pøimìøeným zpùsobem vyjadøovat své emoce? Jak mírnit silné reakce dítìte, jak na nì reagovat?
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel7">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse7" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">21.4.2016</span> Posilování komunikace v rodinì
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse7" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Beseda urèená rodièùm, kteøí si pokládají napø. tyto otázky - Jaké jsou základní pøekážky v komunikaci a jak se jim v rodinì vyhýbat? 
+                            Jak máme dítì nauèit zvládat konflikty, umìt se domluvit? Co jsou to „já výroky“ a jak je využívat? Jak máme mluvit s dítìtem, abychom podporovali vývoj 
+                            jeho osobnosti a sociální dovednosti?
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel8">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse8" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">19.5.2016</span> Podpora sourozeneckých vztahù
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse8" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Beseda je zamìøená na význam sourozeneckých vztahù pro sociální a emoèní vývoj dìtí. Zamìøíme se na jednotlivé pozice narození – jejich 
+                            výhody a úskalí a na zpùsob, jakým mohou rodièe zdravé sourozenecké vztahy posilovat.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel9">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse9" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">16.6.2016</span> Partnerské obtíže a dítì
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse9" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Každý pár prochází bìhem spoleèného soužití rùznými krizovými situacemi. Nìkteré z nich jsou dány zákonitì- vývojovì tj. procházejí 
+                            jimi všechny páry ( spoleèná domácnost, narození dítìte, opadnutí zamilovanosti...), nìkteré jsou specifické pro daný pár. 
+                            Všechny ovšem ovlivòují nejen pár samotný, ale také jejich dìti. Beseda bude zamìøená na zvládání tìchto krizových situací s ohledem 
+                            na maximální snížení negativního dopadu na dìti.
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+            
             <div class="row">
                 <div class="col-lg-7">
-                    <table class="afterlead">
-                        <tr>
-                            <td><span class="label label-success">17.9.2015</span></td>
-                            <td>Zmìny v rodinném systému s pøíchodem dítìte</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">8.10.2015</span></td>
-                            <td>Potøeby dítìte a jejich naplòování</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">12.11.2015</span></td>
-                            <td>Styly výchovy, pøístup k dítìti</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">21.1.2016</span></td>
-                            <td>Podpora všestranného vývoje dítìte</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">18.2.2016</span></td>
-                            <td>Podpora vývoje øeèi</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">17.3.2016</span></td>
-                            <td>Vyjadøování emocí v rodinì</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">21.4.2016</span></td>
-                            <td>Posilování komunikace v rodinì</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">19.5.2016</span></td>
-                            <td>Podpora sourozeneckých vztahù</td> 
-                        </tr>
-                        <tr>
-                            <td><span class="label label-success">16.6.2016</span></td>
-                            <td>Partnerské obtíže a dítì</td> 
-                        </tr>
-                        <tr>
-                            <td class="td-top-margin" colspan="2">Všechny besedy zaèínají v 16:30</td> 
-                        </tr>
-                    </table>
-                    
+                    <p class="afterlead margin-top-space">
+                        Všechny besedy zaèínají v 16:30
+                    </p>
                     <table class="afterlead">
                         <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
                         <tr><td>za besedu</td><td>70 Kè</td></tr>
@@ -100,7 +221,7 @@
                 v dohodnutých termínech 1 x za  mìsíc v odpoledních hodinách, délka setkání  je 1-2  hod.
             </p>
         </div>
-        
+
         <?php
         include "./sluzby-dialog.php";
         ?>
