@@ -24,6 +24,7 @@
                         <li><a title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">Rodinné poradenství, psychoterapie, arteterapie</a></li>
                         <li><a title="Semináøe pro uèitele a výchovné pracovníky" href="/seminare/">Semináøe pro uèitele a výchovné pracovníky</a></li>
                         <li><a title="Besedy pro rodièe" href="/besedy-pro-rodice/">Besedy pro rodièe</a></li>
+                        <li><a title="KUDYKAM - skupina pro dospívající" href="/kudykam/">KUDYKAM - skupina pro dospívající</a></li>
                     </ul>
                 </li>
                 <li><a title="Kontakty - email, telefon" href="/kontakty/"><span class="glyphicon glyphicon-envelope"></span> Kontakty</a></li>

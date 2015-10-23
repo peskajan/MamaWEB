@@ -79,6 +79,13 @@
                         <p><a title="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
+                <div class="row margin-top-space">
+                    <div class="col-lg-12">
+                        <a class="no-decor" title="KUDYKAM - vztahy s rodièi, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana" href="/kudykam/">
+                            <img class="param-header full-width" src="/images/gallery/kdkm-logo.jpg" alt="Kudy kam - skupina pro dospívající">
+                        </a>
+                    </div>
+                </div><!-- /.row -->
             </div><!-- /.container -->
         </div>
 

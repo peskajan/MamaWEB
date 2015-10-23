@@ -36,7 +36,7 @@
                 <li>pomocí zpìtné vazby od ostatních mohou lépe porozumìt svému projevu a tomu, jak pùsobí na druhé</li>
             </ul>
             <p class="afterlead">
-                <span class="label label-success">Nová ženská skupina zaèíná 14.9.2015 - neváhejte a pøihlašte se.</span>
+                <span class="label label-success">Nová ženská skupina zaèíná 25.1.2016 (do 9.5.2016) - neváhejte a pøihlašte se.</span>
             </p>
 
             <div class="row">

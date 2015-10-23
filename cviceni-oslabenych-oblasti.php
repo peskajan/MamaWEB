@@ -32,13 +32,13 @@
                 <div class="col-lg-7">
                     <table class="afterlead">
                         <tr><td>Cvièení pro rozvoj pozornosti u pøedškolních dìtí</td> 
-                            <td class="price">1 300 Kè</td></tr>
+                            <td class="price">1 000 Kè</td></tr>
                         <tr><td>Cvièení pro rozvoj pozornosti KUPOZ pro 8-12 let</td> 
-                            <td class="price">2 000 Kè</td></tr>
+                            <td class="price">1 500 Kè</td></tr>
                         <tr><td>Cvièení pro rozvoj grafomotoriky u pøedškolních dìtí</td> 
-                            <td class="price">1 300 Kè</td></tr>
+                            <td class="price">1 000 Kè</td></tr>
                         <tr><td>Cvièení pro rozvoj jemné motoriky pro 3-4 leté dìti</td> 
-                            <td class="price">1 300 Kè</td></tr>
+                            <td class="price">1 000 Kè</td></tr>
                         <tr><td> <a id="a-price-detail" href="" title="Podrobnìji o cenì">Podrobnìji o cenì</a></td> 
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
