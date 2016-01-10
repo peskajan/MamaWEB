@@ -40,13 +40,13 @@
                 <div class="panel panel-default" id="panel1">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion">
-                                <span class="label label-primary">3.10.2015</span> Osobní síla, vnitøní zdroje
+                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion" class="collapsed">
+                                <span class="label label-default">3.10.2015</span> Osobní síla, vnitøní zdroje
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseOne" class="panel-collapse collapse in">
+                    <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
                             Setkání pro všechny, kteøí se nìkdy cítí unavení a bez nálady, zamýšlejí se nad vlastními vnitøními zdroji a pokládají si napø. otázku - 
                             pøi jakých èinnostech „nabírám energii“ a je výbìr, který mám k dispozici dostateèný? Co pomáhá druhým, kde oni èerpají energii – 
@@ -61,7 +61,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">5.12.2015</span> Mùj støed a rovnováha
+                                <span class="label label-default">5.12.2015</span> Mùj støed a rovnováha
                             </a>
                         </h4>
 
@@ -79,13 +79,13 @@
                 <div class="panel panel-default" id="panel3">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
+                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion">
                                 <span class="label label-primary"> 16.1.2016</span> Já a mùj stín
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div id="collapseThree" class="panel-collapse collapse in">
                         <div class="panel-body">
                             Stín pøedstavuje odvrácenou stránku „našeho já“- naši nevìdomou, „temnou“ èi odmítanou a „nežitou“ stránku - pøesto patøí do struktury naší 
                             osobnosti stejnì jako naše vìdomé, pøijímané stránky. Uvìdomìní a zpracování vlastního stínu patøí k osobnostnímu rùstu jedince. 
@@ -159,7 +159,7 @@
                     </p>
                     <table class="afterlead">
                         <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
-                        <tr><td class="bold">Cena</td><td>550 Kè <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></td></tr>
+                        <tr><td class="bold">Cena</td><td>550 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
                 </div>

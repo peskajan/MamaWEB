@@ -65,7 +65,7 @@
                             <h2>Besedy pro rodièe</h2>
                         </a>
                         <p>Volnì pøístupné besedy zamìøené na pozitivní rodièovství. Široký okruh témat - je na Vás, které si vyberete.</p>
-                        <p><a title="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
+                        <p><a title="Besedy pro rodièe, výchovné obtíže, výchova dítìte" class="btn btn-default" href="/besedy-pro-rodice/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
                         <a class="no-decor" title="Sebezkušenostní semináø, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">

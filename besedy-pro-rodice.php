@@ -39,13 +39,13 @@
                 <div class="panel panel-default" id="panel1">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion">
-                                <span class="label label-primary">17.9.2015</span>Zmìny v rodinném systému s pøíchodem dítìte
+                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion" class="collapsed">
+                                <span class="label label-default">17.9.2015</span>Zmìny v rodinném systému s pøíchodem dítìte
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseOne" class="panel-collapse collapse in">
+                    <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
                             Beseda zamìøená na vìtší porozumìní zmìnám, které se po narození dítìte v rodinì odehrávají a možnostem, jak se na tyto zmìny pøipravit a zvládat je. 
                             Mluvit budeme také o vhodné struktuøe rodinného systému a o jednotlivých rolích v ní. O tom jak se vzájemnì podporovat, abychom pro dítì vytvoøili 
@@ -58,7 +58,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">8.10.2015</span> Potøeby dítìte a jejich naplòování
+                                <span class="label label-default">8.10.2015</span> Potøeby dítìte a jejich naplòování
                             </a>
                         </h4>
 
@@ -75,7 +75,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">12.11.2015</span> Styly výchovy, pøístup k dítìti
+                                <span class="label label-default">12.11.2015</span> Styly výchovy, pøístup k dítìti
                             </a>
                         </h4>
 
@@ -91,18 +91,33 @@
                 <div class="panel panel-default" id="panel4">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
+                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion">
                                 <span class="label label-primary">21.1.2016</span> Podpora všestranného vývoje dítìte
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapse4" class="panel-collapse collapse">
+                    <div id="collapse4" class="panel-collapse collapse in">
                         <div class="panel-body">
                             V rámci vývoje dítìte se dìje øada zákonitých zmìn, které svým výchovným pøístupem mùžeme podpoøit, ale také jim nevìdomì bránit. 
                             Beseda bude zamìøená na zmapování a porozumìní jednotlivým vývojovým úkolùm. Na uvìdomìní si jejich významu pro zdravý duševní vývoj 
                             dítìte a na konkrétní možnosti, jak dítìti pomoci je dobøe zvládnout. Vìnovat se budeme také jednotlivým oblastem vývoje v pøedškolním vìku a 
                             konkrétním èinnostem, které tento vývoj podporují.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel5a">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse5a" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">1.2.2016</span> Budování pevné vazby k dítìti (attachment)
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse5a" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            podrobnosti doplním brzy
                         </div>
                     </div>
                 </div>
@@ -123,6 +138,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="panel panel-default" id="panel6a">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse6a" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">7.3.2016</span> Rodinný systém a role rodièù ve výchovì
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse6a" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            podrobnosti doplním brzy
+                        </div>
+                    </div>
+                </div>
                 <div class="panel panel-default" id="panel6">
                     <div class="panel-heading">
                         <h4 class="panel-title">
@@ -140,6 +170,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="panel panel-default" id="panel7a">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse7a" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">11.4.2016</span> Psychický vývoj a identita dítìte
+                            </a>
+                        </h4>
+                        
+                    </div>
+                    <div id="collapse7a" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            podrobnosti doplním brzy
+                        </div>
+                    </div>
+                </div>
                 <div class="panel panel-default" id="panel7">
                     <div class="panel-heading">
                         <h4 class="panel-title">
@@ -154,6 +199,21 @@
                             Beseda urèená rodièùm, kteøí si pokládají napø. tyto otázky - Jaké jsou základní pøekážky v komunikaci a jak se jim v rodinì vyhýbat? 
                             Jak máme dítì nauèit zvládat konflikty, umìt se domluvit? Co jsou to „já výroky“ a jak je využívat? Jak máme mluvit s dítìtem, abychom podporovali vývoj 
                             jeho osobnosti a sociální dovednosti?
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default" id="panel8a">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse8a" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">2.5.2016</span> Posilování psychické odolnosti dítìte
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse8a" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            podrobnosti doplním brzy
                         </div>
                     </div>
                 </div>
@@ -201,7 +261,7 @@
                         Všechny besedy zaèínají v 16:30
                     </p>
                     <table class="afterlead">
-                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobnìji o cenì">(*)</a></th></tr>
+                        <tr><th>Ceník</th></tr>
                         <tr><td>za besedu</td><td>70 Kè</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
