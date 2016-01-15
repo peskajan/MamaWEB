@@ -22,13 +22,13 @@ if (isset($_POST)) {
     //validate name is not empty
     if (empty($name)) {
         $formok = false;
-        $errors[] = "Nezadali jste Vaöe jmÈno";
+        $errors[] = "Nezadali jste Va≈°e jm√©no";
     }
 
     //validate email address is not empty
     if (empty($email)) {
         $formok = false;
-        $errors[] = "Nezadali jste V·öi emailovou adresu";
+        $errors[] = "Nezadali jste V√°≈°i emailovou adresu";
         //validate email address is valid
     } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $formok = false;
@@ -38,22 +38,22 @@ if (isset($_POST)) {
     //validate message is not empty
     if (empty($message)) {
         $formok = false;
-        $errors[] = "Nezadali jste obsah Vaöho dotazu";
+        $errors[] = "Nezadali jste obsah Va≈°ho dotazu";
     }
 
     //send email if all is ok
     if ($formok) {
         $headers = "From: {$email}" . "\r\n";
-        $headers .= 'Content-type: text/html; charset=windows-1250' . "\r\n";
+        $headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 
-        $emailbody = "<p>Obdrûeli jste novou zpr·vu/dotaz z vaöich str·nek dne {$date} v {$time}</p>
-					  <p><strong>JmÈno: </strong> {$name} </p>
+        $emailbody = "<p>Obdr≈æeli jste novou zpr√°vu/dotaz z va≈°ich str√°nek dne {$date} v {$time}</p>
+					  <p><strong>Jm√©no: </strong> {$name} </p>
 					  <p><strong>Email: </strong> {$email} </p>
 					  <p><strong>Telefon: </strong> {$telephone} </p>
-					  <p><strong>P¯edmÏt: </strong> {$subject} </p>
-					  <p><strong>Zpr·va: </strong> {$message} </p>";
+					  <p><strong>P≈ôedmƒõt: </strong> {$subject} </p>
+					  <p><strong>Zpr√°va: </strong> {$message} </p>";
 
-        mail("katka.peskova@post.cz", "OsobnÌ web - {$subject}", $emailbody, $headers);
+        mail("katka.peskova@post.cz", "Osobn√≠ web - {$subject}", $emailbody, $headers);
     }
 
     //what we need to return back to our form
