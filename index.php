@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -52,37 +52,37 @@
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie" href="/zenska-skupina/">
-                            <img class="img-circle param-header" src="/images/gallery/zenska-skupina-param.jpg" alt="Ženská skupina">
-                            <h2>Ženská skupina</h2>
+                        <a class="no-decor" title="Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje, skupinovĂˇ terapie, pro Ĺľeny, arteterapie" href="/zenska-skupina/">
+                            <img class="img-circle param-header" src="/images/gallery/zenska-skupina-param.jpg" alt="Ĺ˝enskĂˇ skupina">
+                            <h2>Ĺ˝enskĂˇ skupina</h2>
                         </a>
-                        <p>Pro ženy, které mají chuť vyprávě i poslouchat, tvořit a hrát si, sdílet a navzájem se podporovat v rozvíjení své osobnosti</p>
-                        <p><a title="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/zenska-skupina/" role="button">Více informací &raquo;</a></p>
+                        <p>Pro Ĺľeny, kterĂ© majĂ­ chuĹĄ vyprĂˇvÄ› i poslouchat, tvoĹ™it a hrĂˇt si, sdĂ­let a navzĂˇjem se podporovat v rozvĂ­jenĂ­ svĂ© osobnosti</p>
+                        <p><a title="Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje, skupinovĂˇ terapie, pro Ĺľeny, arteterapie" class="btn btn-default" href="/zenska-skupina/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Besedy pro rodiče, výchovné obtíže, výchova dítěte" href="/besedy-pro-rodice/">
-                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Besedy pro rodiče">
-                            <h2>Besedy pro rodiče</h2>
+                        <a class="no-decor" title="Besedy pro rodiÄŤe, vĂ˝chovnĂ© obtĂ­Ĺľe, vĂ˝chova dĂ­tÄ›te" href="/besedy-pro-rodice/">
+                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Besedy pro rodiÄŤe">
+                            <h2>Besedy pro rodiÄŤe</h2>
                         </a>
-                        <p>Volně přístupné besedy zaměřené na pozitivní rodičovství. Široký okruh témat - je na Vás, které si vyberete.</p>
-                        <p><a title="Besedy pro rodiče, výchovné obtíže, výchova dítěte" class="btn btn-default" href="/besedy-pro-rodice/" role="button">Více informací &raquo;</a></p>
+                        <p>VolnÄ› pĹ™Ă­stupnĂ© besedy zamÄ›Ĺ™enĂ© na pozitivnĂ­ rodiÄŤovstvĂ­. Ĺ irokĂ˝ okruh tĂ©mat - je na VĂˇs, kterĂ© si vyberete.</p>
+                        <p><a title="Besedy pro rodiÄŤe, vĂ˝chovnĂ© obtĂ­Ĺľe, vĂ˝chova dĂ­tÄ›te" class="btn btn-default" href="/besedy-pro-rodice/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">
-                            <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní seminář">
-                            <h2>Sebezkušenostní seminář</h2>
+                        <a class="no-decor" title="SebezkuĹˇenostnĂ­ seminĂˇĹ™, skupinovĂˇ terapie, pro Ĺľeny, arteterapie" href="/sebezkusenostni/">
+                            <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="SebezkuĹˇenostnĂ­ seminĂˇĹ™">
+                            <h2>SebezkuĹˇenostnĂ­ seminĂˇĹ™</h2>
                         </a>
-                        <p>Chcete více porozumět sami sobě?
-                            Zajímá Vás, jak působíte na své okolí?
-                            Máte pocit, že se Vám dějí věci, kterým nerozumíte?
-                            Chcete nahlédnout do sebe trochu jinak než dosud?</p>
-                        <p><a title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">Více informací &raquo;</a></p>
+                        <p>Chcete vĂ­ce porozumÄ›t sami sobÄ›?
+                            ZajĂ­mĂˇ VĂˇs, jak pĹŻsobĂ­te na svĂ© okolĂ­?
+                            MĂˇte pocit, Ĺľe se VĂˇm dÄ›jĂ­ vÄ›ci, kterĂ˝m nerozumĂ­te?
+                            Chcete nahlĂ©dnout do sebe trochu jinak neĹľ dosud?</p>
+                        <p><a title="SebezkuĹˇenostnĂ­ seminĂˇĹ™, skupinovĂˇ terapie, pro Ĺľeny, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
                 <div class="row margin-top-space">
                     <div class="col-lg-12">
-                        <a class="no-decor" title="KUDYKAM - vztahy s rodiči, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana" href="/kudykam/">
-                            <img class="param-header full-width" src="/images/gallery/kdkm-logo.jpg" alt="Kudy kam - skupina pro dospívající">
+                        <a class="no-decor" title="KUDYKAM - vztahy s rodiÄŤi, vztahy v kolektivu, Ĺˇkola - autority - vĂ˝kon, rizikovĂ© chovĂˇnĂ­, kyberĹˇikana" href="/kudykam/">
+                            <img class="param-header full-width" src="/images/gallery/kdkm-logo.jpg" alt="Kudy kam - skupina pro dospĂ­vajĂ­cĂ­">
                         </a>
                     </div>
                 </div><!-- /.row -->

@@ -7,28 +7,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/uvod/" title="Katka Pešková - terapie, rodinné poradenství, semináøe - Slanı a okolí"><img class="img-title" src="/images/title-final2.png" alt="Katka Pešková"/></a>
+            <a class="navbar-brand" href="/uvod/" title="Katka PeÅ¡kovÃ¡ - terapie, rodinnÃ© poradenstvÃ­, seminÃ¡Å™e - SlanÃ½ a okolÃ­"><img class="img-title" src="/images/title-final2.png" alt="Katka PeÅ¡kovÃ¡"/></a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a title="Úvod, terapie, rodinné poradenství, semináøe" href="/uvod/"><span class="glyphicon glyphicon-home"></span> Úvod</a></li>
+                <li><a title="Ãšvod, terapie, rodinnÃ© poradenstvÃ­, seminÃ¡Å™e" href="/uvod/"><span class="glyphicon glyphicon-home"></span> Ãšvod</a></li>
                 <li class="dropdown">
-                    <a title="Pøehled slueb" href="/sluzby/" class="dropdown-toggle" data-toggle="dropdown">
-                        <span class="glyphicon glyphicon-th-large"></span> Sluby <b class="caret"></b>
+                    <a title="PÅ™ehled sluÅ¾eb" href="/sluzby/" class="dropdown-toggle" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-th-large"></span> SluÅ¾by <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a title="enská skupina osobnostního rozvoje" href="/zenska-skupina/">enská skupina osobnostního rozvoje</a></li>
-                        <li><a title="Sebezkušenostní semináøe" href="/sebezkusenostni/">Sebezkušenostní semináøe</a></li>
-                        <li><a title="Vrstevnická skupina pro dìti" href="/vrstevnicka-skupina/">Vrstevnická skupina pro dìti</a></li>
-                        <li><a title="Cílené cvièení oslabenıch oblastí" href="/cviceni-oslabenych-oblasti/">Cílené cvièení oslabenıch oblastí</a></li>
-                        <li><a title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">Rodinné poradenství, psychoterapie, arteterapie</a></li>
-                        <li><a title="Semináøe pro uèitele a vıchovné pracovníky" href="/seminare/">Semináøe pro uèitele a vıchovné pracovníky</a></li>
-                        <li><a title="Besedy pro rodièe" href="/besedy-pro-rodice/">Besedy pro rodièe</a></li>
-                        <li><a title="KUDYKAM - skupina pro dospívající" href="/kudykam/">KUDYKAM - skupina pro dospívající</a></li>
+                        <li><a title="Å½enskÃ¡ skupina osobnostnÃ­ho rozvoje" href="/zenska-skupina/">Å½enskÃ¡ skupina osobnostnÃ­ho rozvoje</a></li>
+                        <li><a title="SebezkuÅ¡enostnÃ­ seminÃ¡Å™e" href="/sebezkusenostni/">SebezkuÅ¡enostnÃ­ seminÃ¡Å™e</a></li>
+                        <li><a title="VrstevnickÃ¡ skupina pro dÄ›ti" href="/vrstevnicka-skupina/">VrstevnickÃ¡ skupina pro dÄ›ti</a></li>
+                        <li><a title="CÃ­lenÃ© cviÄenÃ­ oslabenÃ½ch oblastÃ­" href="/cviceni-oslabenych-oblasti/">CÃ­lenÃ© cviÄenÃ­ oslabenÃ½ch oblastÃ­</a></li>
+                        <li><a title="RodinnÃ© poradenstvÃ­, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">RodinnÃ© poradenstvÃ­, psychoterapie, arteterapie</a></li>
+                        <li><a title="SeminÃ¡Å™e pro uÄitele a vÃ½chovnÃ© pracovnÃ­ky" href="/seminare/">SeminÃ¡Å™e pro uÄitele a vÃ½chovnÃ© pracovnÃ­ky</a></li>
+                        <li><a title="Besedy pro rodiÄe" href="/besedy-pro-rodice/">Besedy pro rodiÄe</a></li>
+                        <li><a title="KUDYKAM - skupina pro dospÃ­vajÃ­cÃ­" href="/kudykam/">KUDYKAM - skupina pro dospÃ­vajÃ­cÃ­</a></li>
                     </ul>
                 </li>
                 <li><a title="Kontakty - email, telefon" href="/kontakty/"><span class="glyphicon glyphicon-envelope"></span> Kontakty</a></li>
-                <li><a title="Katka Pešková - o mnì, vzdìlání" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mnì</a></li>
+                <li><a title="Katka PeÅ¡kovÃ¡ - o mnÄ›, vzdÄ›lÃ¡nÃ­" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mnÄ›</a></li>
             </ul>
         </div>
 

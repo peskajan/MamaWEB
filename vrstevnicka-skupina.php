@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vrstevnická skupina pro děti | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>VrstevnickĂˇ skupina pro dÄ›ti | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,50 +25,50 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Vrstevnická skupina pro děti</h2>
+            <h2 class="page-heading">VrstevnickĂˇ skupina pro dÄ›ti</h2>
 
-            <p class="afterlead bold">Desetidílný cyklus je určen pro žáky 1-2 tříd, 3-5 tříd nebo 6- 9 tříd, kteří mají obtíže:</p>
+            <p class="afterlead bold">DesetidĂ­lnĂ˝ cyklus je urÄŤen pro ĹľĂˇky 1-2 tĹ™Ă­d, 3-5 tĹ™Ă­d nebo 6- 9 tĹ™Ă­d, kteĹ™Ă­ majĂ­ obtĂ­Ĺľe:</p>
             <ul class="afterlead">
-                <li>se začleněním do skupiny</li>
-                <li>s korekcí chování doma či ve škole</li>
-                <li>se zvýšenou impulsivností, citlivostí, ostýchavostí</li>
-                <li>s nepřiměřenými reakcemi vůči dospělým nebo vrstevníkům</li>
+                <li>se zaÄŤlenÄ›nĂ­m do skupiny</li>
+                <li>s korekcĂ­ chovĂˇnĂ­ doma ÄŤi ve Ĺˇkole</li>
+                <li>se zvĂ˝Ĺˇenou impulsivnostĂ­, citlivostĂ­, ostĂ˝chavostĂ­</li>
+                <li>s nepĹ™imÄ›Ĺ™enĂ˝mi reakcemi vĹŻÄŤi dospÄ›lĂ˝m nebo vrstevnĂ­kĹŻm</li>
             </ul>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
-                        <tr><td>10 setkání, včetně pomůcek a závěrečné konzultace s rodiči</td> 
-                            <td class="price">1.500 Kč</td></tr>
+                        <tr><th>CenĂ­k <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">(*)</a></th></tr>
+                        <tr><td>10 setkĂˇnĂ­, vÄŤetnÄ› pomĹŻcek a zĂˇvÄ›reÄŤnĂ© konzultace s rodiÄŤi</td> 
+                            <td class="price">1.500 KÄŤ</td></tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="Vrstevnická skupina pro děti, poruchy chování"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="Vrstevnická skupina pro děti, poruchy chování"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/arteterapie.jpg" alt="VrstevnickĂˇ skupina pro dÄ›ti, poruchy chovĂˇnĂ­"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/detska-skupina.jpg" alt="VrstevnickĂˇ skupina pro dÄ›ti, poruchy chovĂˇnĂ­"/>
                 </div>
             </div>
 
-            <h3 class="featurette-heading">Způsob práce a časové rozložení</h3>
+            <h3 class="featurette-heading">ZpĹŻsob prĂˇce a ÄŤasovĂ© rozloĹľenĂ­</h3>
             <p class="afterlead">                 
-                Před zahájením skupiny proběhne individuální setkání, na kterém rodiče s vedoucím skupiny zmapují problematické 
-                oblasti chování dítěte. Děti pak docházejí 1x týdně po dobu 10 týdnů na skupinu, délka jednoho setkání je 1,5 hodiny. 
-                Po skončení celého skupinového programu proběhnou individuální konzultace rodičů s vedoucím skupiny.
+                PĹ™ed zahĂˇjenĂ­m skupiny probÄ›hne individuĂˇlnĂ­ setkĂˇnĂ­, na kterĂ©m rodiÄŤe s vedoucĂ­m skupiny zmapujĂ­ problematickĂ© 
+                oblasti chovĂˇnĂ­ dĂ­tÄ›te. DÄ›ti pak dochĂˇzejĂ­ 1x tĂ˝dnÄ› po dobu 10 tĂ˝dnĹŻ na skupinu, dĂ©lka jednoho setkĂˇnĂ­ je 1,5 hodiny. 
+                Po skonÄŤenĂ­ celĂ©ho skupinovĂ©ho programu probÄ›hnou individuĂˇlnĂ­ konzultace rodiÄŤĹŻ s vedoucĂ­m skupiny.
             </p>
 
-            <h3 class="featurette-heading">Cílem skupinového programu je</h3>
+            <h3 class="featurette-heading">CĂ­lem skupinovĂ©ho programu je</h3>
             <ul class="afterlead">
-                <li>posilování sebevědomí a sebepojetí dětí</li>
-                <li>zdokonalování sociálních dovedností a zkušeností dětí</li>
-                <li>pozitivní motivace a aktivizace dětí</li>
+                <li>posilovĂˇnĂ­ sebevÄ›domĂ­ a sebepojetĂ­ dÄ›tĂ­</li>
+                <li>zdokonalovĂˇnĂ­ sociĂˇlnĂ­ch dovednostĂ­ a zkuĹˇenostĂ­ dÄ›tĂ­</li>
+                <li>pozitivnĂ­ motivace a aktivizace dÄ›tĂ­</li>
             </ul>
 
             <p class="afterlead">                 
-                Každé setkání je věnováno jednomu tématu ze života dětí - kamarádi, zlost, strach, radost, odměny a tresty, rodina, škola apod. 
-                Prostřednictvím výtvarných či dramatických technik mají děti možnost uvědomit si a navzájem sdílet své zkušenosti, 
-                společně hledat přiměřenější způsoby zvládání těchto situací.
-                Během cyklu se děti v rámci lepšího pochopení sebe i svých vrstevníků učí efektivnějším způsobům komunikace ve skupině i s dospělými.
+                KaĹľdĂ© setkĂˇnĂ­ je vÄ›novĂˇno jednomu tĂ©matu ze Ĺľivota dÄ›tĂ­ - kamarĂˇdi, zlost, strach, radost, odmÄ›ny a tresty, rodina, Ĺˇkola apod. 
+                ProstĹ™ednictvĂ­m vĂ˝tvarnĂ˝ch ÄŤi dramatickĂ˝ch technik majĂ­ dÄ›ti moĹľnost uvÄ›domit si a navzĂˇjem sdĂ­let svĂ© zkuĹˇenosti, 
+                spoleÄŤnÄ› hledat pĹ™imÄ›Ĺ™enÄ›jĹˇĂ­ zpĹŻsoby zvlĂˇdĂˇnĂ­ tÄ›chto situacĂ­.
+                BÄ›hem cyklu se dÄ›ti v rĂˇmci lepĹˇĂ­ho pochopenĂ­ sebe i svĂ˝ch vrstevnĂ­kĹŻ uÄŤĂ­ efektivnÄ›jĹˇĂ­m zpĹŻsobĹŻm komunikace ve skupinÄ› i s dospÄ›lĂ˝mi.
             </p> 
 
         </div>

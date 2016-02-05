@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>KUDYKAM - vztahy s rodiči, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana</title>
+        <title>KUDYKAM - vztahy s rodiÄŤi, vztahy v kolektivu, Ĺˇkola - autority - vĂ˝kon, rizikovĂ© chovĂˇnĂ­, kyberĹˇikana</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,30 +25,30 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">KUDYKAM - skupina pro dospívající</h2>
+            <h2 class="page-heading">KUDYKAM - skupina pro dospĂ­vajĂ­cĂ­</h2>
 
-            <!--<h3 class="featurette-heading">Je určeno lidem v problematické partnerské či životní situaci, např:</h3>-->
+            <!--<h3 class="featurette-heading">Je urÄŤeno lidem vÂ problematickĂ© partnerskĂ© ÄŤi ĹľivotnĂ­ situaci, napĹ™:</h3>-->
             <div class="row">
                 <div class="col-lg-7">
                     <ul class="lead">
-                        <li>20.1.2016 - vztahy s rodiči</li>
+                        <li>20.1.2016 - vztahy s rodiÄŤi</li>
                         <li>27.1.2016 - vztahy v kolektivu</li>
-                        <li>3.2.2016 - škola - autority - výkon</li>
-                        <li>10.2.2016 - rizikové chování</li>
-                        <li>17.2.2016 - kyberšikana</li>
+                        <li>3.2.2016 - Ĺˇkola - autority - vĂ˝kon</li>
+                        <li>10.2.2016 - rizikovĂ© chovĂˇnĂ­</li>
+                        <li>17.2.2016 - kyberĹˇikana</li>
                         <li>24.2.2016 - sexualita</li>
                     </ul>
-                    <h3 class="featurette-heading">Zaujala tě tato témata?</h3>
+                    <h3 class="featurette-heading">Zaujala tÄ› tato tĂ©mata?</h3>
                     <ul class="afterlead">
                         <li>a je ti 15 - 18 let?</li>
-                        <li>NESTYĎ SE PŘIJÍT</li>
-                        <li>vždy ve středu od 17.30</li>
-                        <li>Wilsonova 597, Slaný (hned vedle divadla)</li>
+                        <li>NESTYÄŽ SE PĹIJĂŤT</li>
+                        <li>vĹľdy ve stĹ™edu od 17.30</li>
+                        <li>Wilsonova 597, SlanĂ˝ (hned vedle divadla)</li>
                     </ul>
                 </div>
                 <div class="col-lg-5">
-                    <a href="/images/gallery/kdkm.jpg" data-lightbox="makeup-set" title="KUDYKAM - skupina pro dospívající">
-                        <img class="example-image-link parallelogram" src="/images/gallery/kdkm.jpg" alt="vztahy s rodiči, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana"/>
+                    <a href="/images/gallery/kdkm.jpg" data-lightbox="makeup-set" title="KUDYKAM - skupina pro dospĂ­vajĂ­cĂ­">
+                        <img class="example-image-link parallelogram" src="/images/gallery/kdkm.jpg" alt="vztahy s rodiÄŤi, vztahy v kolektivu, Ĺˇkola - autority - vĂ˝kon, rizikovĂ© chovĂˇnĂ­, kyberĹˇikana"/>
                     </a>
                 </div>
             </div>
@@ -56,13 +56,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <table class="afterlead">
-                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
-                        <tr><td>Jedno setkání</td> 
-                            <td class="price">70 Kč</td></tr>
-                        <tr><td>Všechna setkání</td> 
-                            <td class="price">300 Kč</td></tr>
+                        <tr><th>CenĂ­k <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">(*)</a></th></tr>
+                        <tr><td>Jedno setkĂˇnĂ­</td> 
+                            <td class="price">70 KÄŤ</td></tr>
+                        <tr><td>VĹˇechna setkĂˇnĂ­</td> 
+                            <td class="price">300 KÄŤ</td></tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máš zájem? Kontaktuj mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇĹˇ zĂˇjem? Kontaktuj mÄ›!</a>
                 </div>
             </div>
 

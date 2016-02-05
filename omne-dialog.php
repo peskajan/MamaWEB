@@ -1,39 +1,39 @@
 <div id="dialog-arte" style="width: 500px;" title="Co je arteterapie?">
     <p>
-        Arteterapie se opírá o vıtvarnı projev klienta jako o léèebnı prostøedek, kterı umoòuje pøímìjší vyjádøení emocí, 
-        potlaèovanıch myšlenek, fantazie, postupné zvìdomování vnitøních rozporù. Proitky bìhem tvorby se dávají 
-        do souvislostí s aktuálními problémy, pomáhají pøi hledání jejich øešení. Je vhodná u dìtí, u klientù, 
-        kteøí se tìko vyjadøují slovy, nebo jsou jimi naopak zahlceni.
+        Arteterapie se opÃ­rÃ¡ o vÃ½tvarnÃ½ projev klienta jako o lÃ©ÄebnÃ½ prostÅ™edek, kterÃ½ umoÅ¾Åˆuje pÅ™Ã­mÄ›jÅ¡Ã­ vyjÃ¡dÅ™enÃ­ emocÃ­, 
+        potlaÄovanÃ½ch myÅ¡lenek, fantazie, postupnÃ© zvÄ›domovÃ¡nÃ­ vnitÅ™nÃ­ch rozporÅ¯. ProÅ¾itky bÄ›hem tvorby se dÃ¡vajÃ­ 
+        do souvislostÃ­ s aktuÃ¡lnÃ­mi problÃ©my, pomÃ¡hajÃ­ pÅ™i hledÃ¡nÃ­ jejich Å™eÅ¡enÃ­. Je vhodnÃ¡ u dÄ›tÃ­, u klientÅ¯, 
+        kteÅ™Ã­ se tÄ›Å¾ko vyjadÅ™ujÃ­ slovy, nebo jsou jimi naopak zahlceni.
     </p>
 </div>
 
 <div id="dialog-sur" style="width: 500px;" title="Co je SUR?">
     <p>
-        SUR je systém vıcviku v psychoterapii zaloenı (1967) Doc..MUDr. Jaroslavem Skálou, PhDr. Eduardem Urbanem 
-        a MUDr. Jaromírem Rubešem. Sluèuje v sobì prvky hlubinnì psychologické, skupinovì dynamické a komunitní terapie. 
-        Takto orientovanı psychoterapeut se setkává s klientem „tváøí tváø“, klade dùraz na vztah terapeuta a 
-        klienta a na vzájemnı respekt, chápe lidskı vıvoj jako celoivotní cestu s dùleitou hodnotou hledání smyslu ivota, 
-        má na zøeteli dùleitost vztahù v dìtství i v souèasnosti a jedineènost osobnosti èlovìka. 
-        Pracuje s klientem na poznání jeho vlastních vzorcù chování a porozumìní svım motivùm. 
-        Tím napomáhá ke zmìnì postojù, hledání vhodnìjších zpùsobù øešení a zvládání aktuálních situací vlastními silami.
+        SUR je systÃ©m vÃ½cviku v psychoterapii zaloÅ¾enÃ½ (1967) Doc..MUDr. Jaroslavem SkÃ¡lou, PhDr. Eduardem Urbanem 
+        a MUDr. JaromÃ­rem RubeÅ¡em. SluÄuje v sobÄ› prvky hlubinnÄ› psychologickÃ©, skupinovÄ› dynamickÃ© a komunitnÃ­ terapie. 
+        Takto orientovanÃ½ psychoterapeut se setkÃ¡vÃ¡ s klientem â€tvÃ¡Å™Ã­ tvÃ¡Å™â€œ, klade dÅ¯raz na vztah terapeuta a 
+        klienta a na vzÃ¡jemnÃ½ respekt, chÃ¡pe lidskÃ½ vÃ½voj jako celoÅ¾ivotnÃ­ cestu s dÅ¯leÅ¾itou hodnotou hledÃ¡nÃ­ smyslu Å¾ivota, 
+        mÃ¡ na zÅ™eteli dÅ¯leÅ¾itost vztahÅ¯ v dÄ›tstvÃ­ i v souÄasnosti a jedineÄnost osobnosti ÄlovÄ›ka. 
+        Pracuje s klientem na poznÃ¡nÃ­ jeho vlastnÃ­ch vzorcÅ¯ chovÃ¡nÃ­ a porozumÄ›nÃ­ svÃ½m motivÅ¯m. 
+        TÃ­m napomÃ¡hÃ¡ ke zmÄ›nÄ› postojÅ¯, hledÃ¡nÃ­ vhodnÄ›jÅ¡Ã­ch zpÅ¯sobÅ¯ Å™eÅ¡enÃ­ a zvlÃ¡dÃ¡nÃ­ aktuÃ¡lnÃ­ch situacÃ­ vlastnÃ­mi silami.
     </p>
 </div>
 
-<div id="dialog-podminky" style="width: 500px;" title="Podmínky spolupráce">
+<div id="dialog-podminky" style="width: 500px;" title="PodmÃ­nky spoluprÃ¡ce">
     <p>
-        <b>Hranice profesního vztahu:</b> vztah mezi klientem a terapeutem je vymezen prostorem, èasem a úèelem. Setkávají se jen v prostoru terapeutické pracovny v 
-        pøedem dohodnutém termínu. Úèelem setkání je dohodnutı kontrakt – cíl spolupráce, kterı spoleènì stanovují bìhem prvního setkání. Mimo toto vymezení se 
-        terapeut s klientem nesetkávají.
+        <b>Hranice profesnÃ­ho vztahu:</b> vztah mezi klientem a terapeutem je vymezen prostorem, Äasem a ÃºÄelem. SetkÃ¡vajÃ­ se jen v prostoru terapeutickÃ© pracovny v 
+        pÅ™edem dohodnutÃ©m termÃ­nu. ÃšÄelem setkÃ¡nÃ­ je dohodnutÃ½ kontrakt â€“ cÃ­l spoluprÃ¡ce, kterÃ½ spoleÄnÄ› stanovujÃ­ bÄ›hem prvnÃ­ho setkÃ¡nÃ­. Mimo toto vymezenÃ­ se 
+        terapeut s klientem nesetkÃ¡vajÃ­.
     </p>
     <p>
-        <b>Dùvìrnost:</b> všechny informace, které od klienta získám jsou dùvìrné. Nesdìluji ádné informace o nìm ani o prùbìhu konzultací a to i po ukonèení kontraktu. 
-        V souvislosti se zajištìním odbornosti a objektivity mám monost konzultovat prùbìh terapie na supervizi, i zde však respektuji anonymitu klienta.
+        <b>DÅ¯vÄ›rnost:</b> vÅ¡echny informace, kterÃ© od klienta zÃ­skÃ¡m jsou dÅ¯vÄ›rnÃ©. NesdÄ›luji Å¾Ã¡dnÃ© informace o nÄ›m ani o prÅ¯bÄ›hu konzultacÃ­ a to i po ukonÄenÃ­ kontraktu. 
+        V souvislosti se zajiÅ¡tÄ›nÃ­m odbornosti a objektivity mÃ¡m moÅ¾nost konzultovat prÅ¯bÄ›h terapie na supervizi, i zde vÅ¡ak respektuji anonymitu klienta.
     </p>
     <p>
-        <b>Profesionalita:</b> závaznı je pro mì etickı kodex Èeské psychoterapeutické spoleènosti a etickı kodex Èeské  arteterapeutické asociace, které jsem èlenem.
+        <b>Profesionalita:</b> zÃ¡vaznÃ½ je pro mÄ› etickÃ½ kodex ÄŒeskÃ© psychoterapeutickÃ© spoleÄnosti a etickÃ½ kodex ÄŒeskÃ©  arteterapeutickÃ© asociace, kterÃ© jsem Älenem.
     </p>
     <p>
-        Etickı kodex ÈAA <a href="http://www.arteterapie.cz/?podkategorie=asociace&clanek=1">zde</a>
+        EtickÃ½ kodex ÄŒAA <a href="http://www.arteterapie.cz/?podkategorie=asociace&clanek=1">zde</a>
     </p>
 </div>
 

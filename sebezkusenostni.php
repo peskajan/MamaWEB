@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Sebezkušenostní semináře | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>SebezkuĹˇenostnĂ­ seminĂˇĹ™e | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,35 +25,35 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Sebezkušenostní semináře</h2>
+            <h2 class="page-heading">SebezkuĹˇenostnĂ­ seminĂˇĹ™e</h2>
             <ul class="lead">
-                <li>setkání v malé skupině lidí (do 10 účastníků), kteří si kladou podobné otázky jako vy</li>
-                <li>hledání odpovědí prostřednictvím tvořivých činností 
-                    (např. práce se sadou „Projektivních koláží“ Miroslava Huptycha, práce s keramickou hlínou apod.)
-                    a sdílením vlastního pohledu a zkušeností </li>
-                <li>cílem setkání je váš vlastní prožitek a společné nalézání odpovědí, nepotřebujete  výtvarné schopnosti a zkušenosti </li>
+                <li>setkĂˇnĂ­ v malĂ© skupinÄ› lidĂ­ (do 10 ĂşÄŤastnĂ­kĹŻ), kteĹ™Ă­ si kladou podobnĂ© otĂˇzky jako vy</li>
+                <li>hledĂˇnĂ­ odpovÄ›dĂ­ prostĹ™ednictvĂ­m tvoĹ™ivĂ˝ch ÄŤinnostĂ­ 
+                    (napĹ™. prĂˇce se sadou â€žProjektivnĂ­ch kolĂˇĹľĂ­â€ś Miroslava Huptycha, prĂˇce s keramickou hlĂ­nou apod.)
+                    a sdĂ­lenĂ­m vlastnĂ­ho pohledu a zkuĹˇenostĂ­ </li>
+                <li>cĂ­lem setkĂˇnĂ­ je vĂˇĹˇ vlastnĂ­ proĹľitek a spoleÄŤnĂ© nalĂ©zĂˇnĂ­ odpovÄ›dĂ­, nepotĹ™ebujete  vĂ˝tvarnĂ© schopnosti a zkuĹˇenosti </li>
             </ul>
 
-            <h3 class="featurette-heading">Termíny a témata seminářů</h3>
+            <h3 class="featurette-heading">TermĂ­ny a tĂ©mata seminĂˇĹ™ĹŻ</h3>
             
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default" id="panel1">
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default">3.10.2015</span> Osobní síla, vnitřní zdroje
+                                <span class="label label-default">3.10.2015</span> OsobnĂ­ sĂ­la, vnitĹ™nĂ­ zdroje
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Setkání pro všechny, kteří se někdy cítí unavení a bez nálady, zamýšlejí se nad vlastními vnitřními zdroji a pokládají si např. otázku - 
-                            při jakých činnostech „nabírám energii“ a je výběr, který mám k dispozici dostatečný? Co pomáhá druhým, kde oni čerpají energii – 
-                            můžu některou možnost převzít od nich? Jak vypadá moje síla a její zdroj – je to silný pramen, nebo „vysychající studánka“ a můžu ji nějak „vyčistit“?
-                            V jakých situacích se potýkám s pocitem, že „na prameni sedí žába“? Můžu to nějak změnit?
+                            SetkĂˇnĂ­ pro vĹˇechny, kteĹ™Ă­ se nÄ›kdy cĂ­tĂ­ unavenĂ­ a bez nĂˇlady, zamĂ˝ĹˇlejĂ­ se nad vlastnĂ­mi vnitĹ™nĂ­mi zdroji a poklĂˇdajĂ­ si napĹ™. otĂˇzku - 
+                            pĹ™i jakĂ˝ch ÄŤinnostech â€žnabĂ­rĂˇm energiiâ€ś a je vĂ˝bÄ›r, kterĂ˝ mĂˇm k dispozici dostateÄŤnĂ˝? Co pomĂˇhĂˇ druhĂ˝m, kde oni ÄŤerpajĂ­ energii â€“ 
+                            mĹŻĹľu nÄ›kterou moĹľnost pĹ™evzĂ­t od nich? Jak vypadĂˇ moje sĂ­la a jejĂ­ zdroj â€“ je to silnĂ˝ pramen, nebo â€žvysychajĂ­cĂ­ studĂˇnkaâ€ś a mĹŻĹľu ji nÄ›jak â€žvyÄŤistitâ€ś?
+                            V jakĂ˝ch situacĂ­ch se potĂ˝kĂˇm s pocitem, Ĺľe â€žna prameni sedĂ­ ĹľĂˇbaâ€ś? MĹŻĹľu to nÄ›jak zmÄ›nit?
 
-                            Cílem setkání bude společné hledání odpovědí na tyto a podobné otázky, na které v běžném životě není vhodná příležitost a čas.
+                            CĂ­lem setkĂˇnĂ­ bude spoleÄŤnĂ© hledĂˇnĂ­ odpovÄ›dĂ­ na tyto a podobnĂ© otĂˇzky, na kterĂ© v bÄ›ĹľnĂ©m ĹľivotÄ› nenĂ­ vhodnĂˇ pĹ™Ă­leĹľitost a ÄŤas.
                         </div>
                     </div>
                 </div>
@@ -61,18 +61,18 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default">5.12.2015</span> Můj střed a rovnováha
+                                <span class="label label-default">5.12.2015</span> MĹŻj stĹ™ed a rovnovĂˇha
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Každý z nás má určité pořadí životních hodnot, věcí, které jsou pro něj důležité. Týkají se jednotlivých oblastí našeho života, 
-                            ať už jsou to vztahy, práce, zdraví, rodina.. a jejich naplňování přináší do života rovnováhu a spokojenost. 
-                            Někdy si ale své pořadí hodnot příliš neuvědomujeme nebo podle nich z různých důvodů nežijeme. To s sebou přináší pocity nejistoty a nespokojenosti, 
-                            vychýlení z rovnováhy, pocit ztráty smyslu života. Setkání bude věnované uvědomění si vlastního hodnotového 
-                            žebříčku a hledání vlastního středu a rovnováhy.
+                            KaĹľdĂ˝ z nĂˇs mĂˇ urÄŤitĂ© poĹ™adĂ­ ĹľivotnĂ­ch hodnot, vÄ›cĂ­, kterĂ© jsou pro nÄ›j dĹŻleĹľitĂ©. TĂ˝kajĂ­ se jednotlivĂ˝ch oblastĂ­ naĹˇeho Ĺľivota, 
+                            aĹĄ uĹľ jsou to vztahy, prĂˇce, zdravĂ­, rodina.. a jejich naplĹovĂˇnĂ­ pĹ™inĂˇĹˇĂ­ do Ĺľivota rovnovĂˇhu a spokojenost. 
+                            NÄ›kdy si ale svĂ© poĹ™adĂ­ hodnot pĹ™Ă­liĹˇ neuvÄ›domujeme nebo podle nich z rĹŻznĂ˝ch dĹŻvodĹŻ neĹľijeme. To s sebou pĹ™inĂˇĹˇĂ­ pocity nejistoty a nespokojenosti, 
+                            vychĂ˝lenĂ­ z rovnovĂˇhy, pocit ztrĂˇty smyslu Ĺľivota. SetkĂˇnĂ­ bude vÄ›novanĂ© uvÄ›domÄ›nĂ­ si vlastnĂ­ho hodnotovĂ©ho 
+                            ĹľebĹ™Ă­ÄŤku a hledĂˇnĂ­ vlastnĂ­ho stĹ™edu a rovnovĂˇhy.
                         </div>
                     </div>
                 </div>
@@ -80,17 +80,17 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion">
-                                <span class="label label-primary"> 16.1.2016</span> Já a můj stín
+                                <span class="label label-primary"> 16.1.2016</span> JĂˇ a mĹŻj stĂ­n
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapseThree" class="panel-collapse collapse in">
                         <div class="panel-body">
-                            Stín představuje odvrácenou stránku „našeho já“- naši nevědomou, „temnou“ či odmítanou a „nežitou“ stránku - přesto patří do struktury naší 
-                            osobnosti stejně jako naše vědomé, přijímané stránky. Uvědomění a zpracování vlastního stínu patří k osobnostnímu růstu jedince. 
-                            Se zpracováním každého „stínového tématu“ se přibližujeme poznání, že štěstí a vyrovnanost nepřichází, když dostáváme to co chceme, 
-                            ale když začneme chtít to, co máme, když si toho vážíme. Setkání bude věnováno „seznámení se“ se svým stínem a možnostem jeho postupného zpracovávání.
+                            StĂ­n pĹ™edstavuje odvrĂˇcenou strĂˇnku â€žnaĹˇeho jĂˇâ€ś- naĹˇi nevÄ›domou, â€žtemnouâ€ś ÄŤi odmĂ­tanou a â€žneĹľitouâ€ś strĂˇnku - pĹ™esto patĹ™Ă­ do struktury naĹˇĂ­ 
+                            osobnosti stejnÄ› jako naĹˇe vÄ›domĂ©, pĹ™ijĂ­manĂ© strĂˇnky. UvÄ›domÄ›nĂ­ a zpracovĂˇnĂ­ vlastnĂ­ho stĂ­nu patĹ™Ă­ k osobnostnĂ­mu rĹŻstu jedince. 
+                            Se zpracovĂˇnĂ­m kaĹľdĂ©ho â€žstĂ­novĂ©ho tĂ©matuâ€ś se pĹ™ibliĹľujeme poznĂˇnĂ­, Ĺľe ĹˇtÄ›stĂ­ a vyrovnanost nepĹ™ichĂˇzĂ­, kdyĹľ dostĂˇvĂˇme to co chceme, 
+                            ale kdyĹľ zaÄŤneme chtĂ­t to, co mĂˇme, kdyĹľ si toho vĂˇĹľĂ­me. SetkĂˇnĂ­ bude vÄ›novĂˇno â€žseznĂˇmenĂ­ seâ€ś se svĂ˝m stĂ­nem a moĹľnostem jeho postupnĂ©ho zpracovĂˇvĂˇnĂ­.
                         </div>
                     </div>
                 </div>
@@ -98,17 +98,17 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">12.3.2016</span> Já jako matka - otec
+                                <span class="label label-primary">12.3.2016</span> JĂˇ jako matka - otec
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapse4" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Rodičovská role je důležitou součástí identity dospělého člověka, má značný vliv na osobnost člověka, jeho uvažování, emoce a mezilidské vztahy.
-                            Na rozdíl od ostatních životních rolí je role otce a matky nevratná (nemůžeme přestat být rodičem). Spokojenost či nespokojenost s tím, 
-                            jak tuto roli zvládáme a naplňujeme výrazně ovlivňuje naši celkovou pohodu a sebepojetí. Setkání bude zaměřeno na naše pocity spojené 
-                            s rodičovskou rolí a na možnosti jejich pozitivního ovlivňování.
+                            RodiÄŤovskĂˇ role je dĹŻleĹľitou souÄŤĂˇstĂ­ identity dospÄ›lĂ©ho ÄŤlovÄ›ka, mĂˇ znaÄŤnĂ˝ vliv na osobnost ÄŤlovÄ›ka, jeho uvaĹľovĂˇnĂ­, emoce a mezilidskĂ© vztahy.
+                            Na rozdĂ­l od ostatnĂ­ch ĹľivotnĂ­ch rolĂ­ je role otce a matky nevratnĂˇ (nemĹŻĹľeme pĹ™estat bĂ˝t rodiÄŤem). Spokojenost ÄŤi nespokojenost s tĂ­m, 
+                            jak tuto roli zvlĂˇdĂˇme a naplĹujeme vĂ˝raznÄ› ovlivĹuje naĹˇi celkovou pohodu a sebepojetĂ­. SetkĂˇnĂ­ bude zamÄ›Ĺ™eno na naĹˇe pocity spojenĂ© 
+                            s rodiÄŤovskou rolĂ­ a na moĹľnosti jejich pozitivnĂ­ho ovlivĹovĂˇnĂ­.
                         </div>
                     </div>
                 </div>
@@ -116,17 +116,17 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">7.5.2016</span> Práce s hněvem
+                                <span class="label label-primary">7.5.2016</span> PrĂˇce s hnÄ›vem
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapse5" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Hněv je naše emoční reakce na situaci, která nás dráždí. Je „živený“ pocitem křivdy, zklamání, ublížení, odmítnutí či trapnosti. 
-                            Může být směřován směrem ven i dovnitř (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umožňuje reagovat 
-                            na nebezpečí, díky hněvu získáváme energii na řešení situace. Zároveň nás hněv upozorňuje na něco důležitého, čemu možná vědomě či 
-                            nevědomě nevěnujeme dostatečnou pozornost. V setkání se zamyslíme nad svým způsobem prožívání a zpracovávání hněvu a nad možností případné změny.
+                            HnÄ›v je naĹˇe emoÄŤnĂ­ reakce na situaci, kterĂˇ nĂˇs drĂˇĹľdĂ­. Je â€žĹľivenĂ˝â€ś pocitem kĹ™ivdy, zklamĂˇnĂ­, ublĂ­ĹľenĂ­, odmĂ­tnutĂ­ ÄŤi trapnosti. 
+                            MĹŻĹľe bĂ˝t smÄ›Ĺ™ovĂˇn smÄ›rem ven i dovnitĹ™ (jak ve vnĂ­mĂˇnĂ­ vinĂ­ka, tak v nĂˇslednĂ© reakci). Ve svĂ©m zĂˇkladnĂ­m aspektu nĂˇm umoĹľĹuje reagovat 
+                            na nebezpeÄŤĂ­, dĂ­ky hnÄ›vu zĂ­skĂˇvĂˇme energii na Ĺ™eĹˇenĂ­ situace. ZĂˇroveĹ nĂˇs hnÄ›v upozorĹuje na nÄ›co dĹŻleĹľitĂ©ho, ÄŤemu moĹľnĂˇ vÄ›domÄ› ÄŤi 
+                            nevÄ›domÄ› nevÄ›nujeme dostateÄŤnou pozornost. V setkĂˇnĂ­ se zamyslĂ­me nad svĂ˝m zpĹŻsobem proĹľĂ­vĂˇnĂ­ a zpracovĂˇvĂˇnĂ­ hnÄ›vu a nad moĹľnostĂ­ pĹ™Ă­padnĂ© zmÄ›ny.
                         </div>
                     </div>
                 </div>
@@ -134,18 +134,18 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse6" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">11.6.2016</span> Práce se sny
+                                <span class="label label-primary">11.6.2016</span> PrĂˇce se sny
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapse6" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Proč se mi zdálo právě toto, co to mělo znamenat? Dává mi sen nějaké odpovědi na aktuální situaci a jak mu mám rozumět? 
-                            Proč se mi opakuje podobný sen? Jak dál pracovat se sny? Odpovědím na tyto a podobné otázky bude věnováno další sobotní setkání. 
-                            Sny nás mohou vést k přehodnocení různých stanovisek, upozornit na věci, kterých si nevšímáme, opomíjíme. Budeme pracovat se sny, 
-                            které si „přinesete“, hledat jejich spojitost s aktuální osobní situací. Vyzkoušíme některé možnosti další práce se sny, jejich 
-                            pochopení a přesahu do reality.
+                            ProÄŤ se mi zdĂˇlo prĂˇvÄ› toto, co to mÄ›lo znamenat? DĂˇvĂˇ mi sen nÄ›jakĂ© odpovÄ›di na aktuĂˇlnĂ­ situaci a jak mu mĂˇm rozumÄ›t? 
+                            ProÄŤ se mi opakuje podobnĂ˝ sen? Jak dĂˇl pracovat se sny? OdpovÄ›dĂ­m na tyto a podobnĂ© otĂˇzky bude vÄ›novĂˇno dalĹˇĂ­ sobotnĂ­ setkĂˇnĂ­. 
+                            Sny nĂˇs mohou vĂ©st k pĹ™ehodnocenĂ­ rĹŻznĂ˝ch stanovisek, upozornit na vÄ›ci, kterĂ˝ch si nevĹˇĂ­mĂˇme, opomĂ­jĂ­me. Budeme pracovat se sny, 
+                            kterĂ© si â€žpĹ™ineseteâ€ś, hledat jejich spojitost s aktuĂˇlnĂ­ osobnĂ­ situacĂ­. VyzkouĹˇĂ­me nÄ›kterĂ© moĹľnosti dalĹˇĂ­ prĂˇce se sny, jejich 
+                            pochopenĂ­ a pĹ™esahu do reality.
                         </div>
                     </div>
                 </div>
@@ -155,37 +155,37 @@
             <div class="row">
                 <div class="col-lg-6">
                     <p class="afterlead margin-top-space">
-                        Setkání proběhnou vždy v sobotu od 13:00 do 18:00 hod
+                        SetkĂˇnĂ­ probÄ›hnou vĹľdy v sobotu od 13:00 do 18:00 hod
                     </p>
                     <table class="afterlead">
-                        <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
-                        <tr><td class="bold">Cena</td><td>550 Kč</td></tr>
+                        <tr><td class="bold">Kde</td><td>SlanĂ˝, Wilsonova 597</td></tr>
+                        <tr><td class="bold">Cena</td><td>550 KÄŤ</td></tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináře, skupinová terapie, pro ženy, arteterapie"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="SebezkuĹˇenostnĂ­ seminĂˇĹ™e, skupinovĂˇ terapie, pro Ĺľeny, arteterapie"/>
                 </div>
             </div>
             
-            <h3 class="featurette-heading">Proč skupina</h3>
+            <h3 class="featurette-heading">ProÄŤ skupina</h3>
             <ul class="afterlead">
-                <li>lidé s podobnými potřebami si mohou poskytovat vzájemnou podporu</li>
-                <li>skupina poskytuje vhodné zázemí pro sociální učení, pomáhá při uvědomění si skrytých zdrojů a schopností</li>
-                <li>členové skupiny si mohou v bezpečném prostředí vyzkoušet nové způsoby chování a jednání</li>
-                <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
+                <li>lidĂ© s podobnĂ˝mi potĹ™ebami si mohou poskytovat vzĂˇjemnou podporu</li>
+                <li>skupina poskytuje vhodnĂ© zĂˇzemĂ­ pro sociĂˇlnĂ­ uÄŤenĂ­, pomĂˇhĂˇ pĹ™i uvÄ›domÄ›nĂ­ si skrytĂ˝ch zdrojĹŻ a schopnostĂ­</li>
+                <li>ÄŤlenovĂ© skupiny si mohou v bezpeÄŤnĂ©m prostĹ™edĂ­ vyzkouĹˇet novĂ© zpĹŻsoby chovĂˇnĂ­ a jednĂˇnĂ­</li>
+                <li>pomocĂ­ zpÄ›tnĂ© vazby od ostatnĂ­ch mohou lĂ©pe porozumÄ›t svĂ©mu projevu a tomu, jak pĹŻsobĂ­ na druhĂ©</li>
             </ul>
             
-            <h3 class="featurette-heading">Pravidla členství ve skupině</h3>
+            <h3 class="featurette-heading">Pravidla ÄŤlenstvĂ­ ve skupinÄ›</h3>
             <ul class="afterlead">
-                <li>pravidlo mlčenlivosti a důvěrnosti: to, o čem se mluví a co se dozvím na skupině je důvěrné, 
-                    mimo skupinu o tom nemluví členové, ani vedoucí skupiny</li>
-                <li>pravidlo otevřenosti a svobody: ve skupině mohu otevřeně vyjadřovat své názory a pocity, svobodně se projevuji formou, 
-                    která mi vyhovuje, ale neomezuje ostatní. Nemůžu-li něco hned otevřeně sdělit, nebo na něco upřímně odpovědět, 
-                    mám právo říct „stop“ a nemluvit o tom. Mám právo nevědět – nikdo neví všechno. Když řeknu, že „nevím“, 
-                    otevírám tím možnost, aby mi někdo pomohl porozumět.</li>
-                <li>pravidlo zodpovědnosti k sobě i druhým: součástí je moje pravidelná a včasná docházka a vzájemné naslouchání. 
-                    Druhé nekritizuji, ale mluvím o tom, co se mnou jejich chování dělá, jak se cítím</li>
+                <li>pravidlo mlÄŤenlivosti a dĹŻvÄ›rnosti: to, o ÄŤem se mluvĂ­ a co se dozvĂ­m na skupinÄ› je dĹŻvÄ›rnĂ©, 
+                    mimo skupinu o tom nemluvĂ­ ÄŤlenovĂ©, ani vedoucĂ­ skupiny</li>
+                <li>pravidlo otevĹ™enosti a svobody: ve skupinÄ› mohu otevĹ™enÄ› vyjadĹ™ovat svĂ© nĂˇzory a pocity, svobodnÄ› se projevuji formou, 
+                    kterĂˇ mi vyhovuje, ale neomezuje ostatnĂ­. NemĹŻĹľu-li nÄ›co hned otevĹ™enÄ› sdÄ›lit, nebo na nÄ›co upĹ™Ă­mnÄ› odpovÄ›dÄ›t, 
+                    mĂˇm prĂˇvo Ĺ™Ă­ct â€žstopâ€ś a nemluvit o tom. MĂˇm prĂˇvo nevÄ›dÄ›t â€“ nikdo nevĂ­ vĹˇechno. KdyĹľ Ĺ™eknu, Ĺľe â€žnevĂ­mâ€ś, 
+                    otevĂ­rĂˇm tĂ­m moĹľnost, aby mi nÄ›kdo pomohl porozumÄ›t.</li>
+                <li>pravidlo zodpovÄ›dnosti k sobÄ› i druhĂ˝m: souÄŤĂˇstĂ­ je moje pravidelnĂˇ a vÄŤasnĂˇ dochĂˇzka a vzĂˇjemnĂ© naslouchĂˇnĂ­. 
+                    DruhĂ© nekritizuji, ale mluvĂ­m o tom, co se mnou jejich chovĂˇnĂ­ dÄ›lĂˇ, jak se cĂ­tĂ­m</li>
             </ul>
         </div>
 

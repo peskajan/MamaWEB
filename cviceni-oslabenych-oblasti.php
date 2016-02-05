@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Cílené cvičení oslabených oblastí | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>CĂ­lenĂ© cviÄŤenĂ­ oslabenĂ˝ch oblastĂ­ | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,96 +25,96 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Cílené cvičení oslabených oblastí</h2>
+            <h2 class="page-heading">CĂ­lenĂ© cviÄŤenĂ­ oslabenĂ˝ch oblastĂ­</h2>
 
-            <h3 class="featurette-heading">Typy nabízených cvičení</h3>
+            <h3 class="featurette-heading">Typy nabĂ­zenĂ˝ch cviÄŤenĂ­</h3>
             <div class="row">
                 <div class="col-lg-7">
                     <table class="afterlead">
-                        <tr><td>Cvičení pro rozvoj pozornosti u předškolních dětí</td> 
-                            <td class="price">1 000 Kč</td></tr>
-                        <tr><td>Cvičení pro rozvoj pozornosti KUPOZ pro 8-12 let</td> 
-                            <td class="price">1 500 Kč</td></tr>
-                        <tr><td>Cvičení pro rozvoj grafomotoriky u předškolních dětí</td> 
-                            <td class="price">1 000 Kč</td></tr>
-                        <tr><td>Cvičení pro rozvoj jemné motoriky pro 3-4 leté děti</td> 
-                            <td class="price">1 000 Kč</td></tr>
-                        <tr><td> <a id="a-price-detail" href="" title="Podrobněji o ceně">Podrobněji o ceně</a></td> 
+                        <tr><td>CviÄŤenĂ­ pro rozvoj pozornosti u pĹ™edĹˇkolnĂ­ch dÄ›tĂ­</td> 
+                            <td class="price">1 000 KÄŤ</td></tr>
+                        <tr><td>CviÄŤenĂ­ pro rozvoj pozornosti KUPOZ pro 8-12 let</td> 
+                            <td class="price">1 500 KÄŤ</td></tr>
+                        <tr><td>CviÄŤenĂ­ pro rozvoj grafomotoriky u pĹ™edĹˇkolnĂ­ch dÄ›tĂ­</td> 
+                            <td class="price">1 000 KÄŤ</td></tr>
+                        <tr><td>CviÄŤenĂ­ pro rozvoj jemnĂ© motoriky pro 3-4 letĂ© dÄ›ti</td> 
+                            <td class="price">1 000 KÄŤ</td></tr>
+                        <tr><td> <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">PodrobnÄ›ji o cenÄ›</a></td> 
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-5">
-                    <img class="example-image-link parallelogram" src="/images/gallery/cilene-cviceni.jpg" alt="Cílené cvičení oslabených oblastí, rozvoj pozornosti, jemné motoriky, grafomotoriky, předškoláci, školáci, pro děti"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/cilene-cviceni.jpg" alt="CĂ­lenĂ© cviÄŤenĂ­ oslabenĂ˝ch oblastĂ­, rozvoj pozornosti, jemnĂ© motoriky, grafomotoriky, pĹ™edĹˇkolĂˇci, ĹˇkolĂˇci, pro dÄ›ti"/>
                 </div>
             </div>
 
             <p class="afterlead">
-                Cena zahrnuje 5-6 setkání s odborným pracovníkem, pomůcky a materiály pro plnění jednotlivých úkolů
+                Cena zahrnuje 5-6 setkĂˇnĂ­ s odbornĂ˝m pracovnĂ­kem, pomĹŻcky a materiĂˇly pro plnÄ›nĂ­ jednotlivĂ˝ch ĂşkolĹŻ
             </p>
 
-            <h3 class="featurette-heading">Podrobnější informace ke cvičení pozornosti</h3>
+            <h3 class="featurette-heading">PodrobnÄ›jĹˇĂ­ informace ke cviÄŤenĂ­ pozornosti</h3>
             <p class="afterlead">                 
-                Cvičení je zaměřeno na posilování koncentrace pozornosti v různých činnostech a na rozvoj mluvní pohotovosti dítěte. 
-                Cvičení u dítěte také upevňuje základní pracovní návyky  a posiluje pozitivní vztah rodiče a dítěte. 
-                Společné hravé činnosti vytvářejí základ pro budoucí soulad při plnění školních povinností. 
+                CviÄŤenĂ­ je zamÄ›Ĺ™eno na posilovĂˇnĂ­ koncentrace pozornosti vÂ rĹŻznĂ˝ch ÄŤinnostech a na rozvoj mluvnĂ­ pohotovosti dĂ­tÄ›te. 
+                CviÄŤenĂ­ u dĂ­tÄ›te takĂ© upevĹuje zĂˇkladnĂ­ pracovnĂ­ nĂˇvyky  a posiluje pozitivnĂ­ vztah rodiÄŤe a dĂ­tÄ›te. 
+                SpoleÄŤnĂ© hravĂ© ÄŤinnosti vytvĂˇĹ™ejĂ­ zĂˇklad pro budoucĂ­ soulad pĹ™i plnÄ›nĂ­ ĹˇkolnĂ­ch povinnostĂ­. 
             </p> 
             <p class="afterlead">                 
-                Formou hry procvičuje rodič s dítětem schopnost koncentrace pozornosti v oblasti sluchového a zrakového vnímání, 
-                při koordinaci pohybů,  při manuálních činnostech a při mluvním projevu. 
-                Jednotlivé činnosti jsou seřazeny s narůstající náročností a zároveň s možností obměn tak, aby se program mohl 
-                přizpůsobit schopnostem každého dítěte.
+                Formou hry procviÄŤuje rodiÄŤ sÂ dĂ­tÄ›tem schopnost koncentrace pozornosti vÂ oblasti sluchovĂ©ho a zrakovĂ©ho vnĂ­mĂˇnĂ­, 
+                pĹ™i koordinaci pohybĹŻ,  pĹ™i manuĂˇlnĂ­ch ÄŤinnostech a pĹ™i mluvnĂ­m projevu. 
+                JednotlivĂ© ÄŤinnosti jsou seĹ™azeny sÂ narĹŻstajĂ­cĂ­ nĂˇroÄŤnostĂ­ a zĂˇroveĹ sÂ moĹľnostĂ­ obmÄ›n tak, aby se program mohl 
+                pĹ™izpĹŻsobit schopnostem kaĹľdĂ©ho dĂ­tÄ›te.
             </p> 
             <p class="afterlead bold">                 
-                Způsob práce a časové rozložení:
+                ZpĹŻsob prĂˇce a ÄŤasovĂ© rozloĹľenĂ­:
             </p> 
             <p class="afterlead">                 
-                Po dobu 10 týdnů dítě spolu s rodičem plní každý den tři až čtyři jednoduché úkoly (celkem cca 10-15 minut). 
-                Zadání a způsob plnění úkolů předvede rodiči a dítěti odborný pracovník  1x za 14 dní při společném setkání 
-                (tj. proběhne celkem 5 společných setkání po 14 dnech, cca 15-20 minut).
+                Po dobu 10 tĂ˝dnĹŻ dĂ­tÄ› spolu sÂ rodiÄŤem plnĂ­ kaĹľdĂ˝ den tĹ™i aĹľ ÄŤtyĹ™i jednoduchĂ© Ăşkoly (celkem cca 10-15 minut). 
+                ZadĂˇnĂ­ a zpĹŻsob plnÄ›nĂ­ ĂşkolĹŻ pĹ™edvede rodiÄŤi a dĂ­tÄ›ti odbornĂ˝ pracovnĂ­k  1x za 14 dnĂ­ pĹ™i spoleÄŤnĂ©m setkĂˇnĂ­ 
+                (tj. probÄ›hne celkem 5 spoleÄŤnĂ˝ch setkĂˇnĂ­ po 14 dnech, cca 15-20 minut).
             </p> 
 
-            <h3 class="featurette-heading">Podrobnější informace pro cvičení jemné motoriky a grafomotoriky</h3>
+            <h3 class="featurette-heading">PodrobnÄ›jĹˇĂ­ informace pro cviÄŤenĂ­ jemnĂ© motoriky a grafomotoriky</h3>
             <p class="afterlead">                 
-                Program je určen dětem předškolního věku, popř. dětem po odkladu školní docházky s obtížemi v oblasti jemné motoriky, 
-                kreslení či při celkové neobratnosti dítěte.
+                Program je urÄŤen dÄ›tem pĹ™edĹˇkolnĂ­ho vÄ›ku, popĹ™. dÄ›tem po odkladu ĹˇkolnĂ­ dochĂˇzky sÂ obtĂ­Ĺľemi vÂ oblasti jemnĂ© motoriky, 
+                kreslenĂ­ ÄŤi pĹ™i celkovĂ© neobratnosti dĂ­tÄ›te.
             </p> 
             <p class="afterlead">                 
-                Cílem je zmírnění obtíží při kreslení, upevňování správného úchopu tužky, stimulace dalšího rozvoje jemné motoriky a 
-                podpora budoucího psaní. V rámci programu jsou  posilovány pracovní návyky a  tvořivost dítěte, jeho emoční vyladění a 
-                sebevědomí, Důraz je kladen na  pozitivní vztah dítěte a rodiče při společných činnostech, který usnadní budoucí plnění 
-                domácích úkolů.
+                CĂ­lem je zmĂ­rnÄ›nĂ­ obtĂ­ĹľĂ­ pĹ™i kreslenĂ­, upevĹovĂˇnĂ­ sprĂˇvnĂ©ho Ăşchopu tuĹľky, stimulace dalĹˇĂ­ho rozvoje jemnĂ© motoriky a 
+                podpora budoucĂ­ho psanĂ­. VÂ rĂˇmci programu jsou  posilovĂˇny pracovnĂ­ nĂˇvyky a  tvoĹ™ivost dĂ­tÄ›te, jeho emoÄŤnĂ­ vyladÄ›nĂ­ a 
+                sebevÄ›domĂ­, DĹŻraz je kladen na  pozitivnĂ­ vztah dĂ­tÄ›te a rodiÄŤe pĹ™i spoleÄŤnĂ˝ch ÄŤinnostech, kterĂ˝ usnadnĂ­ budoucĂ­ plnÄ›nĂ­ 
+                domĂˇcĂ­ch ĂşkolĹŻ.
             </p> 
             <p class="afterlead">                 
-                Rodič spolu s dítětem  pracuje s keramickou hlínou, drobnými předměty a různým materiálem  tak, 
-                aby došlo k uvolnění horních končetin a posílení jednotlivých svalových skupin. 
-                Formou hry se procvičují také jednotlivé grafické cviky. Činnosti jsou seřazeny s narůstající náročností a zároveň s možností 
-                obměn tak, aby se program mohl  přizpůsobit schopnostem každého dítěte.
+                RodiÄŤ spolu sÂ dĂ­tÄ›tem  pracuje sÂ keramickou hlĂ­nou, drobnĂ˝mi pĹ™edmÄ›ty a rĹŻznĂ˝m materiĂˇlem  tak, 
+                aby doĹˇlo kÂ uvolnÄ›nĂ­ hornĂ­ch konÄŤetin a posĂ­lenĂ­ jednotlivĂ˝ch svalovĂ˝ch skupin. 
+                Formou hry se procviÄŤujĂ­ takĂ© jednotlivĂ© grafickĂ© cviky. ÄŚinnosti jsou seĹ™azeny sÂ narĹŻstajĂ­cĂ­ nĂˇroÄŤnostĂ­ a zĂˇroveĹ sÂ moĹľnostĂ­ 
+                obmÄ›n tak, aby se program mohl  pĹ™izpĹŻsobit schopnostem kaĹľdĂ©ho dĂ­tÄ›te.
             </p> 
             <p class="afterlead bold">                 
-                Způsob práce a časové rozložení:
+                ZpĹŻsob prĂˇce a ÄŤasovĂ© rozloĹľenĂ­:
             </p> 
             <p class="afterlead">                 
-                Po dobu 10 týdnů dítě spolu s rodičem plní každý den tři až čtyři jednoduché úkoly (celkem cca 10-15 minut). 
-                Zadání a způsob plnění úkolů předvede rodiči a dítěti odborný pracovník  1x za 14 dní při společném setkání 
-                (tj. proběhne celkem 5 společných setkání po 14 dnech, cca 15-20 minut).
+                Po dobu 10 tĂ˝dnĹŻ dĂ­tÄ› spolu sÂ rodiÄŤem plnĂ­ kaĹľdĂ˝ den tĹ™i aĹľ ÄŤtyĹ™i jednoduchĂ© Ăşkoly (celkem cca 10-15 minut). 
+                ZadĂˇnĂ­ a zpĹŻsob plnÄ›nĂ­ ĂşkolĹŻ pĹ™edvede rodiÄŤi a dĂ­tÄ›ti odbornĂ˝ pracovnĂ­k  1x za 14 dnĂ­ pĹ™i spoleÄŤnĂ©m setkĂˇnĂ­ 
+                (tj. probÄ›hne celkem 5 spoleÄŤnĂ˝ch setkĂˇnĂ­ po 14 dnech, cca 15-20 minut).
             </p> 
 
-            <h3 class="featurette-heading">Podrobnější informace ke cvičení KUPOZ - (autorka PhDr. Pavla Kuncová)</h3>
+            <h3 class="featurette-heading">PodrobnÄ›jĹˇĂ­ informace ke cviÄŤenĂ­ KUPOZ - (autorka PhDr. Pavla KuncovĂˇ)</h3>
             <p class="afterlead">                 
-                Program pro rozvoj pozornosti je určen dětem od 7 let s  poruchami pozornosti, dětem neklidným a nesoustředěným i dětem 
-                nejistým  a pomalým, s nižším sebevědomím. Cílem je zlepšení  pozornosti a schopnosti pravidelné soustředěné práce dětí, 
-                zrychlení  jejich psychomotorického tempa. Během společně prováděných činností se posiluje emoční vyladění a komunikace 
-                mezi rodičem a dítětem a posilováno je také sebevědomí dítěte.
+                Program pro rozvoj pozornosti je urÄŤen dÄ›tem od 7 let s Â poruchami pozornosti, dÄ›tem neklidnĂ˝m a nesoustĹ™edÄ›nĂ˝m i dÄ›tem 
+                nejistĂ˝m  a pomalĂ˝m, sÂ niĹľĹˇĂ­m sebevÄ›domĂ­m. CĂ­lem je zlepĹˇenĂ­  pozornosti a schopnosti pravidelnĂ© soustĹ™edÄ›nĂ© prĂˇce dÄ›tĂ­, 
+                zrychlenĂ­  jejich psychomotorickĂ©ho tempa. BÄ›hem spoleÄŤnÄ› provĂˇdÄ›nĂ˝ch ÄŤinnostĂ­ se posiluje emoÄŤnĂ­ vyladÄ›nĂ­ a komunikace 
+                mezi rodiÄŤem a dĂ­tÄ›tem a posilovĂˇno je takĂ© sebevÄ›domĂ­ dĂ­tÄ›te.
             </p> 
             <p class="afterlead bold">                 
-                Způsob práce a časové rozložení:
+                ZpĹŻsob prĂˇce a ÄŤasovĂ© rozloĹľenĂ­:
             </p> 
             <p class="afterlead">                 
-                Rodič s dítětem pracuje dle instrukcí s různými pracovními listy  každý den po dobu 15ti týdnů (cca 15 minut denně). 
-                1x za 14 dní  probíhá konzultace s odborníkem, který s dítětem předvede jednotlivé činnosti a seznámí  rodiče  s úkoly 
-                na dalších 14 dní. Materiál obsahuje vždy čtyři úkoly - pro rozvoj  zrakové i sluchové pozornosti, vizuomotorické 
-                koordinace a mluvních schopností dítěte , které jsou  nenásilně procvičovány prostřednictvím  jednoduchých, 
-                hravých činností a  pracovních listů.
+                RodiÄŤ sÂ dĂ­tÄ›tem pracuje dle instrukcĂ­ sÂ rĹŻznĂ˝mi pracovnĂ­mi listy  kaĹľdĂ˝ den po dobu 15ti tĂ˝dnĹŻ (cca 15 minut dennÄ›). 
+                1x za 14 dnĂ­  probĂ­hĂˇ konzultace sÂ odbornĂ­kem, kterĂ˝ sÂ dĂ­tÄ›tem pĹ™edvede jednotlivĂ© ÄŤinnosti a seznĂˇmĂ­  rodiÄŤe  sÂ Ăşkoly 
+                na dalĹˇĂ­ch 14 dnĂ­. MateriĂˇl obsahuje vĹľdy ÄŤtyĹ™i Ăşkoly - pro rozvoj  zrakovĂ© i sluchovĂ© pozornosti, vizuomotorickĂ© 
+                koordinace a mluvnĂ­ch schopnostĂ­ dĂ­tÄ›te , kterĂ© jsou  nenĂˇsilnÄ› procviÄŤovĂˇny prostĹ™ednictvĂ­m  jednoduchĂ˝ch, 
+                hravĂ˝ch ÄŤinnostĂ­ a  pracovnĂ­ch listĹŻ.
             </p> 
         </div>
         

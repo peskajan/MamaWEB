@@ -1,12 +1,12 @@
-<div id="dialog-price-detail" style="width: 500px;" title="Podrobnìji k cenì">
+<div id="dialog-price-detail" style="width: 500px;" title="PodrobnÄ›ji k cenÄ›">
     <p>
-        Cena je závislá na typu nabízenıch èinností (viz nabídka konkrétních slueb) Honoráø i ostatní podmínky spolupráce 
-        jsou pøedmìtem rozhovoru na prvním setkání, na kterém je dostatek èasu mluvit o vzájemném oèekávání a monostech, které se nabízí. 
-        Platí se v hotovosti, po kadém setkání vám vypíši daòovı doklad. Po domluvì moná i platba na bankovní  úèet. 
-        Pokud se na domluvenı termín nemùete dostavit, je nutné se omluvit nejpozdìji do 24 hod pøed sjednanım termínem. 
-        Pokud tak neuèiníte, bude vám konzultace úètována jako probìhlá.
+        Cena je zÃ¡vislÃ¡ na typu nabÃ­zenÃ½ch ÄinnostÃ­ (viz nabÃ­dka konkrÃ©tnÃ­ch sluÅ¾eb) HonorÃ¡Å™ i ostatnÃ­ podmÃ­nky spoluprÃ¡ce 
+        jsou pÅ™edmÄ›tem rozhovoru na prvnÃ­m setkÃ¡nÃ­, na kterÃ©m je dostatek Äasu mluvit o vzÃ¡jemnÃ©m oÄekÃ¡vÃ¡nÃ­ a moÅ¾nostech, kterÃ© se nabÃ­zÃ­. 
+        PlatÃ­ se v hotovosti, po kaÅ¾dÃ©m setkÃ¡nÃ­ vÃ¡m vypÃ­Å¡i daÅˆovÃ½ doklad. Po domluvÄ› moÅ¾nÃ¡ i platba na bankovnÃ­  ÃºÄet. 
+        Pokud se na domluvenÃ½ termÃ­n nemÅ¯Å¾ete dostavit, je nutnÃ© se omluvit nejpozdÄ›ji do 24 hod pÅ™ed sjednanÃ½m termÃ­nem. 
+        Pokud tak neuÄinÃ­te, bude vÃ¡m konzultace ÃºÄtovÃ¡na jako probÄ›hlÃ¡.
     </p>
     <p>
-        è.úètu – 0570919123/0800
+        Ä.ÃºÄtu â€“ 0570919123/0800
     </p>
 </div>

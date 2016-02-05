@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Rodinné poradenství, psychoterapie, arteterapie | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>RodinnĂ© poradenstvĂ­, psychoterapie, arteterapie | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,90 +25,90 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Rodinné poradenství, psychoterapie, arteterapie</h2>
+            <h2 class="page-heading">RodinnĂ© poradenstvĂ­, psychoterapie, arteterapie</h2>
 
-            <h3 class="featurette-heading">Je určeno lidem v problematické partnerské či životní situaci, např:</h3>
+            <h3 class="featurette-heading">Je urÄŤeno lidem vÂ problematickĂ© partnerskĂ© ÄŤi ĹľivotnĂ­ situaci, napĹ™:</h3>
             <ul class="afterlead">
-                <li>problémy v komunikaci, neshody, nedorozumění, hádky, osamělost</li>
-                <li>neshody v oblasti kompetencí, práv a povinností členů rodiny</li>
-                <li>mezigenerační problémy</li>
-                <li>výchovné problémy s dětmi</li>
-                <li>rodinné, manželské, párové a osobní krize</li>
-                <li>předrozvodové, rozvodové a porozvodové poradenství, dohody o styku s dětmi</li>
-                <li>zvládání zátěžových životních situací</li>
+                <li>problĂ©my v komunikaci, neshody, nedorozumÄ›nĂ­, hĂˇdky, osamÄ›lost</li>
+                <li>neshody v oblasti kompetencĂ­, prĂˇv a povinnostĂ­ ÄŤlenĹŻ rodiny</li>
+                <li>mezigeneraÄŤnĂ­ problĂ©my</li>
+                <li>vĂ˝chovnĂ© problĂ©my s dÄ›tmi</li>
+                <li>rodinnĂ©, manĹľelskĂ©, pĂˇrovĂ© a osobnĂ­ krize</li>
+                <li>pĹ™edrozvodovĂ©, rozvodovĂ© a porozvodovĂ© poradenstvĂ­, dohody o styku s dÄ›tmi</li>
+                <li>zvlĂˇdĂˇnĂ­ zĂˇtÄ›ĹľovĂ˝ch ĹľivotnĂ­ch situacĂ­</li>
             </ul>
 
             <div class="row">
                 <div class="col-lg-7">
                     <table class="afterlead">
-                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
-                        <tr><td>Individuálně</td> 
-                            <td class="price">500 Kč</td></tr>
-                        <tr><td>V páru</td> 
-                            <td class="price">700 Kč</td></tr>
+                        <tr><th>CenĂ­k <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">(*)</a></th></tr>
+                        <tr><td>IndividuĂˇlnÄ›</td> 
+                            <td class="price">500 KÄŤ</td></tr>
+                        <tr><td>V pĂˇru</td> 
+                            <td class="price">700 KÄŤ</td></tr>
                         <tr>
-                            <td class="td-top-margin" colspan="2">při dlouhodobější spolupráci cena dohodou</td> 
+                            <td class="td-top-margin" colspan="2">pĹ™i dlouhodobÄ›jĹˇĂ­ spoluprĂˇci cena dohodou</td> 
                         </tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-5">
-                    <img class="example-image-link parallelogram" src="/images/gallery/rodina.jpg" alt="Rodinné poradenství, terapie, výchovné obtíže, rozvod, partnerská krize"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/rodina.jpg" alt="RodinnĂ© poradenstvĂ­, terapie, vĂ˝chovnĂ© obtĂ­Ĺľe, rozvod, partnerskĂˇ krize"/>
                 </div>
             </div>
 
 
             <p class="afterlead">                 
-                Poradenství probíhá v předem domluvených termínech, délka jednoho setkání je 1 hodina, 
-                počet setkání záleží na domluvě klienta s poradcem. 
+                PoradenstvĂ­ probĂ­hĂˇ vÂ pĹ™edem domluvenĂ˝ch termĂ­nech, dĂ©lka jednoho setkĂˇnĂ­ je 1 hodina, 
+                poÄŤet setkĂˇnĂ­ zĂˇleĹľĂ­ na domluvÄ› klienta sÂ poradcem. 
             </p>
 
-            <h3 class="featurette-heading">Poradenství</h3>
+            <h3 class="featurette-heading">PoradenstvĂ­</h3>
             <p class="afterlead">        
-                Je určeno pro ty, kteří se potřebují zorientovat ve své situaci při jakékoliv osobní, vztahové či pracovní problematice. 
-                Také pro jedince v krizové situaci, kteří hledají oporu a potřebují získat nadhled.  Poradenství je příležitost zorientovat 
-                se v problému a je spíše krátkodobého charakteru. Cílem poradenství je zmapování situace a hledání vhodných prostředků 
-                k jejímu řešení. Vyústěním poradenství  může být také rozkrytí problému a následné hlubší zpracování v rámci terapie.
+                Je urÄŤeno pro ty, kteĹ™Ă­ se potĹ™ebujĂ­ zorientovat ve svĂ© situaci pĹ™i jakĂ©koliv osobnĂ­, vztahovĂ© ÄŤi pracovnĂ­ problematice. 
+                TakĂ© pro jedince v krizovĂ© situaci, kteĹ™Ă­ hledajĂ­ oporu a potĹ™ebujĂ­ zĂ­skat nadhled.  PoradenstvĂ­ je pĹ™Ă­leĹľitost zorientovat 
+                se v problĂ©mu a je spĂ­Ĺˇe krĂˇtkodobĂ©ho charakteru. CĂ­lem poradenstvĂ­ je zmapovĂˇnĂ­ situace a hledĂˇnĂ­ vhodnĂ˝ch prostĹ™edkĹŻ 
+                k jejĂ­mu Ĺ™eĹˇenĂ­. VyĂşstÄ›nĂ­m poradenstvĂ­  mĹŻĹľe bĂ˝t takĂ© rozkrytĂ­ problĂ©mu a nĂˇslednĂ© hlubĹˇĂ­ zpracovĂˇnĂ­ v rĂˇmci terapie.
             </p>
 
             <h3 class="featurette-heading">Psychoterapie</h3>
             <p class="afterlead">        
-                Základem  je vztah klienta a terapeuta, založený na vzájemné důvěře a odhodlání klienta porozumět lépe sobě samému. 
-                Cílem je pak hlubší nahlédnutí do podstaty obtíží a následná změna v prožívání  a chování, která vede k aktivnějšímu 
-                přístupu k životu a větší spokojenosti klienta.
+                ZĂˇkladem  je vztah klienta a terapeuta, zaloĹľenĂ˝ na vzĂˇjemnĂ© dĹŻvÄ›Ĺ™e a odhodlĂˇnĂ­ klienta porozumÄ›t lĂ©pe sobÄ› samĂ©mu. 
+                CĂ­lem je pak hlubĹˇĂ­ nahlĂ©dnutĂ­ do podstaty obtĂ­ĹľĂ­ a nĂˇslednĂˇ zmÄ›na v proĹľĂ­vĂˇnĂ­  a chovĂˇnĂ­, kterĂˇ vede k aktivnÄ›jĹˇĂ­mu 
+                pĹ™Ă­stupu k Ĺľivotu a vÄ›tĹˇĂ­ spokojenosti klienta.
             </p>
 
             <h3 class="featurette-heading">Arteterapie</h3>
             <p class="afterlead">        
-                Opírá se o výtvarný projev klienta jako o léčebný prostředek, který umožňuje přímější vyjádření emocí, 
-                potlačovaných myšlenek, fantazie, postupné zvědomování vnitřních rozporů. Prožitky během tvorby se dávají do souvislostí 
-                s aktuálními problémy, pomáhají při hledání jejich řešení. Je vhodná u dětí, u klientů, kteří se těžko vyjadřují slovy, 
+                OpĂ­rĂˇ se o vĂ˝tvarnĂ˝ projev klienta jako o lĂ©ÄŤebnĂ˝ prostĹ™edek, kterĂ˝ umoĹľĹuje pĹ™Ă­mÄ›jĹˇĂ­ vyjĂˇdĹ™enĂ­ emocĂ­, 
+                potlaÄŤovanĂ˝ch myĹˇlenek, fantazie, postupnĂ© zvÄ›domovĂˇnĂ­ vnitĹ™nĂ­ch rozporĹŻ. ProĹľitky bÄ›hem tvorby se dĂˇvajĂ­ do souvislostĂ­ 
+                s aktuĂˇlnĂ­mi problĂ©my, pomĂˇhajĂ­ pĹ™i hledĂˇnĂ­ jejich Ĺ™eĹˇenĂ­. Je vhodnĂˇ u dÄ›tĂ­, u klientĹŻ, kteĹ™Ă­ se tÄ›Ĺľko vyjadĹ™ujĂ­ slovy, 
                 nebo jsou jimi naopak zahlceni.
-                Je určena pro ty, kteří se na své obtíže chtějí podívat trochu  z jiného úhlu pohledu. Je vhodná také u zacyklených obtíží, 
-                ke kterým je obtížné dostat se pomocí slov. „Léčebný“ účinek má i samotný proces tvoření, který klientovi umožní zpracovat 
-                a změnit aktuální situaci v rámci  výtvarného procesu, společně s terapeutem pak hledají paralery 
-                a možnosti změny i v reálném životě.
+                Je urÄŤena pro ty, kteĹ™Ă­ se na svĂ© obtĂ­Ĺľe chtÄ›jĂ­ podĂ­vat trochu  z jinĂ©ho Ăşhlu pohledu. Je vhodnĂˇ takĂ© u zacyklenĂ˝ch obtĂ­ĹľĂ­, 
+                ke kterĂ˝m je obtĂ­ĹľnĂ© dostat se pomocĂ­ slov. â€žLĂ©ÄŤebnĂ˝â€ś ĂşÄŤinek mĂˇ i samotnĂ˝ proces tvoĹ™enĂ­, kterĂ˝ klientovi umoĹľnĂ­ zpracovat 
+                a zmÄ›nit aktuĂˇlnĂ­ situaci v rĂˇmci  vĂ˝tvarnĂ©ho procesu, spoleÄŤnÄ› s terapeutem pak hledajĂ­ paralery 
+                a moĹľnosti zmÄ›ny i v reĂˇlnĂ©m ĹľivotÄ›.
             </p>
 
 
-            <h3 class="featurette-heading">U všech uvedených služeb můžete využít:</h3>
+            <h3 class="featurette-heading">U vĹˇech uvedenĂ˝ch sluĹľeb mĹŻĹľete vyuĹľĂ­t:</h3>
             <ul class="afterlead">
 
-                <li><b>Individuální konzultace</b> - Poradenského procesu se účastní jen klient starší 16let a odborný pracovník. 
-                    Je určena pro ty, kteří chtějí více porozumět sami sobě a kořenům svých obtíží. Je v ní dostatek prostoru pro rozlišení 
-                    „co z toho co dělám je  pro mě užitečné a co mi naopak škodí“. V rámci individuální terapie můžete hledat 
-                    jiné možnosti a tvořivější způsoby řešení svých obtíží.</li>
+                <li><b>IndividuĂˇlnĂ­ konzultace</b> - PoradenskĂ©ho procesu se ĂşÄŤastnĂ­ jen klient starĹˇĂ­ 16let a odbornĂ˝ pracovnĂ­k. 
+                    Je urÄŤena pro ty, kteĹ™Ă­ chtÄ›jĂ­ vĂ­ce porozumÄ›t sami sobÄ› a koĹ™enĹŻm svĂ˝ch obtĂ­ĹľĂ­. Je v nĂ­ dostatek prostoru pro rozliĹˇenĂ­ 
+                    â€žco z toho co dÄ›lĂˇm je  pro mÄ› uĹľiteÄŤnĂ© a co mi naopak ĹˇkodĂ­â€ś. V rĂˇmci individuĂˇlnĂ­ terapie mĹŻĹľete hledat 
+                    jinĂ© moĹľnosti a tvoĹ™ivÄ›jĹˇĂ­ zpĹŻsoby Ĺ™eĹˇenĂ­ svĂ˝ch obtĂ­ĹľĂ­.</li>
 
-                <li><b>Párová konzultace</b> - Poradenského procesu se účastní pár, který má možnost jak společných 
-                    tak individuálních konzultací s terapeutem. Je určena pro ty, kteří prožívají krizi v partnerském vztahu a vlivem silných emocí, 
-                    vzájemného zraňování a obviňování nemohou najít a překonat příčinu krize.  Je zde prostor pochopit lépe jeden druhého 
-                    a společně změnit to, co vztahu škodí a hledat „co potřebujeme aby nám spolu bylo lépe“.</li>
+                <li><b>PĂˇrovĂˇ konzultace</b> - PoradenskĂ©ho procesu se ĂşÄŤastnĂ­ pĂˇr, kterĂ˝ mĂˇ moĹľnost jak spoleÄŤnĂ˝ch 
+                    tak individuĂˇlnĂ­ch konzultacĂ­ s terapeutem. Je urÄŤena pro ty, kteĹ™Ă­ proĹľĂ­vajĂ­ krizi v partnerskĂ©m vztahu a vlivem silnĂ˝ch emocĂ­, 
+                    vzĂˇjemnĂ©ho zraĹovĂˇnĂ­ a obviĹovĂˇnĂ­ nemohou najĂ­t a pĹ™ekonat pĹ™Ă­ÄŤinu krize.  Je zde prostor pochopit lĂ©pe jeden druhĂ©ho 
+                    a spoleÄŤnÄ› zmÄ›nit to, co vztahu ĹˇkodĂ­ a hledat â€žco potĹ™ebujeme aby nĂˇm spolu bylo lĂ©peâ€ś.</li>
 
-                <li><b>Rodinná konzultace</b> - Zaměřuje se na celou rodinu včetně dětí, věnuje pozornost vzájemným vztahům v celé rodině. 
-                    Konzultace samotného dítěte mladšího 16let je možná v případě označení problému jako rodinného, 
-                    podepsaným souhlasem zákonného zástupce. Je určena pro ty, kteří se ve svém rodinném systému potýkají s těžkou situací. 
-                    Je zde prostor pro všechny členy rodiny uvědomit si a říct ostatním jak situaci vnímají a společně hledat možná 
-                    východiska z aktuálně nepříznivé situace.</li>
+                <li><b>RodinnĂˇ konzultace</b> - ZamÄ›Ĺ™uje se na celou rodinu vÄŤetnÄ› dÄ›tĂ­, vÄ›nuje pozornost vzĂˇjemnĂ˝m vztahĹŻm v celĂ© rodinÄ›. 
+                    Konzultace samotnĂ©ho dĂ­tÄ›te mladĹˇĂ­ho 16let je moĹľnĂˇ v pĹ™Ă­padÄ› oznaÄŤenĂ­ problĂ©mu jako rodinnĂ©ho, 
+                    podepsanĂ˝m souhlasem zĂˇkonnĂ©ho zĂˇstupce. Je urÄŤena pro ty, kteĹ™Ă­ se ve svĂ©m rodinnĂ©m systĂ©mu potĂ˝kajĂ­ s tÄ›Ĺľkou situacĂ­. 
+                    Je zde prostor pro vĹˇechny ÄŤleny rodiny uvÄ›domit si a Ĺ™Ă­ct ostatnĂ­m jak situaci vnĂ­majĂ­ a spoleÄŤnÄ› hledat moĹľnĂˇ 
+                    vĂ˝chodiska z aktuĂˇlnÄ› nepĹ™Ă­znivĂ© situace.</li>
             </ul>
         </div>
         

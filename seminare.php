@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Semináře pro učitele a výchovné pracovníky | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>SeminĂˇĹ™e pro uÄŤitele a vĂ˝chovnĂ© pracovnĂ­ky | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,166 +25,166 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Semináře pro učitele a výchovné pracovníky</h2>
+            <h2 class="page-heading">SeminĂˇĹ™e pro uÄŤitele a vĂ˝chovnĂ© pracovnĂ­ky</h2>
 
             <p class="lead">                 
-                V rámci spolupráce s centry celoživotního vzdělávání pedagogických pracovníků vedu semináře zaměřené na některé 
-                problematické oblasti  v mateřských a základních školách. Časová dotace seminářů je pět vyučovacích hodin.
+                VÂ rĂˇmci spoluprĂˇce sÂ centry celoĹľivotnĂ­ho vzdÄ›lĂˇvĂˇnĂ­ pedagogickĂ˝ch pracovnĂ­kĹŻ vedu seminĂˇĹ™e zamÄ›Ĺ™enĂ© na nÄ›kterĂ© 
+                problematickĂ© oblasti  vÂ mateĹ™skĂ˝ch a zĂˇkladnĂ­ch ĹˇkolĂˇch. ÄŚasovĂˇ dotace seminĂˇĹ™ĹŻ je pÄ›t vyuÄŤovacĂ­ch hodin.
             </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
-                        <tr><td>Cena dohodou, závisí na rozsahu semináře a počtu účastníků</td></tr>
+                        <tr><th>CenĂ­k <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">(*)</a></th></tr>
+                        <tr><td>Cena dohodou, zĂˇvisĂ­ na rozsahu seminĂˇĹ™e a poÄŤtu ĂşÄŤastnĂ­kĹŻ</td></tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/ucitele.jpg" alt="Semináře pro učitele a výchovné pracovníky"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/ucitele.jpg" alt="SeminĂˇĹ™e pro uÄŤitele a vĂ˝chovnĂ© pracovnĂ­ky"/>
                 </div>
             </div>
             
-            <h3 class="featurette-heading">Komunikace s  rodičem a dítětem ve vypjatých situacích, prvky šikany v MŠ</h3>
+            <h3 class="featurette-heading">Komunikace s  rodiÄŤem a dĂ­tÄ›tem ve vypjatĂ˝ch situacĂ­ch, prvky Ĺˇikany v MĹ </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> získat informace o  úskalích komunikace s rodičem ve vypjatých situacích a s možnými projevy šikany v MŠ. 
-                Seznámit se se základními zásadami efektivní komunikace s dospělými i dětmi. Osvojit si postup při přípravě a realizaci 
-                rozhovoru s rodiči o problémech jejich dítěte. Vyzkoušet si konkrétní postupy  a  možné reakce  na prvky šikany v MŠ.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> zĂ­skat informace o  ĂşskalĂ­ch komunikace s rodiÄŤem ve vypjatĂ˝ch situacĂ­ch a s moĹľnĂ˝mi projevy Ĺˇikany v MĹ . 
+                SeznĂˇmit se se zĂˇkladnĂ­mi zĂˇsadami efektivnĂ­ komunikace s dospÄ›lĂ˝mi i dÄ›tmi. Osvojit si postup pĹ™i pĹ™Ă­pravÄ› a realizaci 
+                rozhovoru s rodiÄŤi o problĂ©mech jejich dĂ­tÄ›te. VyzkouĹˇet si konkrĂ©tnĂ­ postupy  a  moĹľnĂ© reakce  na prvky Ĺˇikany v MĹ .
             </p>
             
-            <h3 class="featurette-heading">Pochvaly a tresty v MŠ</h3>
+            <h3 class="featurette-heading">Pochvaly a tresty v MĹ </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> seznámit se s problematikou odměn a trestů ve výchově dětí, s vhodnými postupy při jejich využívání. 
-                Osvojit si základní zásady přístupu k dětem předškolního věku a způsobu jejich oceňování a výchovného vedení. 
-                Získat informace a konkrétní náměty k podpoře vzájemného respektování mezi dětmi i vyjadřování respektu a ocenění ze strany učitelky MŠ.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> seznĂˇmit se s problematikou odmÄ›n a trestĹŻ ve vĂ˝chovÄ› dÄ›tĂ­, s vhodnĂ˝mi postupy pĹ™i jejich vyuĹľĂ­vĂˇnĂ­. 
+                Osvojit si zĂˇkladnĂ­ zĂˇsady pĹ™Ă­stupu k dÄ›tem pĹ™edĹˇkolnĂ­ho vÄ›ku a zpĹŻsobu jejich oceĹovĂˇnĂ­ a vĂ˝chovnĂ©ho vedenĂ­. 
+                ZĂ­skat informace a konkrĂ©tnĂ­ nĂˇmÄ›ty k podpoĹ™e vzĂˇjemnĂ©ho respektovĂˇnĂ­ mezi dÄ›tmi i vyjadĹ™ovĂˇnĂ­ respektu a ocenÄ›nĂ­ ze strany uÄŤitelky MĹ .
             </p>
 
-            <h3 class="featurette-heading">Relaxace pro děti</h3>
+            <h3 class="featurette-heading">Relaxace pro dÄ›ti</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám mateřských škol a 1. –2. ročníku základních škol<br>
-                <b>Obsah:</b> praktický seminář zaměřený na možnosti relaxace dětí předškolního a mladšího školního věku. 
-                Jejich využití ke zklidnění dětí a odstraňování únavy, techniky jsou vhodné také pro děti živé, hyperaktivní, 
-                popř. pro děti s LMD – zlepšují koncentraci pozornosti a navozují psychický klid a uvolnění. 
-                Součástí semináře je seznámení s hlavními zásadami a postupem jednotlivých technik i jejich praktický nácvik 
-                formou sebezkušenosti.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm mateĹ™skĂ˝ch Ĺˇkol a 1. â€“2. roÄŤnĂ­ku zĂˇkladnĂ­ch Ĺˇkol<br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na moĹľnosti relaxace dÄ›tĂ­ pĹ™edĹˇkolnĂ­ho a mladĹˇĂ­ho ĹˇkolnĂ­ho vÄ›ku. 
+                Jejich vyuĹľitĂ­ ke zklidnÄ›nĂ­ dÄ›tĂ­ a odstraĹovĂˇnĂ­ Ăşnavy, techniky jsou vhodnĂ© takĂ© pro dÄ›ti ĹľivĂ©, hyperaktivnĂ­, 
+                popĹ™. pro dÄ›ti sÂ LMD â€“ zlepĹˇujĂ­ koncentraci pozornosti a navozujĂ­ psychickĂ˝ klid a uvolnÄ›nĂ­. 
+                SouÄŤĂˇstĂ­ seminĂˇĹ™e je seznĂˇmenĂ­ sÂ hlavnĂ­mi zĂˇsadami a postupem jednotlivĂ˝ch technik i jejich praktickĂ˝ nĂˇcvik 
+                formou sebezkuĹˇenosti.
             </p>
 
-            <h3 class="featurette-heading">Preventivní logopedické chvilky</h3>
+            <h3 class="featurette-heading">PreventivnĂ­ logopedickĂ© chvilky</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> Seminář zaměřený na další obohacení rejstříku logopedických aktivit, respektujících předpokládaný 
-                artikulační vývoj dítěte. Plánování a struktura logopedických chvilek – dechová, artikulační cvičení, gymnastika mluvidel, 
-                jednoduchá grafomotorika a rozvoj jemné motoriky. Součástí semináře je praktické vyzkoušení vybraných cvičení z praxe, 
-                výměna zkušeností z preventivní praxe, zásobník činností k jednotlivým oblastem.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> SeminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na dalĹˇĂ­ obohacenĂ­ rejstĹ™Ă­ku logopedickĂ˝ch aktivit, respektujĂ­cĂ­ch pĹ™edpoklĂˇdanĂ˝ 
+                artikulaÄŤnĂ­ vĂ˝voj dĂ­tÄ›te. PlĂˇnovĂˇnĂ­ a struktura logopedickĂ˝ch chvilek â€“ dechovĂˇ, artikulaÄŤnĂ­ cviÄŤenĂ­, gymnastika mluvidel, 
+                jednoduchĂˇ grafomotorika a rozvoj jemnĂ© motoriky. SouÄŤĂˇstĂ­ seminĂˇĹ™e je praktickĂ© vyzkouĹˇenĂ­ vybranĂ˝ch cviÄŤenĂ­ zÂ praxe, 
+                vĂ˝mÄ›na zkuĹˇenostĂ­ zÂ preventivnĂ­ praxe, zĂˇsobnĂ­k ÄŤinnostĂ­ kÂ jednotlivĂ˝m oblastem.
             </p>
 
-            <h3 class="featurette-heading">Hry pro zvládání agresivity a neklidu </h3>
+            <h3 class="featurette-heading">Hry pro zvlĂˇdĂˇnĂ­ agresivity a neklidu </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelům 1. a 2. stupně ZŠ, vychovatelům ŠD nebo učitelkám MŠ<br>
-                <b>Obsah:</b> zážitkový seminář zaměřený na praktické vyzkoušení možných technik a činností, které pomáhají při zvládání 
-                agresivního chování dětí. Účastníci se seznámí s technikami, které vedou k přiměřenému a přijatelnému ventilování napětí a 
-                agrese, které posilují sebepoznání a sebekontrolu dětí a vedou k posilování pozitivních vztahů v kolektivu. Vyzkoušejí 
-                si možné způsoby  řešení konfliktů a vedení skupinových činností s dětmi – aby na základě vlastního prožitku mohly dětem 
-                zprostředkovat činností, které povedou k obohacení způsobů chování a jednání v konfliktní situaci.
+                <b>UrÄŤeno:</b> uÄŤitelĹŻm 1. a 2. stupnÄ› ZĹ , vychovatelĹŻm Ĺ D nebo uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> zĂˇĹľitkovĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na praktickĂ© vyzkouĹˇenĂ­ moĹľnĂ˝ch technik a ÄŤinnostĂ­, kterĂ© pomĂˇhajĂ­ pĹ™i zvlĂˇdĂˇnĂ­ 
+                agresivnĂ­ho chovĂˇnĂ­ dÄ›tĂ­. ĂšÄŤastnĂ­ci se seznĂˇmĂ­ sÂ technikami, kterĂ© vedou kÂ pĹ™imÄ›Ĺ™enĂ©mu a pĹ™ijatelnĂ©mu ventilovĂˇnĂ­ napÄ›tĂ­ a 
+                agrese, kterĂ© posilujĂ­ sebepoznĂˇnĂ­ a sebekontrolu dÄ›tĂ­ a vedou kÂ posilovĂˇnĂ­ pozitivnĂ­ch vztahĹŻ vÂ kolektivu. VyzkouĹˇejĂ­ 
+                si moĹľnĂ© zpĹŻsoby  Ĺ™eĹˇenĂ­ konfliktĹŻ a vedenĂ­ skupinovĂ˝ch ÄŤinnostĂ­ s dÄ›tmi â€“ aby na zĂˇkladÄ› vlastnĂ­ho proĹľitku mohly dÄ›tem 
+                zprostĹ™edkovat ÄŤinnostĂ­, kterĂ© povedou k obohacenĂ­ zpĹŻsobĹŻ chovĂˇnĂ­ a jednĂˇnĂ­ v konfliktnĂ­ situaci.
             </p>
 
-            <h3 class="featurette-heading">Třídní klima, komunikace v ZŠ</h3>
+            <h3 class="featurette-heading">TĹ™Ă­dnĂ­ klima, komunikace v ZĹ </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám ZŠ (vhodné je rozdělení na 1.a 2. stupeň ZŠ)<br>
-                <b>Obsah:</b> praktický seminář zaměřený na zmapování a zlepšování klimatu třídy a zefektivnění komunikace pedagoga se 
-                žáky i rodiči. Možná úskalí komunikačního procesu, pozitivní i negativní ovlivnění ze strany učitele, 
-                způsob předcházení obtížím v tomto procesu. Praktické vyzkoušení některých technik a postupů vhodných ke zlepšení 
-                spolupráce a komunikace dětí ve třídě.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm ZĹ  (vhodnĂ© je rozdÄ›lenĂ­ na 1.a 2. stupeĹ ZĹ )<br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na zmapovĂˇnĂ­ a zlepĹˇovĂˇnĂ­ klimatu tĹ™Ă­dy a zefektivnÄ›nĂ­ komunikace pedagoga se 
+                ĹľĂˇky i rodiÄŤi. MoĹľnĂˇ ĂşskalĂ­ komunikaÄŤnĂ­ho procesu, pozitivnĂ­ i negativnĂ­ ovlivnÄ›nĂ­ ze strany uÄŤitele, 
+                zpĹŻsob pĹ™edchĂˇzenĂ­ obtĂ­ĹľĂ­m vÂ tomto procesu. PraktickĂ© vyzkouĹˇenĂ­ nÄ›kterĂ˝ch technik a postupĹŻ vhodnĂ˝ch ke zlepĹˇenĂ­ 
+                spoluprĂˇce a komunikace dÄ›tĂ­ ve tĹ™Ă­dÄ›.
             </p>
 
-            <h3 class="featurette-heading">Cvičení pro rozvoj pozornosti</h3>
+            <h3 class="featurette-heading">CviÄŤenĂ­ pro rozvoj pozornosti</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ nebo učitelkám ZŠ<br>
-                <b>Obsah:</b> Praktický seminář zaměřený na prodlužování  doby koncentrace pozornosti a její procvičování u dětí 
-                předškolního věku. Konkrétní náměty a činnosti jsou zaměřeny na posilování pozornosti v oblasti zrakového a 
-                sluchového vnímání, zrakové a sluchové paměti a vizuomotorické koordinace. Součástí semináře je také seznámení s krátkými 
-                relaxačními  chvilkami,  vhodnými na zařazení do denního režimu, které rovněž posilují koncentraci pozornosti dětí.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ  nebo uÄŤitelkĂˇm ZĹ <br>
+                <b>Obsah:</b> PraktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na prodluĹľovĂˇnĂ­  doby koncentrace pozornosti a jejĂ­ procviÄŤovĂˇnĂ­ u dÄ›tĂ­ 
+                pĹ™edĹˇkolnĂ­ho vÄ›ku. KonkrĂ©tnĂ­ nĂˇmÄ›ty a ÄŤinnosti jsou zamÄ›Ĺ™eny na posilovĂˇnĂ­ pozornosti vÂ oblasti zrakovĂ©ho a 
+                sluchovĂ©ho vnĂ­mĂˇnĂ­, zrakovĂ© a sluchovĂ© pamÄ›ti a vizuomotorickĂ© koordinace. SouÄŤĂˇstĂ­ seminĂˇĹ™e je takĂ© seznĂˇmenĂ­ sÂ krĂˇtkĂ˝mi 
+                relaxaÄŤnĂ­mi  chvilkami,  vhodnĂ˝mi na zaĹ™azenĂ­ do dennĂ­ho reĹľimu, kterĂ© rovnÄ›Ĺľ posilujĂ­ koncentraci pozornosti dÄ›tĂ­.
             </p>
 
-            <h3 class="featurette-heading">Neklidné a nesoustředěné dítě</h3>
+            <h3 class="featurette-heading">NeklidnĂ© a nesoustĹ™edÄ›nĂ© dĂ­tÄ›</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ  nebo učitelkám ZŠ, vychovatelkám ve ŠD<br>
-                <b>Obsah:</b> seminář zaměřený na obecný  úvod do problematiky dětí  s obtížemi se soustředěním, 
-                děti neklidné ( LMD, ADHD sy,  ADD sy) a také na práci s nimi ve třídě.  Součástí zážitkového 
-                semináře je  porozumění situaci  těchto dětí, rozpoznání typických projevů  v chování dětí a následné možnosti 
-                řešení problematických situací. Učitelé si vyzkoušejí osvědčené metody a konkrétní techniky práce s těmito 
-                dětmi a mohou si  navzájem vyměnit zkušenosti ze své praxe.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ   nebo uÄŤitelkĂˇm ZĹ , vychovatelkĂˇm ve Ĺ D<br>
+                <b>Obsah:</b> seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na obecnĂ˝  Ăşvod do problematiky dÄ›tĂ­  sÂ obtĂ­Ĺľemi se soustĹ™edÄ›nĂ­m, 
+                dÄ›ti neklidnĂ© (Â LMD, ADHD sy,  ADD sy) a takĂ© na prĂˇci sÂ nimi ve tĹ™Ă­dÄ›.  SouÄŤĂˇstĂ­ zĂˇĹľitkovĂ©ho 
+                seminĂˇĹ™e je  porozumÄ›nĂ­ situaci  tÄ›chto dÄ›tĂ­, rozpoznĂˇnĂ­ typickĂ˝ch projevĹŻ  vÂ chovĂˇnĂ­ dÄ›tĂ­ a nĂˇslednĂ© moĹľnosti 
+                Ĺ™eĹˇenĂ­ problematickĂ˝ch situacĂ­. UÄŤitelĂ© si vyzkouĹˇejĂ­ osvÄ›dÄŤenĂ© metody a konkrĂ©tnĂ­ techniky prĂˇce sÂ tÄ›mito 
+                dÄ›tmi a mohou si  navzĂˇjem vymÄ›nit zkuĹˇenosti ze svĂ© praxe.
             </p>
 
-            <h3 class="featurette-heading">Nástup dítěte do ZŠ – školní zralost</h3>
+            <h3 class="featurette-heading">NĂˇstup dĂ­tÄ›te do ZĹ  â€“ ĹˇkolnĂ­ zralost</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> praktický seminář zaměřený na pedagogickou diagnostiku dítěte předškolního věku a na možnosti spolupráce MŠ 
-                a PPP při posuzování školní zralosti. Problematika odkladů školní docházky a předčasného vstupu do prvního ročníku, 
-                nezbytnost individualizace v základní škole. Seznámení a vyzkoušení praktických aktivit a cvičení 
-                zaměřených na procvičování jednotlivých oblastí důležitých pro úspěšné zvládnutí nároků školy.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na pedagogickou diagnostiku dĂ­tÄ›te pĹ™edĹˇkolnĂ­ho vÄ›ku a na moĹľnosti spoluprĂˇce MĹ  
+                a PPP pĹ™i posuzovĂˇnĂ­ ĹˇkolnĂ­ zralosti. Problematika odkladĹŻ ĹˇkolnĂ­ dochĂˇzky a pĹ™edÄŤasnĂ©ho vstupu do prvnĂ­ho roÄŤnĂ­ku, 
+                nezbytnost individualizace vÂ zĂˇkladnĂ­ Ĺˇkole. SeznĂˇmenĂ­ a vyzkouĹˇenĂ­ praktickĂ˝ch aktivit a cviÄŤenĂ­ 
+                zamÄ›Ĺ™enĂ˝ch na procviÄŤovĂˇnĂ­ jednotlivĂ˝ch oblastĂ­ dĹŻleĹľitĂ˝ch pro ĂşspÄ›ĹˇnĂ© zvlĂˇdnutĂ­ nĂˇrokĹŻ Ĺˇkoly.
             </p>
 
-            <h3 class="featurette-heading">Rozvoj sociálních dovedností dětí předškolního věku</h3>
+            <h3 class="featurette-heading">Rozvoj sociĂˇlnĂ­ch dovednostĂ­ dÄ›tĂ­ pĹ™edĹˇkolnĂ­ho vÄ›ku</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> praktický seminář zaměřený na rozvoj sociálních kompetencí dětí. Součástí semináře je seznámení s 
-                pojmy prosociální chování a emoční inteligence, s možnostmi jejich posilování v rámci činností v MŠ. 
-                Cílem semináře je pomoci učitelům zorientovat se v problematice prosociálního chování dětí se zřetelem na výchovný styl, 
-                který toto chování podporuje. Účastnice si vyzkouší konkrétní činnosti a hry podporující jednotlivé kompetence dětí 
-                (např. komunikace, empatie, sebedůvěra, vyjadřování citů a pozitivní hodnocení druhých).  
-                V semináři budou využity techniky skupinové práce, práce ve dvojicích, brainstorming, diskuse a situační učení.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na rozvoj sociĂˇlnĂ­ch kompetencĂ­ dÄ›tĂ­. SouÄŤĂˇstĂ­ seminĂˇĹ™e je seznĂˇmenĂ­ s 
+                pojmy prosociĂˇlnĂ­ chovĂˇnĂ­ a emoÄŤnĂ­ inteligence, s moĹľnostmi jejich posilovĂˇnĂ­ v rĂˇmci ÄŤinnostĂ­ v MĹ . 
+                CĂ­lem seminĂˇĹ™e je pomoci uÄŤitelĹŻm zorientovat se v problematice prosociĂˇlnĂ­ho chovĂˇnĂ­ dÄ›tĂ­ se zĹ™etelem na vĂ˝chovnĂ˝ styl, 
+                kterĂ˝ toto chovĂˇnĂ­ podporuje. ĂšÄŤastnice si vyzkouĹˇĂ­ konkrĂ©tnĂ­ ÄŤinnosti a hry podporujĂ­cĂ­ jednotlivĂ© kompetence dÄ›tĂ­ 
+                (napĹ™. komunikace, empatie, sebedĹŻvÄ›ra, vyjadĹ™ovĂˇnĂ­ citĹŻ a pozitivnĂ­ hodnocenĂ­ druhĂ˝ch).  
+                V seminĂˇĹ™i budou vyuĹľity techniky skupinovĂ© prĂˇce, prĂˇce ve dvojicĂ­ch, brainstorming, diskuse a situaÄŤnĂ­ uÄŤenĂ­.
             </p>
 
-            <h3 class="featurette-heading">Problémové dítě v MŠ</h3>
+            <h3 class="featurette-heading">ProblĂ©movĂ© dĂ­tÄ› v MĹ </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> sebezkušenostní seminář zaměřený na bližší porozumění a rozšíření výchovných možností při práci s 
-                problémovými dětmi, popř. v komunikaci s jejich rodiči.. Součástí semináře bude mapování možností při řešení 
-                problematických situací dle námětů účastnic a praktické vyzkoušení možných postupů se zpětnou vazbou o jejich účinnosti. 
-                Cílem semináře bude vytvořit prostor pro sdílení obtížné situace, pro diskusi a vyzkoušení možných postupů. 
-                V semináři budou využity techniky skupinové práce, práce ve dvojicích, brainstorming, diskuse a situační učení.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> sebezkuĹˇenostnĂ­ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na bliĹľĹˇĂ­ porozumÄ›nĂ­ a rozĹˇĂ­Ĺ™enĂ­ vĂ˝chovnĂ˝ch moĹľnostĂ­ pĹ™i prĂˇci s 
+                problĂ©movĂ˝mi dÄ›tmi, popĹ™. v komunikaci s jejich rodiÄŤi.. SouÄŤĂˇstĂ­ seminĂˇĹ™e bude mapovĂˇnĂ­ moĹľnostĂ­ pĹ™i Ĺ™eĹˇenĂ­ 
+                problematickĂ˝ch situacĂ­ dle nĂˇmÄ›tĹŻ ĂşÄŤastnic a praktickĂ© vyzkouĹˇenĂ­ moĹľnĂ˝ch postupĹŻ se zpÄ›tnou vazbou o jejich ĂşÄŤinnosti. 
+                CĂ­lem seminĂˇĹ™e bude vytvoĹ™it prostor pro sdĂ­lenĂ­ obtĂ­ĹľnĂ© situace, pro diskusi a vyzkouĹˇenĂ­ moĹľnĂ˝ch postupĹŻ. 
+                V seminĂˇĹ™i budou vyuĹľity techniky skupinovĂ© prĂˇce, prĂˇce ve dvojicĂ­ch, brainstorming, diskuse a situaÄŤnĂ­ uÄŤenĂ­.
             </p>
 
-            <h3 class="featurette-heading">Rozvoj grafomotoriky v předškolním věku</h3>
+            <h3 class="featurette-heading">Rozvoj grafomotoriky v pĹ™edĹˇkolnĂ­m vÄ›ku</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> seznámit se s možnostmi podpory přirozeného vývoje grafických dovedností u dětí PV. 
-                Získat informace a konkrétní zkušenosti se stimulačními programy zaměřenými na odstranění či minimalizaci 
-                grafomotorických obtíží. Osvojit si základní zásady přístupu k dětem a uplatňování individuálního přístupu při 
-                rozpoznávání a dalším rozvíjení předpokladů dítěte v této oblasti. Součástí semináře je seznámení s konkrétními 
-                programy a s  podporujícími aktivitami v rámci běžných činností v MŠ.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> seznĂˇmit se s moĹľnostmi podpory pĹ™irozenĂ©ho vĂ˝voje grafickĂ˝ch dovednostĂ­ u dÄ›tĂ­ PV. 
+                ZĂ­skat informace a konkrĂ©tnĂ­ zkuĹˇenosti se stimulaÄŤnĂ­mi programy zamÄ›Ĺ™enĂ˝mi na odstranÄ›nĂ­ ÄŤi minimalizaci 
+                grafomotorickĂ˝ch obtĂ­ĹľĂ­. Osvojit si zĂˇkladnĂ­ zĂˇsady pĹ™Ă­stupu k dÄ›tem a uplatĹovĂˇnĂ­ individuĂˇlnĂ­ho pĹ™Ă­stupu pĹ™i 
+                rozpoznĂˇvĂˇnĂ­ a dalĹˇĂ­m rozvĂ­jenĂ­ pĹ™edpokladĹŻ dĂ­tÄ›te v tĂ©to oblasti. SouÄŤĂˇstĂ­ seminĂˇĹ™e je seznĂˇmenĂ­ s konkrĂ©tnĂ­mi 
+                programy a s  podporujĂ­cĂ­mi aktivitami v rĂˇmci bÄ›ĹľnĂ˝ch ÄŤinnostĂ­ v MĹ .
             </p>
 
-            <h3 class="featurette-heading">Efektivní komunikace s dětmi v MŠ</h3>
+            <h3 class="featurette-heading">EfektivnĂ­ komunikace s dÄ›tmi v MĹ </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> praktický seminář zaměřený na zmapování a zlepšování komunikace mezi dětmi v MŠ  a zefektivnění 
-                komunikace učitelky s dětmi i jejich rodiči. Cílem semináře bude získat informace a konkrétní zkušenosti s možnými 
-                překážkami v komunikaci s dětmi i dospělými. Účastníci semináře budou mít možnost osvojit si vhodné postupy, 
-                které naopak komunikaci  podporují.  Součástí semináře bude tvorba zásobníku her a činností  posilujících efektivní komunikaci. 
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na zmapovĂˇnĂ­ a zlepĹˇovĂˇnĂ­ komunikace mezi dÄ›tmi v MĹ   a zefektivnÄ›nĂ­ 
+                komunikace uÄŤitelky s dÄ›tmi i jejich rodiÄŤi. CĂ­lem seminĂˇĹ™e bude zĂ­skat informace a konkrĂ©tnĂ­ zkuĹˇenosti s moĹľnĂ˝mi 
+                pĹ™ekĂˇĹľkami v komunikaci s dÄ›tmi i dospÄ›lĂ˝mi. ĂšÄŤastnĂ­ci seminĂˇĹ™e budou mĂ­t moĹľnost osvojit si vhodnĂ© postupy, 
+                kterĂ© naopak komunikaci  podporujĂ­.  SouÄŤĂˇstĂ­ seminĂˇĹ™e bude tvorba zĂˇsobnĂ­ku her a ÄŤinnostĂ­  posilujĂ­cĂ­ch efektivnĂ­ komunikaci. 
             </p>
 
-            <h3 class="featurette-heading">Sociální dovednosti předškolního pedagoga</h3>
+            <h3 class="featurette-heading">SociĂˇlnĂ­ dovednosti pĹ™edĹˇkolnĂ­ho pedagoga</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ<br>
-                <b>Obsah:</b> praktický seminář zaměřený na zvědomění a posilování sociálních dovedností učitelek MŠ v souvislosti s 
-                důležitostí přímého vzoru pro sociální vývoj dětí. Seminář bude v konkrétních činnostech zaměřený na možnosti 
-                rozvíjení dovedností jako je empatie, porozumění vlastním prožitkům, emocím  a jejich vyjadřování, vyjadřování respektu a 
-                ocenění, soulad verbálních a neverbálních signálů, strategie řešení konfliktů,  komunikace s dospělými i dětmi apod. 
-                Pozornost bude také věnována možnostem stimulace  jednotlivých forem sociálního učení 
-                (odezírání, nápodoba, zpevňování a pozitivní očekáván í).
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> praktickĂ˝ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na zvÄ›domÄ›nĂ­ a posilovĂˇnĂ­ sociĂˇlnĂ­ch dovednostĂ­ uÄŤitelek MĹ  v souvislosti s 
+                dĹŻleĹľitostĂ­ pĹ™Ă­mĂ©ho vzoru pro sociĂˇlnĂ­ vĂ˝voj dÄ›tĂ­. SeminĂˇĹ™ bude v konkrĂ©tnĂ­ch ÄŤinnostech zamÄ›Ĺ™enĂ˝ na moĹľnosti 
+                rozvĂ­jenĂ­ dovednostĂ­ jako je empatie, porozumÄ›nĂ­ vlastnĂ­m proĹľitkĹŻm, emocĂ­m  a jejich vyjadĹ™ovĂˇnĂ­, vyjadĹ™ovĂˇnĂ­ respektu a 
+                ocenÄ›nĂ­, soulad verbĂˇlnĂ­ch a neverbĂˇlnĂ­ch signĂˇlĹŻ, strategie Ĺ™eĹˇenĂ­ konfliktĹŻ,  komunikace s dospÄ›lĂ˝mi i dÄ›tmi apod. 
+                Pozornost bude takĂ© vÄ›novĂˇna moĹľnostem stimulace  jednotlivĂ˝ch forem sociĂˇlnĂ­ho uÄŤenĂ­ 
+                (odezĂ­rĂˇnĂ­, nĂˇpodoba, zpevĹovĂˇnĂ­ a pozitivnĂ­ oÄŤekĂˇvĂˇn Ă­).
             </p>
 
-            <h3 class="featurette-heading">Jak pracovat s únavou, stresem a syndromem vyhoření u učitelů</h3>
+            <h3 class="featurette-heading">Jak pracovat s Ăşnavou, stresem a syndromem vyhoĹ™enĂ­ u uÄŤitelĹŻ</h3>
             <p class="afterlead">
-                <b>Určeno:</b> učitelkám ZŠ nebo učitelkám MŠ<br>
-                <b>Obsah:</b> sebezkušenostní seminář zaměřený na možnosti předcházení syndromu vyhoření. V rámci semináře se účastnice 
-                seznámí s širokým rejstříkem  práce s vlastním tělem,  s emocemi a  s  únavou.  Účastnice si vyzkouší různé typy relaxací a 
-                způsob posilování vnitřních zdrojů,  seznámí se s možnými strategiemi zvládání konfliktních situací a účinné komunikace. 
-                Cílem bude vytváření  osobního postupu při uvolňování napětí a prevenci syndromu vyhoření.
+                <b>UrÄŤeno:</b> uÄŤitelkĂˇm ZĹ  nebo uÄŤitelkĂˇm MĹ <br>
+                <b>Obsah:</b> sebezkuĹˇenostnĂ­ seminĂˇĹ™ zamÄ›Ĺ™enĂ˝ na moĹľnosti pĹ™edchĂˇzenĂ­ syndromu vyhoĹ™enĂ­. V rĂˇmci seminĂˇĹ™e se ĂşÄŤastnice 
+                seznĂˇmĂ­ s ĹˇirokĂ˝m rejstĹ™Ă­kem  prĂˇce s vlastnĂ­m tÄ›lem,  s emocemi a  s  Ăşnavou.  ĂšÄŤastnice si vyzkouĹˇĂ­ rĹŻznĂ© typy relaxacĂ­ a 
+                zpĹŻsob posilovĂˇnĂ­ vnitĹ™nĂ­ch zdrojĹŻ,  seznĂˇmĂ­ se s moĹľnĂ˝mi strategiemi zvlĂˇdĂˇnĂ­ konfliktnĂ­ch situacĂ­ a ĂşÄŤinnĂ© komunikace. 
+                CĂ­lem bude vytvĂˇĹ™enĂ­  osobnĂ­ho postupu pĹ™i uvolĹovĂˇnĂ­ napÄ›tĂ­ a prevenci syndromu vyhoĹ™enĂ­.
             </p>
 
         </div>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Ženská skupina osobnostního rozvoje | Katka Pešková | Psychoterapeut | Speciální pedadog | Slaný a okolí</title>
+        <title>Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje | Katka PeĹˇkovĂˇ | Psychoterapeut | SpeciĂˇlnĂ­ pedadog | SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,59 +25,59 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Ženská skupina osobnostního rozvoje</h2>
+            <h2 class="page-heading">Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje</h2> 
 
 
-            <h3 class="featurette-heading">Proč skupina</h3>
+            <h3 class="featurette-heading">ProÄŤ skupina</h3>
             <ul class="afterlead">
-                <li>lidé s podobnými potřebami si mohou poskytovat vzájemnou podporu</li>
-                <li>skupina poskytuje vhodné zázemí pro sociální učení, pomáhá při uvědomění si skrytých zdrojů a schopností</li>
-                <li>členové skupiny si mohou v bezpečném prostředí vyzkoušet nové způsoby chování a jednání</li>
-                <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
+                <li>lidĂ© s podobnĂ˝mi potĹ™ebami si mohou poskytovat vzĂˇjemnou podporu</li>
+                <li>skupina poskytuje vhodnĂ© zĂˇzemĂ­ pro sociĂˇlnĂ­ uÄŤenĂ­, pomĂˇhĂˇ pĹ™i uvÄ›domÄ›nĂ­ si skrytĂ˝ch zdrojĹŻ a schopnostĂ­</li>
+                <li>ÄŤlenovĂ© skupiny si mohou v bezpeÄŤnĂ©m prostĹ™edĂ­ vyzkouĹˇet novĂ© zpĹŻsoby chovĂˇnĂ­ a jednĂˇnĂ­</li>
+                <li>pomocĂ­ zpÄ›tnĂ© vazby od ostatnĂ­ch mohou lĂ©pe porozumÄ›t svĂ©mu projevu a tomu, jak pĹŻsobĂ­ na druhĂ©</li>
             </ul>
             <p class="afterlead">
-                <span class="label label-success">Nová ženská skupina začíná 25.1.2016 (do 9.5.2016) - neváhejte a přihlašte se.</span>
+                <span class="label label-success big">NovĂˇ ĹľenskĂˇ skupina zaÄŤĂ­nĂˇ 11.4.2016 (do 13.6.2016, 10 setkĂˇnĂ­) - nevĂˇhejte a pĹ™ihlaĹˇte se.</span>
             </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
-                        <tr><td>za cyklus (15 setkání)</td> 
-                            <td class="price">2700 Kč</td></tr>
+                        <tr><th colspan="2" >CenĂ­k <a id="a-price-detail" href="" title="PodrobnÄ›ji o cenÄ›">(*)</a></th></tr>
+                        <tr><td>za cyklus - 10 setkĂˇnĂ­</td> 
+                            <td class="price">1900 KÄŤ</td></tr>
                     </table>
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
                 </div>
                 <div class="col-lg-6">
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
-                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina.jpg" alt="Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje, skupinovĂˇ terapie, pro Ĺľeny, arteterapie"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/zenska-skupina1.jpg" alt="Ĺ˝enskĂˇ skupina osobnostnĂ­ho rozvoje, skupinovĂˇ terapie, pro Ĺľeny, arteterapie"/>
                 </div>
             </div>
 
 
-            <h3 class="featurette-heading">Blíže k obsahu ženské skupiny</h3>
+            <h3 class="featurette-heading">BlĂ­Ĺľe k obsahu ĹľenskĂ© skupiny</h3>
             <ul class="afterlead">
-                <li>vždy v pondělí 17.45 - 19.45 - celkem 15 setkání</li>
-                <li>prostor k přemýšlení a sdílení svých názorů, radostí i starostí prostřednictvím různých výtvarných, verbálních i neverbálních technik</li>
-                <li>zamýšlení se nad tématy - sebepoznání, jak vidím sama sebe a jak mě vidí ostatní, vyjadřování emocí, 
-                    komunikace verbální i neverbální, moc x bezmoc, vliv původní rodiny, moje rozhodování, vyrovnanost, 
-                    vztahy, ženská role ... a dalšími náměty, které s sebou členové skupiny přinesou</li>
-                <li>společným cílem všech činností jsou odpovědi na otázku „jaká jsem“ a doprovázení se na cestě „jaká chci být“</li>
-                <li>při práci s výtvarnými, verbálními i neverbálními technikami jde o vlastní prožitek – ne o samotné
-                    (výtvarné) dílo. Ve skupině se tedy pracuje v souladu s mottem „není jeden správný, dobrý způsob, 
-                    jsou různé způsoby a všechny jsou dobré“</li>
+                <li>vĹľdy v pondÄ›lĂ­ 17.45 - 19.45 - celkem 10 setkĂˇnĂ­</li>
+                <li>prostor k pĹ™emĂ˝ĹˇlenĂ­ a sdĂ­lenĂ­ svĂ˝ch nĂˇzorĹŻ, radostĂ­ i starostĂ­ prostĹ™ednictvĂ­m rĹŻznĂ˝ch vĂ˝tvarnĂ˝ch, verbĂˇlnĂ­ch i neverbĂˇlnĂ­ch technik</li>
+                <li>zamĂ˝ĹˇlenĂ­ se nad tĂ©maty - sebepoznĂˇnĂ­, jak vidĂ­m sama sebe a jak mÄ› vidĂ­ ostatnĂ­, vyjadĹ™ovĂˇnĂ­ emocĂ­, 
+                    komunikace verbĂˇlnĂ­ i neverbĂˇlnĂ­, moc x bezmoc, vliv pĹŻvodnĂ­ rodiny, moje rozhodovĂˇnĂ­, vyrovnanost, 
+                    vztahy, ĹľenskĂˇ role ... a dalĹˇĂ­mi nĂˇmÄ›ty, kterĂ© s sebou ÄŤlenovĂ© skupiny pĹ™inesou</li>
+                <li>spoleÄŤnĂ˝m cĂ­lem vĹˇech ÄŤinnostĂ­ jsou odpovÄ›di na otĂˇzku â€žjakĂˇ jsemâ€ś a doprovĂˇzenĂ­ se na cestÄ› â€žjakĂˇ chci bĂ˝tâ€ś</li>
+                <li>pĹ™i prĂˇci s vĂ˝tvarnĂ˝mi, verbĂˇlnĂ­mi i neverbĂˇlnĂ­mi technikami jde o vlastnĂ­ proĹľitek â€“ ne o samotnĂ©
+                    (vĂ˝tvarnĂ©) dĂ­lo. Ve skupinÄ› se tedy pracuje v souladu s mottem â€žnenĂ­ jeden sprĂˇvnĂ˝, dobrĂ˝ zpĹŻsob, 
+                    jsou rĹŻznĂ© zpĹŻsoby a vĹˇechny jsou dobrĂ©â€ś</li>
             </ul>
 
-            <h3 class="featurette-heading">Pravidla členství ve skupině</h3>
+            <h3 class="featurette-heading">Pravidla ÄŤlenstvĂ­ ve skupinÄ›</h3>
             <ul class="afterlead">
-                <li>pravidlo mlčenlivosti a důvěrnosti: to, o čem se mluví a co se dozvím na skupině je důvěrné, 
-                    mimo skupinu o tom nemluví členové, ani vedoucí skupiny</li>
-                <li>pravidlo otevřenosti a svobody: ve skupině mohu otevřeně vyjadřovat své názory a pocity, svobodně se projevuji formou, 
-                    která mi vyhovuje, ale neomezuje ostatní. Nemůžu-li něco hned otevřeně sdělit, nebo na něco upřímně odpovědět, 
-                    mám právo říct „stop“ a nemluvit o tom. Mám právo nevědět – nikdo neví všechno. Když řeknu, že „nevím“, 
-                    otevírám tím možnost, aby mi někdo pomohl porozumět.</li>
-                <li>pravidlo zodpovědnosti k sobě i druhým: součástí je moje pravidelná a včasná docházka a vzájemné naslouchání. 
-                    Druhé nekritizuji, ale mluvím o tom, co se mnou jejich chování dělá, jak se cítím</li>
+                <li>pravidlo mlÄŤenlivosti a dĹŻvÄ›rnosti: to, o ÄŤem se mluvĂ­ a co se dozvĂ­m na skupinÄ› je dĹŻvÄ›rnĂ©, 
+                    mimo skupinu o tom nemluvĂ­ ÄŤlenovĂ©, ani vedoucĂ­ skupiny</li>
+                <li>pravidlo otevĹ™enosti a svobody: ve skupinÄ› mohu otevĹ™enÄ› vyjadĹ™ovat svĂ© nĂˇzory a pocity, svobodnÄ› se projevuji formou, 
+                    kterĂˇ mi vyhovuje, ale neomezuje ostatnĂ­. NemĹŻĹľu-li nÄ›co hned otevĹ™enÄ› sdÄ›lit, nebo na nÄ›co upĹ™Ă­mnÄ› odpovÄ›dÄ›t, 
+                    mĂˇm prĂˇvo Ĺ™Ă­ct â€žstopâ€ś a nemluvit o tom. MĂˇm prĂˇvo nevÄ›dÄ›t â€“ nikdo nevĂ­ vĹˇechno. KdyĹľ Ĺ™eknu, Ĺľe â€žnevĂ­mâ€ś, 
+                    otevĂ­rĂˇm tĂ­m moĹľnost, aby mi nÄ›kdo pomohl porozumÄ›t.</li>
+                <li>pravidlo zodpovÄ›dnosti k sobÄ› i druhĂ˝m: souÄŤĂˇstĂ­ je moje pravidelnĂˇ a vÄŤasnĂˇ dochĂˇzka a vzĂˇjemnĂ© naslouchĂˇnĂ­. 
+                    DruhĂ© nekritizuji, ale mluvĂ­m o tom, co se mnou jejich chovĂˇnĂ­ dÄ›lĂˇ, jak se cĂ­tĂ­m</li>
             </ul>
         </div>
 
