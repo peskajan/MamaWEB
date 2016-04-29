@@ -51,17 +51,26 @@
 
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
-                    <div class="col-lg-4">
+<!--                <div class="col-lg-4">
                         <a class="no-decor" title="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie" href="/zenska-skupina/">
                             <img class="img-circle param-header" src="/images/gallery/zenska-skupina-param.jpg" alt="Ženská skupina">
                             <h2>Ženská skupina</h2>
                         </a>
                         <p>Pro ženy, které mají chuť vyprávě i poslouchat, tvořit a hrát si, sdílet a navzájem se podporovat v rozvíjení své osobnosti</p>
                         <p><a title="Ženská skupina osobnostního rozvoje, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/zenska-skupina/" role="button">Více informací &raquo;</a></p>
+                    </div> /.col-lg-4 -->
+                     <div class="col-lg-4">
+                         <a class="no-decor" title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">
+                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Rodinné poradenství">
+                            <h2>Rodinné poradenství</h2>
+                        </a>
+                        <p>Je určeno pro ty, kteří se potřebují zorientovat ve své situaci při jakékoliv osobní, vztahové či pracovní problematice. 
+                            Také pro jedince v krizové situaci, kteří hledají oporu a potřebují získat nadhled.</p>
+                        <p><a title="Rodinné poradenství, psychoterapie, arteterapie" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
                         <a class="no-decor" title="Besedy pro rodiče, výchovné obtíže, výchova dítěte" href="/besedy-pro-rodice/">
-                            <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Besedy pro rodiče">
+                            <img class="img-circle param-header" src="/images/gallery/beseda.jpg" alt="Besedy pro rodiče">
                             <h2>Besedy pro rodiče</h2>
                         </a>
                         <p>Volně přístupné besedy zaměřené na pozitivní rodičovství. Široký okruh témat - je na Vás, které si vyberete.</p>
@@ -70,7 +79,7 @@
                     <div class="col-lg-4">
                         <a class="no-decor" title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">
                             <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní seminář">
-                            <h2>Sebezkušenostní seminář</h2>
+                            <h2>Sebezkušenostní semináře</h2>
                         </a>
                         <p>Chcete více porozumět sami sobě?
                             Zajímá Vás, jak působíte na své okolí?
@@ -79,13 +88,13 @@
                         <p><a title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
-                <div class="row margin-top-space">
+<!--                <div class="row margin-top-space">
                     <div class="col-lg-12">
                         <a class="no-decor" title="KUDYKAM - vztahy s rodiči, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana" href="/kudykam/">
                             <img class="param-header full-width" src="/images/gallery/kdkm-logo.jpg" alt="Kudy kam - skupina pro dospívající">
                         </a>
                     </div>
-                </div><!-- /.row -->
+                </div> /.row -->
             </div><!-- /.container -->
         </div>
 
