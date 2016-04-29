@@ -76,16 +76,17 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="panel panel-default" id="panel3">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion">
-                                <span class="label label-primary"> 16.1.2016</span> Já a můj stín
+                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
+                                <span class="label label-default"> 16.1.2016</span> Já a můj stín
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse in">
+                    <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">
                             Stín představuje odvrácenou stránku „našeho já“- naši nevědomou, „temnou“ či odmítanou a „nežitou“ stránku - přesto patří do struktury naší 
                             osobnosti stejně jako naše vědomé, přijímané stránky. Uvědomění a zpracování vlastního stínu patří k osobnostnímu růstu jedince. 
@@ -94,11 +95,12 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="panel panel-default" id="panel4">
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">12.3.2016</span> Já jako matka - otec
+                                <span class="label label-default">12.3.2016</span> Já jako matka - otec
                             </a>
                         </h4>
 
@@ -112,16 +114,17 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="panel panel-default" id="panel5">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
+                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion">
                                 <span class="label label-primary">7.5.2016</span> Práce s hněvem
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapse5" class="panel-collapse collapse">
+                    <div id="collapse5" class="panel-collapse collapse in">
                         <div class="panel-body">
                             Hněv je naše emoční reakce na situaci, která nás dráždí. Je „živený“ pocitem křivdy, zklamání, ublížení, odmítnutí či trapnosti. 
                             Může být směřován směrem ven i dovnitř (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umožňuje reagovat 
@@ -130,6 +133,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="panel panel-default" id="panel6">
                     <div class="panel-heading">
                         <h4 class="panel-title">

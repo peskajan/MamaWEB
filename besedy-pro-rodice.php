@@ -84,13 +84,13 @@
                 <div class="panel panel-default" id="panel4">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion">
-                                <span class="label label-primary">21.1.2016</span> Podpora všestranného vývoje dítěte
+                            <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
+                                <span class="label label-default">21.1.2016</span> Podpora všestranného vývoje dítěte
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapse4" class="panel-collapse collapse in">
+                    <div id="collapse4" class="panel-collapse collapse">
                         <div class="panel-body">
                             V rámci vývoje dítěte se děje řada zákonitých změn, které svým výchovným přístupem můžeme podpořit, ale také jim nevědomě bránit. Beseda bude zaměřená na zmapování a porozumění jednotlivým vývojovým úkolům. Na uvědomění si jejich významu pro zdravý duševní vývoj dítěte a na konkrétní možnosti, jak dítěti pomoci je dobře zvládnout. Věnovat se budeme také jednotlivým oblastem vývoje v předškolním věku a konkrétním činnostem, které tento vývoj podporují.
                         </div>
@@ -100,7 +100,7 @@
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse5a" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">1.2.2016</span> Budování pevné vazby k dítěti (attachment)
+                                <span class="label label-default">1.2.2016</span> Budování pevné vazby k dítěti (attachment)
                             </a>
                         </h4>
 
@@ -117,7 +117,7 @@ Beseda bude zaměřená na jednotlivé body vývoje citové vazby mezi dítětem
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">18.2.2016</span> Podpora vývoje řeči
+                                <span class="label label-default">18.2.2016</span> Podpora vývoje řeči
                             </a>
                         </h4>
 
@@ -132,7 +132,7 @@ Beseda bude zaměřená na jednotlivé body vývoje citové vazby mezi dítětem
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse6a" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">7.3.2016</span> Rodinný systém a role rodičů ve výchově
+                                <span class="label label-default">7.3.2016</span> Rodinný systém a role rodičů ve výchově
                             </a>
                         </h4>
 
@@ -149,7 +149,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse6" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">17.3.2016</span> Vyjadřování emocí v rodině
+                                <span class="label label-default">17.3.2016</span> Vyjadřování emocí v rodině
                             </a>
                         </h4>
 
@@ -164,7 +164,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse7a" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">11.4.2016</span> Psychický vývoj a identita dítěte
+                                <span class="label label-default">11.4.2016</span> Psychický vývoj a identita dítěte - od 16:00
                             </a>
                         </h4>
                         
@@ -179,7 +179,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse7" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">21.4.2016</span> Posilování komunikace v rodině
+                                <span class="label label-default">21.4.2016</span> Posilování komunikace v rodině
                             </a>
                         </h4>
 
@@ -194,7 +194,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse8a" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">2.5.2016</span> Posilování psychické odolnosti dítěte
+                                <span class="label label-default">2.5.2016</span> Posilování psychické odolnosti dítěte - od 16:00
                             </a>
                         </h4>
 
@@ -208,13 +208,13 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                 <div class="panel panel-default" id="panel8">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapse8" data-parent="#accordion" class="collapsed">
+                            <a data-toggle="collapse" data-target="#collapse8" data-parent="#accordion">
                                 <span class="label label-primary">19.5.2016</span> Podpora sourozeneckých vztahů
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapse8" class="panel-collapse collapse">
+                    <div id="collapse8" class="panel-collapse collapse in">
                         <div class="panel-body">
                             Beseda je zaměřená na význam sourozeneckých vztahů pro sociální a emoční vývoj dětí. Zaměříme se na jednotlivé pozice narození – jejich výhody a úskalí a na způsob, jakým mohou rodiče zdravé sourozenecké vztahy posilovat.
                         </div>
@@ -242,7 +242,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
             <div class="row">
                 <div class="col-lg-7">
                     <p class="afterlead margin-top-space">
-                        Všechny besedy začínají v 16:30
+                        Všechny besedy začínají v 16:30 (pokud není řečeno jinak)
                     </p>
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
@@ -251,7 +251,7 @@ Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých r
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
                 </div>
                 <div class="col-lg-5">
-                    <img class="example-image-link parallelogram" src="/images/gallery/beseda.jpg" alt="Besedy pro rodi�e, v�chova d�t�, chov�n� d�t� doma a ve �kole"/>
+                    <img class="example-image-link parallelogram" src="/images/gallery/beseda.jpg" alt="Besedy pro rodiče, výchova dětí, chování dětí doma a ve škole"/>
                 </div>
             </div>
 
