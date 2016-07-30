@@ -284,6 +284,10 @@ body {
     font-size: 100%; 
 }
 
+.badge-price {
+    margin-left: 30px;
+}
+
 table.afterlead {
     margin: 15px 0px 15px 0px;
 }

@@ -40,6 +40,8 @@
                 <tr><td><a title="Psychoterapeut, Speciální pedadog - Katka Pešková" href="mailto:katka.peskova@post.cz">
                             <img class="contact-icon" src="/images/mail.png" alt="email"/>katka.peskova@post.cz</a>
                     </td></tr>
+                <tr><td>Konzultace probíhají na adrese: Slaný, Wilsonova 597
+                    </td></tr>
             </table>
 
             <p class="lead">nebo pomocí kontaktního formuláře:</p>

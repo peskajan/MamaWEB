@@ -36,7 +36,7 @@
                 <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
             </ul>
             <p class="afterlead">
-                <span class="label label-success big">Nová ženská skupina začíná 11.4.2016 (do 13.6.2016, 10 setkání) - neváhejte a přihlašte se.</span>
+                <span class="label label-success big">Nová Ženská skupina začíná 23.1.2017 (do 27.3.2017, 10 setkání) - neváhejte a přihlašte se.</span>
             </p>
 
             <div class="row">

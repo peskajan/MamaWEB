@@ -32,153 +32,160 @@
                     (např. práce se sadou „Projektivních koláží“ Miroslava Huptycha, práce s keramickou hlínou apod.)
                     a sdílením vlastního pohledu a zkušeností </li>
                 <li>cílem setkání je váš vlastní prožitek a společné nalézání odpovědí, nepotřebujete  výtvarné schopnosti a zkušenosti </li>
+                <li>přihlásit se můžete libovolně na jednotlivá témata, nejpozději 2 dny před konáním setkání.</li>
+                <li>je také možné přihlásit se na celý cyklus čtvrtečních setkání (4 x 3 hodiny, 900 Kč)</li>
             </ul>
 
             <h3 class="featurette-heading">Termíny a témata seminářů</h3>
             
             <div class="panel-group" id="accordion">
-                <div class="panel panel-default" id="panel1">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseOne" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default">3.10.2015</span> Osobní síla, vnitřní zdroje
-                            </a>
-                        </h4>
-
-                    </div>
-                    <div id="collapseOne" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            Setkání pro všechny, kteří se někdy cítí unavení a bez nálady, zamýšlejí se nad vlastními vnitřními zdroji a pokládají si např. otázku - 
-                            při jakých činnostech „nabírám energii“ a je výběr, který mám k dispozici dostatečný? Co pomáhá druhým, kde oni čerpají energii – 
-                            můžu některou možnost převzít od nich? Jak vypadá moje síla a její zdroj – je to silný pramen, nebo „vysychající studánka“ a můžu ji nějak „vyčistit“?
-                            V jakých situacích se potýkám s pocitem, že „na prameni sedí žába“? Můžu to nějak změnit?
-
-                            Cílem setkání bude společné hledání odpovědí na tyto a podobné otázky, na které v běžném životě není vhodná příležitost a čas.
-                        </div>
-                    </div>
-                </div>
                 <div class="panel panel-default" id="panel2">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseTwo" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default">5.12.2015</span> Můj střed a rovnováha
+                            <a data-toggle="collapse" data-target="#collapse1" data-parent="#accordion">
+                                <span class="label label-primary">22.9.2016 </span> 
+                                <span class="label label-primary">17.30 – 20.30</span> 
+                                To jsem já a to jsem také já <span class="badge-price badge">300 Kč</span>
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseTwo" class="panel-collapse collapse">
+                    <div id="collapse1" class="panel-collapse collapse in">
                         <div class="panel-body">
-                            Každý z nás má určité pořadí životních hodnot, věcí, které jsou pro něj důležité. Týkají se jednotlivých oblastí našeho života, 
-                            ať už jsou to vztahy, práce, zdraví, rodina.. a jejich naplňování přináší do života rovnováhu a spokojenost. 
-                            Někdy si ale své pořadí hodnot příliš neuvědomujeme nebo podle nich z různých důvodů nežijeme. To s sebou přináší pocity nejistoty a nespokojenosti, 
-                            vychýlení z rovnováhy, pocit ztráty smyslu života. Setkání bude věnované uvědomění si vlastního hodnotového 
-                            žebříčku a hledání vlastního středu a rovnováhy.
+                            Setkání určené pro ty, kteří se snaží lépe porozumět sami sobě a „věcem, které se jim dějí“. Prostřednictvím sady Projektivních koláží 
+                            (blížší informace <a href="http://huptych.cz">zde</a>) se zamyslíme nad svými méně uvědomovanými stránkami, 
+                            které mohou ovlivňovat naše prožívání i kontakt s druhými lidmi.
+
                         </div>
                     </div>
                 </div>
-                
                 <div class="panel panel-default" id="panel3">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapseThree" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default"> 16.1.2016</span> Já a můj stín
+                            <a data-toggle="collapse" data-target="#collapse2" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">8.10.2016 </span> 
+                                <span class="label label-primary">13.30 - 18.30</span> 
+                                Práce s hněvem <span class="badge-price badge">550 Kč</span>
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div id="collapse2" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Stín představuje odvrácenou stránku „našeho já“- naši nevědomou, „temnou“ či odmítanou a „nežitou“ stránku - přesto patří do struktury naší 
-                            osobnosti stejně jako naše vědomé, přijímané stránky. Uvědomění a zpracování vlastního stínu patří k osobnostnímu růstu jedince. 
-                            Se zpracováním každého „stínového tématu“ se přibližujeme poznání, že štěstí a vyrovnanost nepřichází, když dostáváme to co chceme, 
-                            ale když začneme chtít to, co máme, když si toho vážíme. Setkání bude věnováno „seznámení se“ se svým stínem a možnostem jeho postupného zpracovávání.
+                            Hněv je naše emoční reakce na situaci, která nás dráždí. Je „živený“ pocitem křivdy, zklamání, ublížení, odmítnutí či trapnosti. 
+                            Může být směřován směrem ven i dovnitř (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umožňuje reagovat 
+                            na nebezpečí, díky hněvu získáváme energii na řešení situace. Zároveň nás hněv upozorňuje na něco důležitého, čemu možná vědomě či 
+                            nevědomě nevěnujeme dostatečnou pozornost. V setkání se zamyslíme nad svým způsobem prožívání a zpracovávání hněvu a nad možností případné změny.   
+
                         </div>
                     </div>
-                </div>
-                
+                </div>  
                 <div class="panel panel-default" id="panel4">
                     <div class="panel-heading">
                         <h4 class="panel-title">
+                            <a data-toggle="collapse" data-target="#collapse3" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">13.10.2016 </span> 
+                                <span class="label label-primary">17.30 – 20.30</span> 
+                                Můj styl řešení konfliktů <span class="badge-price badge">300 Kč</span>
+                            </a>
+                        </h4>
+
+                    </div>
+                    <div id="collapse3" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Konflikty patří neodmyslitelně k našemu životu. Důležité ale je, jak je prožíváme, jak je umíme řešit, 
+                            zda před nimi „utíkáme“ nebo je naopak sami spouštíme, vyhledáváme... Setkání bude věnováno uvědomění si 
+                            svého stylu řešení konfliktů pomocí krátkého dotazníku a především pak hledání možných změn ve svém přístupu 
+                            ke konfliktům a nahrazování našich „komunikačních zlozvyků“.
+
+                        </div>
+                    </div>
+                </div>  
+                <div class="panel panel-default" id="panel5">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse4" data-parent="#accordion" class="collapsed">
-                                <span class="label label-default">12.3.2016</span> Já jako matka - otec
+                                <span class="label label-primary">10.11.2016 </span> 
+                                <span class="label label-primary">17.30 – 20.30</span> 
+                                Jak působím na své okolí <span class="badge-price badge">300 Kč</span>
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapse4" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Rodičovská role je důležitou součástí identity dospělého člověka, má značný vliv na osobnost člověka, jeho uvažování, emoce a mezilidské vztahy.
-                            Na rozdíl od ostatních životních rolí je role otce a matky nevratná (nemůžeme přestat být rodičem). Spokojenost či nespokojenost s tím, 
-                            jak tuto roli zvládáme a naplňujeme výrazně ovlivňuje naši celkovou pohodu a sebepojetí. Setkání bude zaměřeno na naše pocity spojené 
-                            s rodičovskou rolí a na možnosti jejich pozitivního ovlivňování.
+                            To jak se tváříme, gestikulujeme, jakým způsobem mluvíme… tím vším působíme na naše okolí a tím pak také ovlivňujeme chování k nám. 
+                            Setkání bude věnované uvědomování si naší „vnější tváře“, toho co vysíláme směrem k druhým. Budeme hledat odpovědi na 
+                            otázky – jak se prezentuji? vyhovuje mi to? chci něco změnit? co a jak?
+
                         </div>
                     </div>
-                </div>
-                
-                <div class="panel panel-default" id="panel5">
+                </div>  
+                <div class="panel panel-default" id="panel6">
                     <div class="panel-heading">
                         <h4 class="panel-title">
-                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion">
-                                <span class="label label-primary">7.5.2016</span> Práce s hněvem
+                            <a data-toggle="collapse" data-target="#collapse5" data-parent="#accordion" class="collapsed">
+                                <span class="label label-primary">26.11.2016 </span> 
+                                <span class="label label-primary">13.30 - 18.30</span> 
+                                Práce se sny <span class="badge-price badge">550 Kč</span>
                             </a>
                         </h4>
 
                     </div>
-                    <div id="collapse5" class="panel-collapse collapse in">
+                    <div id="collapse5" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Hněv je naše emoční reakce na situaci, která nás dráždí. Je „živený“ pocitem křivdy, zklamání, ublížení, odmítnutí či trapnosti. 
-                            Může být směřován směrem ven i dovnitř (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umožňuje reagovat 
-                            na nebezpečí, díky hněvu získáváme energii na řešení situace. Zároveň nás hněv upozorňuje na něco důležitého, čemu možná vědomě či 
-                            nevědomě nevěnujeme dostatečnou pozornost. V setkání se zamyslíme nad svým způsobem prožívání a zpracovávání hněvu a nad možností případné změny.
+                           Proč se mi zdálo právě toto, co to mělo znamenat? Dává mi sen nějaké odpovědi na aktuální situaci a jak mu mám rozumět? 
+                           Proč se mi opakuje podobný sen? Jak dál pracovat se sny? Odpovědím na tyto a podobné otázky bude věnováno další sobotní setkání. 
+                           Sny nás mohou vést k přehodnocení různých stanovisek, upozornit na věci, kterých si nevšímáme, opomíjíme. Budeme pracovat se sny, 
+                           které si „přinesete“, hledat jejich spojitost s aktuální osobní situací. Vyzkoušíme některé možnosti další práce se sny, 
+                           jejich pochopení a přesahu do reality.
+                
                         </div>
                     </div>
-                </div>
-                
-                <div class="panel panel-default" id="panel6">
+                </div> 
+                <div class="panel panel-default" id="panel7">
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-target="#collapse6" data-parent="#accordion" class="collapsed">
-                                <span class="label label-primary">11.6.2016</span> Práce se sny
+                                <span class="label label-primary">1.12.2016 </span> 
+                                <span class="label label-primary">17.30 – 20.30</span> 
+                                Když mám v hlavě přeplněno – práce s cíli <span class="badge-price badge">300 Kč</span>
                             </a>
                         </h4>
 
                     </div>
                     <div id="collapse6" class="panel-collapse collapse">
                         <div class="panel-body">
-                            Proč se mi zdálo právě toto, co to mělo znamenat? Dává mi sen nějaké odpovědi na aktuální situaci a jak mu mám rozumět? 
-                            Proč se mi opakuje podobný sen? Jak dál pracovat se sny? Odpovědím na tyto a podobné otázky bude věnováno další sobotní setkání. 
-                            Sny nás mohou vést k přehodnocení různých stanovisek, upozornit na věci, kterých si nevšímáme, opomíjíme. Budeme pracovat se sny, 
-                            které si „přinesete“, hledat jejich spojitost s aktuální osobní situací. Vyzkoušíme některé možnosti další práce se sny, jejich 
-                            pochopení a přesahu do reality.
+                            Někdy se na nás úkoly a povinnosti tlačí ze všech stran. V každodenním shonu se tak často nedostaneme k tomu, 
+                            co vnímáme jako důležité, hodnotné. Paradoxně pak trávíme více času tím nedůležitým a zásadní věci odsouváme až.. potom.. když.. jestli.. 
+                            Setkání bude věnováno jednak utřídění vlastních cílů v rámci zklidnění a relaxace a možným způsobům práce s dlouhodobými cíli.
+
                         </div>
                     </div>
-                </div>
+                </div> 
             </div>
             
             
+            </br>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-9">
                     <p class="afterlead margin-top-space">
-                        Setkání proběhnou vždy v sobotu od 13:00 do 18:00 hod
+                        Setkání proběhnou vždy v uvedeném čase na adrese - Slaný, Wilsonova 597
                     </p>
-                    <table class="afterlead">
-                        <tr><td class="bold">Kde</td><td>Slaný, Wilsonova 597</td></tr>
-                        <tr><td class="bold">Cena</td><td>550 Kč</td></tr>
-                    </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <h3 class="featurette-heading">Proč skupina</h3>
+                    <ul class="afterlead">
+                        <li>lidé s podobnými potřebami si mohou poskytovat vzájemnou podporu</li>
+                        <li>skupina poskytuje vhodné zázemí pro sociální učení, pomáhá při uvědomění si skrytých zdrojů a schopností</li>
+                        <li>členové skupiny si mohou v bezpečném prostředí vyzkoušet nové způsoby chování a jednání</li>
+                        <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
+                    </ul>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-3">
                     <img class="example-image-link parallelogram" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní semináře, skupinová terapie, pro ženy, arteterapie"/>
                 </div>
             </div>
             
-            <h3 class="featurette-heading">Proč skupina</h3>
-            <ul class="afterlead">
-                <li>lidé s podobnými potřebami si mohou poskytovat vzájemnou podporu</li>
-                <li>skupina poskytuje vhodné zázemí pro sociální učení, pomáhá při uvědomění si skrytých zdrojů a schopností</li>
-                <li>členové skupiny si mohou v bezpečném prostředí vyzkoušet nové způsoby chování a jednání</li>
-                <li>pomocí zpětné vazby od ostatních mohou lépe porozumět svému projevu a tomu, jak působí na druhé</li>
-            </ul>
             
             <h3 class="featurette-heading">Pravidla členství ve skupině</h3>
             <ul class="afterlead">

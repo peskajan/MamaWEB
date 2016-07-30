@@ -28,15 +28,15 @@
             
             <div class="row featurette">
                 <div class="col-md-8">
-                    <p class="lead">V současné době pracuji na částečný úvazek jako rodinný poradce v Rodinné poradně Slaný. 
+                    <p class="lead">V současné době pracuji jako manželský a rodinný poradce v Poradně pro rodinu, manželství a mezilidské vztahy na Kladně. 
                         Jsem psychoterapeutka a speciální pedagog. Způsob mé práce je ovlivněn filozofií výcvikového systému 
                         <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
-                        jsem členkou České arteterapeutické asociace. Věnuji se především osobnostním, vztahovým a vývojovým obtížím a 
-                        vztahové dynamice v partnerském soužití a v rodině. 
+                        jsem členkou České arteterapeutické asociace, Asociace manželských a rodinný poradců a České asociace psychoterapeutů. 
+                        Věnuji se především osobnostním, vztahovým a vývojovým obtížím a vztahové dynamice v partnerském soužití a v rodině. 
                         Za nejdůležitější ve své práci považuji vytvoření bezpečného prostředí, provázení klienta v obtížné situaci 
-                        a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor PaedDr.  M. Chytrý). 
+                        a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor PhDr. P. Roubal). 
                         V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Téměř 20 let pracuji 
-                        jako speciální pedagog, v rodinném poradenství  mám 6 let praxe.
+                        jako speciální pedagog, v rodinném poradenství  mám 7 let praxe.
                     </p>
                     
                     <p class="lead">
@@ -45,12 +45,14 @@
                     
                     <table class="afterlead">
                         <tr><th colspan="2" >Pracovní zkušenosti</th></tr>
-                        <tr><td nowrap>2009  - dosud</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smečno</td></tr>
+                        <tr><td nowrap>2016  - dosud</td><td>speciální pedagog - Pedagogicko- psychologická poradna STEP Kladno</td></tr>
+                        <tr><td nowrap>2016  - dosud</td><td>rodinný  poradce – Poradna pro rodinu, manželství a mezilidské vztahy Kladno</td></tr>
+                        <tr><td nowrap>2009  - 2016</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smečno</td></tr>
                         <tr><td nowrap>2001 – 2012</td><td>speciální pedagog – Pedagogicko psychologická poradna  SK, pracoviště Kladno</td></tr>
                         <tr><td nowrap>1992 -  2001</td><td>speciální pedagog a zástupce ředitele Speciální mateřské školy Slaný</td></tr>
                         <tr><td nowrap>1982 - 1992</td><td>učitelka MŠ</td></tr>
                     </table>
-
+                    
                     <table class="afterlead">
                         <tr><th colspan="2" >Další pracovní zkušenosti</th></tr>
                         <tr><td nowrap>1997 - dosud </td><td>školitel – Pragouniversa Praha, Labyrint Kladno, 
@@ -61,6 +63,7 @@
 
                     <table class="afterlead">
                         <tr><th colspan="2" >Dosažené vzdělání</th></tr>
+                        <tr><td nowrap>2016</td><td>Kurz rodinného poradenství (112 hod)</td></tr>
                         <tr><td nowrap>2014</td><td>Řemeslo skupinové psychoterapie – GestaltStream (54 hod)</td></tr>
                         <tr><td nowrap>2012</td><td>licence k práci se Sadou projektivních koláží</td></tr>
                         <tr><td nowrap>2010 – 2011</td><td>Vzdělávání v arteterapii a artefiletice – 2letý akreditovaný kurz</td></tr>
