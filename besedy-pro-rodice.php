@@ -60,6 +60,7 @@
                     <table class="afterlead">
                         <tr><th>Ceník</th></tr>
                         <tr><td>za besedu</td><td>70 Kč</td></tr>
+                        <tr><td colspan="2">při účasti na 2 a více besedách je cena 50 Kč za besedu</td></tr>
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
                 </div>

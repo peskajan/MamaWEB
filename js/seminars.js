@@ -33,69 +33,62 @@ $(document).ready(function () {
         
         this.seminars = [
             {
-                title: 'To jsem já a to jsem také já',
-                date: '22.9.2016',
+                title: 'Jak zacházet se stresem',
+                date: '26.1.2017',
                 time: '17.30 – 20.30',
                 prize: '300 Kč',
-                description: 'Setkání určené pro ty, kteří se snaží lépe porozumět sami sobě a „věcem, které se jim dějí“. Prostřednictvím sady Projektivních koláží (blížší informace <a href="http://huptych.cz">zde</a>) se zamyslíme nad svými méně uvědomovanými stránkami, které mohou ovlivňovat naše prožívání i kontakt s druhými lidmi.'
+                description: 'Náš život je často hektický a uspěchaný. A přesto, že víme, že to tak není dobře, odkládáme odpočinek, zklidnění a pohodu na „někdy jindy“ -  pak…až dodělám…ještě tady to… jenže většinou do toho přijde něco dalšího a my tak žijeme v neustálém tlaku a stresu. Zkuste to tentokrát jinak a přijďte relaxovat a přemýšlet nad tématem „já a stres“. Budeme společně hledat a zkoušet vhodné způsoby uvolňování napětí. Zaměříme se také na možnosti jak pracovat s akutní zátěží i jak předcházet dlouhodobějším stresům.'
             },
             {
-                title: 'Práce s hněvem',
-                date: '8.10.2016',
+                title: 'Sebedůvěra',
+                date: '25.2.2017',
                 time: '13.30 - 18.30',
                 prize: '550 Kč',
-                description: 'Hněv je naše emoční reakce na situaci, která nás dráždí. Je „živený“ pocitem křivdy, zklamání, ublížení, odmítnutí či trapnosti. Může být směřován směrem ven i dovnitř (jak ve vnímání viníka, tak v následné reakci). Ve svém základním aspektu nám umožňuje reagovat na nebezpečí, díky hněvu získáváme energii na řešení situace. Zároveň nás hněv upozorňuje na něco důležitého, čemu možná vědomě či nevědomě nevěnujeme dostatečnou pozornost. V setkání se zamyslíme nad svým způsobem prožívání a zpracovávání hněvu a nad možností případné změny.'
+                description: 'V životě potřebujeme zažívat, že věci, které děláme mají smysl a   že máme šanci je zvládat. To nám pomáhá vyrovnat se i s aktuálním neúspěchem, s vlastní chybou a  s momentální  „nepřízní  osudu“. V této souvislosti pak mluvíme o sebevědomí, sebedůvěře… nebo také o podceňování se,  komplexu méněcennosti….  Míru naší sebedůvěry ovlivňují naše vrozené dispozice a povahové vlastnosti a to jak ji podporovali v raném dětství  naši rodiče. Zároveň je ovlivňována našimi vlastními zkušenostmi – je to postoj k sobě samému, který můžeme ovlivňovat a měnit.  V setkání se budeme věnovat konkrétním činnostem, které mohou naše sebevědomí a sebedůvěru  zlepšovat.'
             },
             {
-                title: 'Můj styl řešení konfliktů',
-                date: '13.10.2016',
+                title: 'Překonávání překážek',
+                date: '23.3.2017',
                 time: '17.30 – 20.30',
                 prize: '300 Kč',
-                description: 'Konflikty patří neodmyslitelně k našemu životu. Důležité ale je, jak je prožíváme, jak je umíme řešit, zda před nimi „utíkáme“ nebo je naopak sami spouštíme, vyhledáváme... Setkání bude věnováno uvědomění si svého stylu řešení konfliktů pomocí krátkého dotazníku a především pak hledání možných změn ve svém přístupu ke konfliktům a nahrazování našich „komunikačních zlozvyků“.'
+                description: 'Každý z nás občas zažije období, kdy se mu do cesty staví větší či menší překážky. Pro někoho jsou výzvou k většímu úsilí, v někom budí obavy a chuť se vzdát, v někom zlost „na osud“, někdo se cítí bezmocný. Schopnost zvládat obtíže a životní překážky do určité míry ovlivňuje také naši spokojenost se sebou samými. Setkání bude zaměřeno na naše strategie pro překonávání překážek tak, abychom se sebou byli více spokojení, lépe vybavení na jejich „zdolávání“.'
             },
             {
-                title: 'Jak působím na své okolí',
-                date: '10.11.2016',
-                time: '17.30 – 20.30',
-                prize: '300 Kč',
-                description: 'To jak se tváříme, gestikulujeme, jakým způsobem mluvíme… tím vším působíme na naše okolí a tím pak také ovlivňujeme chování k nám. Setkání bude věnované uvědomování si naší „vnější tváře“, toho co vysíláme směrem k druhým. Budeme hledat odpovědi na otázky – jak se prezentuji? vyhovuje mi to? chci něco změnit? co a jak?'
-            },
-            {
-                title: 'Práce se sny',
-                date: '26.11.2016',
+                title: 'Moje cesta (odkud přicházím a kam jdu)',
+                date: '22.4.2017',
                 time: '13.30 - 18.30',
                 prize: '550 Kč',
-                description: 'Proč se mi zdálo právě toto, co to mělo znamenat? Dává mi sen nějaké odpovědi na aktuální situaci a jak mu mám rozumět? Proč se mi opakuje podobný sen? Jak dál pracovat se sny? Odpovědím na tyto a podobné otázky bude věnováno další sobotní setkání. Sny nás mohou vést k přehodnocení různých stanovisek, upozornit na věci, kterých si nevšímáme, opomíjíme. Budeme pracovat se sny, které si „přinesete“, hledat jejich spojitost s aktuální osobní situací. Vyzkoušíme některé možnosti další práce se sny, jejich pochopení a přesahu do reality.'
+                description: 'Čas od času se zamýšlíme (někdo častěji, někdo spíš ve zlomových chvílích či při  životních změnách) nad tím, co jsme už dokázali / nedokázali a co nás v budoucnu ještě čeká, popř. co bychom dokázat nebo prožít chtěli. Někdy si pokládáme otázku „kdo vlastně jsem?  která z mých životních rolí mě naplňuje? co mě naopak stojí mnoho sil a „nervů“ a „stojí mi to“ vůbec za to? Co čekám od života? Přijďte se na tyto a podobné otázky podívat trochu podrobněji, přijďte hledat odpovědi.'
             },
             {
-                title: 'Když mám v hlavě přeplněno – práce s cíli',
-                date: '1.12.2016',
+                title: 'Důležité maličkosti – zlepšování vztahů',
+                date: '25.5.2017',
                 time: '17.30 – 20.30',
                 prize: '300 Kč',
-                description: 'Někdy se na nás úkoly a povinnosti tlačí ze všech stran. V každodenním shonu se tak často nedostaneme k tomu, co vnímáme jako důležité, hodnotné. Paradoxně pak trávíme více času tím nedůležitým a zásadní věci odsouváme až.. potom.. když.. jestli.. Setkání bude věnováno jednak utřídění vlastních cílů v rámci zklidnění a relaxace a možným způsobům práce s dlouhodobými cíli.'
+                description: 'Velké věci se často rodí z drobných každodenních maličkostí. Stejně tak je to u vztahů, kdy často malé věci a malé kroky mají ohromný vliv na zlepšení vztahu a společného života.  V rámci setkání se zaměříme na možnosti jak  můžeme posilovat své vztahy k nejbližším, jak  činit spokojenější sebe i druhé.'
             }
         ];
         
         this.beseds = [
             {
-                title: 'Rodiče v záběhu – dost dobrý rodič',
-                date: '15.9.2016',
-                description: 'Chcete se ujistit o svém pojetí výchovy? Přijďte načerpat nové síly a energii k plnění jedné z nejnáročnějších životních rolí „být dobrým rodičem svým dětem“. Mluvit budeme také o vhodné struktuře rodinného systému a o jednotlivých rolích v ní. O tom jak se vzájemně podporovat, abychom pro dítě vytvořili bezpečné a přívětivé prostředí pro jeho zdravý vývoj. Prostor bude také na vaše dotazy a vlastní zkušenosti.'
+                title: 'Proč se pořád perete?',
+                date: '7.2.2017',
+                description: 'Řešíte doma často „sourozenecké hádky“?  Přemýšlíte nad tím,  co k tomu vaše děti vede a jestli to můžete nějak ovlivnit? Přijďte si  poslechnout a popovídat  o plusech a mínusech jednotlivých pořadí narození, o  úskalích sourozeneckých vztahů a o možnostech  jak s nimi jako rodiče můžete nakládat.'
             },
             {
-                title: 'Rodiče v záběhu - jak podporovat celkový vývoj dítěte',
-                date: '20.10.2016',
-                description: 'Psychický vývoj dítěte postupuje po jednotlivých krocích, které se vzájemně podmiňují. V každém věkovém období na dítě „čeká určitý vývojový úkol“. Jeho plnění mohou rodiče svým přístupem výrazně ovlivnit. Beseda bude zaměřená na konkrétní možnosti, jak podporovat zdravý psychický vývoj vašeho dítěte.'
+                title: 'Vy jste na mě zlí!',
+                date: '7.3.2017',
+                description: 'Stává se Vám, že vás toto či podobné tvrzení Vašeho dítěte „dostane do úzkých“? Přemýšlíte nad tím, co se s vaším dítětem děje, že má potřebu to říkat – znamená to snad, že byste po něm neměli nic chtít?  Chtěli by jste tomu více porozumět?  Přijde se spolu s dalšími rodiči zamyslet nad tímto tématem.'
             },
             {
-                title: 'Rodiče v záběhu – jak podporovat emoční a sociální vývoj dítěte',
-                date: '24.11.2016',
-                description: 'Emoční a sociální dovednosti dítěte ovlivňují jeho začlenění mezi ostatní děti, jeho schopnosti komunikovat s okolím a tím se výrazně podílí na celkové spokojenosti dítěte. Beseda bude zaměřená na možnosti jak u dítěte rozvíjet dovednosti jako je sebedůvěra, samostatnost, komunikace, empatie, vyjadřování citů apod.'
+                title: 'To víš, že tě máme rádi!',
+                date: '4.4. 2017',
+                description: 'V životě dítěte (i dospělého)  jsou okamžiky, kdy potřebují  od svých blízkých ujištění o jejich náklonnosti,  o jejich vztahu k nim. Zároveň tato „žádost“ může rodiče znejistit. Beseda bude zaměřená na možnosti vyjadřování emocí v rodině tak, abychom podporovali pozitivní klima v rodině i sebedůvěru dětí.'
             },
             {
-                title: 'Chystáme se do 1. třídy - školní zralost',
-                date: '15.12.2016',
-                description: 'Setkání bude věnováno významu školní zralosti pro budoucí školní úspěšnost dítěte. Zaměříme se na jednotlivé oblasti důležité pro dobrý start ve škole – co by dítě před nástupem do školy mělo umět a jakým způsobem ho v tom podporovat. Jak postupovat v případě, kdy se dítěti v některé oblasti nedaří, popř. při odkladu školní docházky.'
+                title: 'Nechtějí si se mnou hrát!',
+                date: '2.5.2017',
+                description: 'Vrstevnické vztahy jsou důležitou součástí života dítěte a ne vždy se dítěti daří najít si mezi ostatními dětmi „to svoje místo“. Společně se zamyslíme nad tím, jak můžeme dítěti  pomoci hledat si kamarády, cítit se dobře  ve skupině vrstevníků ať už ve škole, či v zájmových kroužcích.'
             }
         ];
     };

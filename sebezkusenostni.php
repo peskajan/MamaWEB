@@ -33,7 +33,7 @@
                     a sdílením vlastního pohledu a zkušeností </li>
                 <li>cílem setkání je váš vlastní prožitek a společné nalézání odpovědí, nepotřebujete  výtvarné schopnosti a zkušenosti </li>
                 <li>přihlásit se můžete libovolně na jednotlivá témata, nejpozději 2 dny před konáním setkání.</li>
-                <li>je také možné přihlásit se na celý cyklus čtvrtečních setkání (4 x 3 hodiny, 900 Kč)</li>
+                <li><span class="label label-warning" style="font-size: 20px">Věrnostní sleva</span> při účasti na 2 a více seminářích je každý další seminář za polovinu ceny.</li>
             </ul>
 
             <h3 class="featurette-heading">Termíny a témata seminářů</h3>

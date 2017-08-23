@@ -95,7 +95,7 @@
         <?php
         include "./omne-dialog.php";
         ?>
-
+        
         <script src="/js/libs/jquery/jquery.js"></script>
         <script src="/js/libs/twitter-bootstrap/js/bootstrap.js"></script>
         <script src="/js/libs/jqueryui/js/jquery-ui.js"></script>

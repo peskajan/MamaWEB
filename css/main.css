@@ -344,6 +344,10 @@ a.no-decor:focus {
     width: 250px;
 }
 
+#map{
+    height: 400px;
+}
+
 #contact-form input, 
 #contact-form textarea, 
 #contact-form label {

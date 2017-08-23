@@ -19,7 +19,7 @@
                     <ul class="dropdown-menu">
                         <li><a title="Ženská skupina osobnostního rozvoje" href="/zenska-skupina/">Ženská skupina osobnostního rozvoje</a></li>
                         <li><a title="Sebezkušenostní semináře" href="/sebezkusenostni/">Sebezkušenostní semináře</a></li>
-                        <li><a title="Vrstevnická skupina pro děti" href="/vrstevnicka-skupina/">Vrstevnická skupina pro děti</a></li>
+                        <!--<li><a title="Vrstevnická skupina pro děti" href="/vrstevnicka-skupina/">Vrstevnická skupina pro děti</a></li>-->
                         <li><a title="Cílené cvičení oslabených oblastí" href="/cviceni-oslabenych-oblasti/">Cílené cvičení oslabených oblastí</a></li>
                         <li><a title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">Rodinné poradenství, psychoterapie, arteterapie</a></li>
                         <li><a title="Semináře pro učitele a výchovné pracovníky" href="/seminare/">Semináře pro učitele a výchovné pracovníky</a></li>
