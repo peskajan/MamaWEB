@@ -44,6 +44,34 @@
                     <img class="example-image-link parallelogram" src="/images/gallery/ucitele.jpg" alt="Semináře pro učitele a výchovné pracovníky"/>
                 </div>
             </div>
+ 
+            <h3 class="featurette-heading">Emoce dítěte předškolního věku</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> získat informace o emočním vývoji dětí a o vlivu emocí na jejich chování a prožívání. 
+                Seznámit s možnostmi podpory emočního vývoje dětí, řešení a předcházení silným emočním reakcím dětí. 
+                Osvojit si a vyzkoušet si konkrétní techniky a činnosti zaměřené na emoční vývoj dětí, ale i na posilování emoční vyrovnanosti samotného pedagoga.
+            </p>
+            
+            <h3 class="featurette-heading">Problémové situace v MŠ</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> sebezkušenostní seminář zaměřený na bližší porozumění a rozšíření výchovných možností při 
+                problémových situacích – v práci s dětmi, popř. v komunikaci s jejich rodiči. Součástí semináře bude mapování 
+                možností při řešení problematických situací dle námětů účastnic a praktické vyzkoušení možných postupů 
+                se zpětnou vazbou o jejich účinnosti. Cílem semináře bude vytvořit prostor pro sdílení obtížné situace, 
+                pro diskusi a vyzkoušení možných postupů. V semináři budou využity techniky skupinové práce, 
+                práce ve dvojicích, brainstorming, diskuse a situační učení.
+            </p>
+
+            <h3 class="featurette-heading">Proč dítě zlobí</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> získat informace o metodách a postupu pedagogické diagnostiky dítěte předškolního věku v 
+                souvislosti s jeho chováním, citovým prožívání a sociálními dovednostmi. Posílit své sociální a komunikační 
+                schopnosti a výchovné kompetence. Seznámit se s možnostmi spolupráce MŠ, rodiče a dalších odborníku. 
+                Osvojit si a vyzkoušet si konkrétní činnosti a techniky zaměřené na řešení akutních situací i na prevenci vzniku problémového chování dítěte.
+            </p>
             
             <h3 class="featurette-heading">Komunikace s  rodičem a dítětem ve vypjatých situacích, prvky šikany v MŠ</h3>
             <p class="afterlead">                 

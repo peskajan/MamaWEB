@@ -69,12 +69,12 @@
                         <p><a title="Rodinné poradenství, psychoterapie, arteterapie" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Besedy pro rodiče, výchovné obtíže, výchova dítěte" href="/besedy-pro-rodice/">
-                            <img class="img-circle param-header" src="/images/gallery/beseda.jpg" alt="Besedy pro rodiče">
-                            <h2>Besedy pro rodiče</h2>
+                        <a class="no-decor" title="Cílené cvičení oslabených oblastí, pozornost, jemná motorika" href="/cviceni-oslabenych-oblasti/">
+                            <img class="img-circle param-header" src="/images/gallery/cviceni.jpg" alt="Cílené cvičení oslabených oblastí">
+                            <h2>Cvičení oslabených oblastí</h2>
                         </a>
-                        <p>Volně přístupné besedy zaměřené na pozitivní rodičovství. Široký okruh témat - je na Vás, které si vyberete.</p>
-                        <p><a title="Besedy pro rodiče, výchovné obtíže, výchova dítěte" class="btn btn-default" href="/besedy-pro-rodice/" role="button">Více informací &raquo;</a></p>
+                        <p>Cvičení je zaměřeno na posilování koncentrace pozornosti v různých činnostech a na rozvoj mluvní pohotovosti dítěte.</p>
+                        <p><a title="Cílené cvičení oslabených oblastí, pozornost, jemná motorika" class="btn btn-default" href="/cviceni-oslabenych-oblasti/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
                         <a class="no-decor" title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">

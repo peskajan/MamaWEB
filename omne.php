@@ -45,7 +45,6 @@
                     
                     <table class="afterlead">
                         <tr><th colspan="2" >Pracovní zkušenosti</th></tr>
-                        <tr><td nowrap>2016  - dosud</td><td>speciální pedagog - Pedagogicko- psychologická poradna STEP Kladno</td></tr>
                         <tr><td nowrap>2016  - dosud</td><td>rodinný  poradce – Poradna pro rodinu, manželství a mezilidské vztahy Kladno</td></tr>
                         <tr><td nowrap>2009  - 2016</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smečno</td></tr>
                         <tr><td nowrap>2001 – 2012</td><td>speciální pedagog – Pedagogicko psychologická poradna  SK, pracoviště Kladno</td></tr>
@@ -86,7 +85,7 @@
                     
                 </div>
                 <div class="col-md-4">
-                    <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me1.JPG" alt="Katka Pešková"  width="350"/>
+                    <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me2.jpg" alt="Katka Pešková"  width="350"/>
                 </div>
             </div>
 

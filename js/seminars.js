@@ -30,42 +30,28 @@ $(document).ready(function () {
             return currentDate < date;
         };
 
-        
+
         this.seminars = [
             {
-                title: 'Jak zacházet se stresem',
-                date: '26.1.2017',
-                time: '17.30 – 20.30',
-                prize: '300 Kč',
-                description: 'Náš život je často hektický a uspěchaný. A přesto, že víme, že to tak není dobře, odkládáme odpočinek, zklidnění a pohodu na „někdy jindy“ -  pak…až dodělám…ještě tady to… jenže většinou do toho přijde něco dalšího a my tak žijeme v neustálém tlaku a stresu. Zkuste to tentokrát jinak a přijďte relaxovat a přemýšlet nad tématem „já a stres“. Budeme společně hledat a zkoušet vhodné způsoby uvolňování napětí. Zaměříme se také na možnosti jak pracovat s akutní zátěží i jak předcházet dlouhodobějším stresům.'
-            },
-            {
-                title: 'Sebedůvěra',
-                date: '25.2.2017',
+                title: 'Já žena',
+                date: '16.9.2017',
                 time: '13.30 - 18.30',
-                prize: '550 Kč',
-                description: 'V životě potřebujeme zažívat, že věci, které děláme mají smysl a   že máme šanci je zvládat. To nám pomáhá vyrovnat se i s aktuálním neúspěchem, s vlastní chybou a  s momentální  „nepřízní  osudu“. V této souvislosti pak mluvíme o sebevědomí, sebedůvěře… nebo také o podceňování se,  komplexu méněcennosti….  Míru naší sebedůvěry ovlivňují naše vrozené dispozice a povahové vlastnosti a to jak ji podporovali v raném dětství  naši rodiče. Zároveň je ovlivňována našimi vlastními zkušenostmi – je to postoj k sobě samému, který můžeme ovlivňovat a měnit.  V setkání se budeme věnovat konkrétním činnostem, které mohou naše sebevědomí a sebedůvěru  zlepšovat.'
+                prize: '600 Kč',
+                description: 'Od narození si budujeme a postupně „oblékáme“ svou ženskost. Někdy nám v tom okolí pomáhá, někdy jsou však rodově předávané vzorce „správné ženy“ i zdrojem různých frustrací a nepohodlí. Různé oblasti našeho ženství (prožívání vlastního těla, sexuality, vztahy s muži, mateřství apod.) mohou být pro nás oporou, ale i nám mohou znepříjemňovat život. Na setkání budeme mít prostor pro hledání možností změny v prožívání své ženskosti a na posilování našeho ženského sebevědomí.'
             },
             {
-                title: 'Překonávání překážek',
-                date: '23.3.2017',
-                time: '17.30 – 20.30',
-                prize: '300 Kč',
-                description: 'Každý z nás občas zažije období, kdy se mu do cesty staví větší či menší překážky. Pro někoho jsou výzvou k většímu úsilí, v někom budí obavy a chuť se vzdát, v někom zlost „na osud“, někdo se cítí bezmocný. Schopnost zvládat obtíže a životní překážky do určité míry ovlivňuje také naši spokojenost se sebou samými. Setkání bude zaměřeno na naše strategie pro překonávání překážek tak, abychom se sebou byli více spokojení, lépe vybavení na jejich „zdolávání“.'
-            },
-            {
-                title: 'Moje cesta (odkud přicházím a kam jdu)',
-                date: '22.4.2017',
+                title: 'Komunikace',
+                date: '4.11.2017',
                 time: '13.30 - 18.30',
-                prize: '550 Kč',
-                description: 'Čas od času se zamýšlíme (někdo častěji, někdo spíš ve zlomových chvílích či při  životních změnách) nad tím, co jsme už dokázali / nedokázali a co nás v budoucnu ještě čeká, popř. co bychom dokázat nebo prožít chtěli. Někdy si pokládáme otázku „kdo vlastně jsem?  která z mých životních rolí mě naplňuje? co mě naopak stojí mnoho sil a „nervů“ a „stojí mi to“ vůbec za to? Co čekám od života? Přijďte se na tyto a podobné otázky podívat trochu podrobněji, přijďte hledat odpovědi.'
+                prize: '600 Kč',
+                description: 'Náš způsob komunikace ovlivňuje vztahy s blízkými lidmi, výrazně se podílí i na našem začlenění do širšího okolí, do různých skupin, pracovního kolektivu apod. V rámci setkání budeme mapovat náš osobní způsob komunikace, jeho pozitiva ale i negativa a případné překážky. Pracovat budeme také s neverbální složkou komunikace a s možnostmi posilování jednotlivých komunikačních dovedností.'
             },
             {
-                title: 'Důležité maličkosti – zlepšování vztahů',
-                date: '25.5.2017',
+                title: 'Já musím – já chci',
+                date: '7.12.2017',
                 time: '17.30 – 20.30',
-                prize: '300 Kč',
-                description: 'Velké věci se často rodí z drobných každodenních maličkostí. Stejně tak je to u vztahů, kdy často malé věci a malé kroky mají ohromný vliv na zlepšení vztahu a společného života.  V rámci setkání se zaměříme na možnosti jak  můžeme posilovat své vztahy k nejbližším, jak  činit spokojenější sebe i druhé.'
+                prize: '350 Kč',
+                description: 'Náš dospělý život je někdy omezován různými „scénáři“, které jsme přijali v dětství. Používáme je přesto, že některé z nich nám už dávno „nedělají dobrou službu“. V setkání se budeme věnovat rozpoznávání těchto scénářů a zvažování, které z nich si chceme nechat a které chceme nahradit novými, více prospěšnými.'
             }
         ];
         
