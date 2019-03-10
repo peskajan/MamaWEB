@@ -48,7 +48,7 @@ $(document).ready(function () {
             },
             {
                 title: 'Já musím – já chci',
-                date: '7.12.2017',
+                date: '30.11.2017',
                 time: '17.30 – 20.30',
                 prize: '350 Kč',
                 description: 'Náš dospělý život je někdy omezován různými „scénáři“, které jsme přijali v dětství. Používáme je přesto, že některé z nich nám už dávno „nedělají dobrou službu“. V setkání se budeme věnovat rozpoznávání těchto scénářů a zvažování, které z nich si chceme nechat a které chceme nahradit novými, více prospěšnými.'

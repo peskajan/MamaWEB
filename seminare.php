@@ -29,7 +29,7 @@
 
             <p class="lead">                 
                 V rámci spolupráce s centry celoživotního vzdělávání pedagogických pracovníků vedu semináře zaměřené na některé 
-                problematické oblasti  v mateřských a základních školách. Časová dotace seminářů je pět vyučovacích hodin.
+                problematické oblasti v mateřských školách. Časová dotace seminářů je pět vyučovacích hodin.
             </p>
 
             <div class="row">
@@ -110,7 +110,7 @@
 
             <h3 class="featurette-heading">Hry pro zvládání agresivity a neklidu </h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelům 1. a 2. stupně ZŠ, vychovatelům ŠD nebo učitelkám MŠ<br>
+                <b>Určeno:</b> učitelkám MŠ<br>
                 <b>Obsah:</b> zážitkový seminář zaměřený na praktické vyzkoušení možných technik a činností, které pomáhají při zvládání 
                 agresivního chování dětí. Účastníci se seznámí s technikami, které vedou k přiměřenému a přijatelnému ventilování napětí a 
                 agrese, které posilují sebepoznání a sebekontrolu dětí a vedou k posilování pozitivních vztahů v kolektivu. Vyzkoušejí 
@@ -118,18 +118,9 @@
                 zprostředkovat činností, které povedou k obohacení způsobů chování a jednání v konfliktní situaci.
             </p>
 
-            <h3 class="featurette-heading">Třídní klima, komunikace v ZŠ</h3>
-            <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám ZŠ (vhodné je rozdělení na 1.a 2. stupeň ZŠ)<br>
-                <b>Obsah:</b> praktický seminář zaměřený na zmapování a zlepšování klimatu třídy a zefektivnění komunikace pedagoga se 
-                žáky i rodiči. Možná úskalí komunikačního procesu, pozitivní i negativní ovlivnění ze strany učitele, 
-                způsob předcházení obtížím v tomto procesu. Praktické vyzkoušení některých technik a postupů vhodných ke zlepšení 
-                spolupráce a komunikace dětí ve třídě.
-            </p>
-
             <h3 class="featurette-heading">Cvičení pro rozvoj pozornosti</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ nebo učitelkám ZŠ<br>
+                <b>Určeno:</b> učitelkám MŠ<br>
                 <b>Obsah:</b> Praktický seminář zaměřený na prodlužování  doby koncentrace pozornosti a její procvičování u dětí 
                 předškolního věku. Konkrétní náměty a činnosti jsou zaměřeny na posilování pozornosti v oblasti zrakového a 
                 sluchového vnímání, zrakové a sluchové paměti a vizuomotorické koordinace. Součástí semináře je také seznámení s krátkými 
@@ -138,7 +129,7 @@
 
             <h3 class="featurette-heading">Neklidné a nesoustředěné dítě</h3>
             <p class="afterlead">                 
-                <b>Určeno:</b> učitelkám MŠ  nebo učitelkám ZŠ, vychovatelkám ve ŠD<br>
+                <b>Určeno:</b> učitelkám MŠ<br>
                 <b>Obsah:</b> seminář zaměřený na obecný  úvod do problematiky dětí  s obtížemi se soustředěním, 
                 děti neklidné ( LMD, ADHD sy,  ADD sy) a také na práci s nimi ve třídě.  Součástí zážitkového 
                 semináře je  porozumění situaci  těchto dětí, rozpoznání typických projevů  v chování dětí a následné možnosti 
@@ -213,6 +204,35 @@
                 seznámí s širokým rejstříkem  práce s vlastním tělem,  s emocemi a  s  únavou.  Účastnice si vyzkouší různé typy relaxací a 
                 způsob posilování vnitřních zdrojů,  seznámí se s možnými strategiemi zvládání konfliktních situací a účinné komunikace. 
                 Cílem bude vytváření  osobního postupu při uvolňování napětí a prevenci syndromu vyhoření.
+            </p>
+            
+            <h3 class="featurette-heading">Jak vymezit hranice a začlenit rituály do výchovy dětí MŠ</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> Sebezkušenostní seminář zaměřený na nastavování přiměřených hranic dětem předškolního věku. 
+                Součástí semináře je stručné shrnutí vývoje sociálních dovedností dětí a možností jeho posilování a zásady efektivní komunikace. 
+                Největší část semináře je zaměřena na konkrétní činnosti a techniky při vymezování hranic a při zavádění rituálů a na spolupráci mezi dětmi.
+            </p>
+            
+            <h3 class="featurette-heading">Asertivní řešení konfliktů v MŠ</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> Praktický seminář shrnující specifika skupinové dynamiky a postavení učitele u dětí předškolního věku. 
+                Seznámení s vhodným přístupem učitele - možnosti podpory vzájemného respektu mezi dětmi. 
+                Hlavní důraz bude kladen na konkrétní náměty a činnosti zaměřené na pozitivní vztahy mezi dětmi (spolupráce ve dvojici, v menší skupince, 
+                hry se společným handicapem, hry zaměřené na podporu empatie dětí apod.) a na přátelské řešení konfliktů. 
+                Účastníci se také seznámí s vhodnými změnami v rámci mateřské školy a s postupem při spolupráci s rodiči.
+            </p>
+
+            <h3 class="featurette-heading">Lhaní u dětí předškolního věku</h3>
+            <p class="afterlead">                 
+                <b>Určeno:</b> učitelkám MŠ<br>
+                <b>Obsah:</b> Pravda a lež  z hlediska malého dítěte - objevování kategorie pravdy a nepravdy, skutečného a smyšleného v rámci vývoje dítěte. 
+                Praktický seminář zaměřený na objevování kategorie pravdy a nepravdy, skutečného a smyšleného v rámci vývoje dítěte. 
+                Seznámení s typy lhaní a jejich příčinami, jak je rozlišit, co dítě ke lhaní vede a proč je pro další vývoj dítěte důležitý citlivý přístup dospělých. 
+                Hlavní důraz bude kladen na praktické otázky a postupy - jak reagovat na lhaní dítěte, 
+                jak nabízet jiné alternativy řešení náročných situací a jak podporovat rozvoj mluvního projevu dětí (vyjadřování svých potřeb, 
+                emočních stavů apod.). Dále pak práce s chybou (náprava, omluva a přijetí omluvy) jako prevence lhaní.
             </p>
 
         </div>

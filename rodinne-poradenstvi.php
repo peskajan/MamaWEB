@@ -43,12 +43,10 @@
                     <table class="afterlead">
                         <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
                         <tr><td>Individuálně</td> 
-                            <td class="price">500 Kč</td></tr>
+                            <td class="price">600 Kč</td></tr>
                         <tr><td>V páru</td> 
-                            <td class="price">700 Kč</td></tr>
-                        <tr>
-                            <td class="td-top-margin" colspan="2">při dlouhodobější spolupráci cena dohodou</td> 
-                        </tr>
+                            <td class="price">800 Kč</td></tr>
+                       
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
                 </div>

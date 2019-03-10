@@ -66,10 +66,10 @@
                         </a>
                         <p>Je určeno pro ty, kteří se potřebují zorientovat ve své situaci při jakékoliv osobní, vztahové či pracovní problematice. 
                             Také pro jedince v krizové situaci, kteří hledají oporu a potřebují získat nadhled.</p>
-                        <p><a title="Rodinné poradenství, psychoterapie, arteterapie" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
+                        <p><a title="Rodinné poradenství" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Cílené cvičení oslabených oblastí, pozornost, jemná motorika" href="/cviceni-oslabenych-oblasti/">
+                        <a class="no-decor" title=" slabených oblastí, pozornost, jemná motorika" href="/cviceni-oslabenych-oblasti/">
                             <img class="img-circle param-header" src="/images/gallery/cviceni.jpg" alt="Cílené cvičení oslabených oblastí">
                             <h2>Cvičení oslabených oblastí</h2>
                         </a>
@@ -77,18 +77,16 @@
                         <p><a title="Cílené cvičení oslabených oblastí, pozornost, jemná motorika" class="btn btn-default" href="/cviceni-oslabenych-oblasti/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" href="/sebezkusenostni/">
-                            <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="Sebezkušenostní seminář">
-                            <h2>Sebezkušenostní semináře</h2>
+                        <a class="no-decor" title="Psychoterapie, arteterapie" href="/rodinne-poradenstvi/">
+                            <img class="img-circle param-header" src="/images/gallery/sebezkusenostni.jpg" alt="Psychoterapie, arteterapie">
+                            <h2>Psychoterapie a Arteterapie</h2>
                         </a>
-                        <p>Chcete více porozumět sami sobě?
-                            Zajímá Vás, jak působíte na své okolí?
-                            Máte pocit, že se Vám dějí věci, kterým nerozumíte?
-                            Chcete nahlédnout do sebe trochu jinak než dosud?</p>
-                        <p><a title="Sebezkušenostní seminář, skupinová terapie, pro ženy, arteterapie" class="btn btn-default" href="/sebezkusenostni/" role="button">Více informací &raquo;</a></p>
+                        <p>Cílem je hlubší nahlédnutí do podstaty obtíží a následná změna v prožívání  a chování, která vede k aktivnějšímu 
+                přístupu k životu a větší spokojenosti klienta.</p>
+                        <p><a title="Psychoterapie, arteterapie" class="btn btn-default" href="/rodinne-poradenstvi/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
-<!--                <div class="row margin-top-space">
+<!--                <div class="row margin-top-space"> 
                     <div class="col-lg-12">
                         <a class="no-decor" title="KUDYKAM - vztahy s rodiči, vztahy v kolektivu, škola - autority - výkon, rizikové chování, kyberšikana" href="/kudykam/">
                             <img class="param-header full-width" src="/images/gallery/kdkm-logo.jpg" alt="Kudy kam - skupina pro dospívající">
