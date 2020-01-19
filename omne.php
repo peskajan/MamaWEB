@@ -62,7 +62,7 @@
 
                     <table class="afterlead">
                         <tr><th colspan="2" >Dosažené vzdělání</th></tr>
-                        <tr><td nowrap>2017- 2019</td><td>Výcvik v psychoanalytické párové a rodinné terapii</td></tr>
+                        <tr><td nowrap>2017 - 2019</td><td>Výcvik v psychoanalytické párové a rodinné terapii</td></tr>
                         <tr><td nowrap>2016</td><td>Kurz rodinného poradenství (112 hod)</td></tr>
                         <tr><td nowrap>2014</td><td>Řemeslo skupinové psychoterapie – GestaltStream (54 hod)</td></tr>
                         <tr><td nowrap>2012</td><td>licence k práci se Sadou projektivních koláží</td></tr>
