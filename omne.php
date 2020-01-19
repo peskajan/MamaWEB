@@ -36,7 +36,7 @@
                         Za nejdůležitější ve své práci považuji vytvoření bezpečného prostředí, provázení klienta v obtížné situaci 
                         a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor Mgr. Milan Stiburek). 
                         V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Více než 20 let jsem pracovala jako speciální pedagog, 
-                        v rodinném poradenství  mám 9 let praxe.
+                        v rodinném poradenství  mám 11 let praxe.
                     </p>
                     
                     <p class="lead">
@@ -62,6 +62,7 @@
 
                     <table class="afterlead">
                         <tr><th colspan="2" >Dosažené vzdělání</th></tr>
+                        <tr><td nowrap>2017- 2019</td><td>Výcvik v psychoanalytické párové a rodinné terapii</td></tr>
                         <tr><td nowrap>2016</td><td>Kurz rodinného poradenství (112 hod)</td></tr>
                         <tr><td nowrap>2014</td><td>Řemeslo skupinové psychoterapie – GestaltStream (54 hod)</td></tr>
                         <tr><td nowrap>2012</td><td>licence k práci se Sadou projektivních koláží</td></tr>
@@ -80,7 +81,7 @@
                         <tr><td>Práce u hliněného pole, Netradiční využití výtvarných, hudebních a dramatických technik při práci s dětmi a mládeží, 
                                 Test stromu, Školící a výcvikový kurz Zulligerova diapozitového testu, Mimoslovní sdělování, 
                                 Sociálně psychologický zážitkově orientovaný výcvik, Neverbální psychoterapie a komunikace, Dynamika skupinového dění, 
-                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD </td></tr>
+                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu¨.</td></tr>
                     </table>
                     
                 </div>
