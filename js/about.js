@@ -14,6 +14,11 @@ $(document).ready(function() {	//executed after the page has loaded
         return false;
     });
 
+    $("#a-ochrana").click(function() {
+        $("#dialog-ochrana").dialog("open");
+        return false;
+    });
+
     $("#dialog-sur").dialog({
         autoOpen: false,
         modal: true,
@@ -47,10 +52,22 @@ $(document).ready(function() {	//executed after the page has loaded
         }
     });
 
+    $("#dialog-ochrana").dialog({
+        autoOpen: false,
+        modal: true,
+        width: 700,
+        buttons: {
+            Ok: function() {
+                $(this).dialog("close");
+            }
+        }
+    });
+
     $(document).on('click', '.ui-widget-overlay', function() {
         $('#dialog-arte').dialog("close");
         $('#dialog-sur').dialog("close");
         $('#dialog-podminky').dialog("close");
+        $('#dialog-ochrana').dialog("close");
     });
 
 });

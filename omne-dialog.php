@@ -37,3 +37,29 @@
     </p>
 </div>
 
+<div id="dialog-ochrana" style="width: 500px;" title="Ochrana osobních údajů">
+    <p>
+        Abych Vám mohla poskytnout konzultaci, potřebuji pracovat s některými Vašimi osobními údaji.
+    </p>
+    <p>
+        1. Abychom se mohli spojit ohledně Vaší poprávky mých služen nebo školení, mám na webu umístěný kontaktní formulář. Údaje, které mi do něj vypíšete budu zpracovávat za účelem odpovědi na Vaši zprávu. Pokud se na spolupráci nedomluvíme, Vaše údaje budu zpracovávat jenom po dobu nezbytně nutnou k vyřízení Vašeho dotazu.
+    </p>
+    <p>
+        2. Pokud se domluvíme na další spolupráci, budu zpracovávat Vaše jméno, kontaktní údaje (e-mail, telefon) a případně údaje, které mi sdělíte v rámci terapie, někdy se může jednat o “citlivé” osobní údaje. S takovými daty budu pracovat jen pro účely poskytnutí mých služeb. Vaše data budu zpracovávat po dobu poskytování mých služeb a nejdéle 5 let od ukončení naší spolupráce. Vaše fakturační údaje budu zpracovávt pro splnění zákonných povinností 10 let po poskytnutí služby.
+    </p>
+    <p>
+        3. Pokud byste mě potřebovali ohledně vašich dat a mé práce s nimi kontaktovat, napište mi na e-mail katka.peskova@post.cz
+    </p>
+    <p>
+        4. Nařízení GDPR (nařízení Evropského parlamentu a Rady EU č. 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů, o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES), které oblast osobních údajů upravuje, Vám dává spoustu práv. Mezi nimi je právo obrátit se na mně a chtít informace jaké osobní údaje zpracovávám, vyžádat si přístup k osobním údajům, nechat je aktualizovat nebo opravit, chtít omezení zpracování nebo výmaz.
+    </p>
+    <p>
+        Pokud si myslíte, že s údaji nenakládám jak bych měla, máte možnost podat stížnost u Úřadu pro ochranu osobních údajů, případně se obrátit na soud.
+    </p>
+</div>
+
+
+
+
+
+

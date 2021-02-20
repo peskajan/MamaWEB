@@ -40,7 +40,7 @@
                     </p>
                     
                     <p class="lead">
-                        Při poskytování všech služeb musí být dodrženy <a id="a-podminky" href="">podmínky spolupráce</a>
+                        Při poskytování všech služeb musí být dodrženy <a id="a-podminky" href="">podmínky spolupráce</a> a <a id="a-ochrana" href="">ochrana osobních údajů</a>
                     </p>
                     
                     <table class="afterlead">
