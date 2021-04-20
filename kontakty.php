@@ -31,6 +31,7 @@
 
         <div id="content" class="main_content container">
             <h2 class="page-heading">Kontakty</h2>
+            <p class="lead bold">Aktuálně je možné na sezení u mě čerpat příspěvek od České průmyslové zdravotní pojišťovny (pokud jste jejich pojištěnci) 5x 500Kč</p>
             <p class="lead">V případě, že máte zájem o mé služby a chtěli byste si domluvit termín nebo máte jakýkoliv dotaz, neváhejte mě kontaktovat buď přímo:</p>
             <div class="row featurette">
 
