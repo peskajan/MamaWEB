@@ -87,6 +87,7 @@
                 </div>
                 <div class="col-md-4">
                     <img title="Katka Pešková - terapeutka" class="myphoto img-responsive" src="/images/me2.jpg" alt="Katka Pešková"  width="350"/>
+                    <a href="http://www.czap.cz/" target="_blank"><img title="Členka České Asociace pro Psychoterapii" class="myphoto img-responsive" src="/images/cap-badge.png" alt="Členka České Asociace pro Psychoterapii"  width="350"/></a>
                 </div>
             </div>
 

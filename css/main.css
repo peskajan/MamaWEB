@@ -472,6 +472,10 @@ a.no-decor:focus {
     -moz-border-radius-bottomleft: 5px;
 }
 
+.banner {
+    margin-top: 50px;
+}
+
 /* Normalize placeholder styles */
 
 /* chrome, safari */

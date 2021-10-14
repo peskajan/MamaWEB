@@ -61,6 +61,11 @@
                 počet setkání záleží na domluvě klienta s poradcem. 
             </p>
 
+            <p class="afterlead">                 
+                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
+            </p>
+            
+
             <h3 class="featurette-heading">Poradenství</h3>
             <p class="afterlead">        
                 Je určeno pro ty, kteří se potřebují zorientovat ve své situaci při jakékoliv osobní, vztahové či pracovní problematice. 
