@@ -73,7 +73,7 @@
                             <img class="img-circle param-header" src="/images/gallery/cviceni.jpg" alt="Cílené cvičení oslabených oblastí">
                             <h2>Cvičení oslabených oblastí</h2>
                         </a>
-                        <p>Cvičení je zaměřeno na posilování koncentrace pozornosti v různých činnostech a na rozvoj mluvní pohotovosti dítěte.</p>
+                        <p>Cvičení je zaměřeno na posilování koncentrace pozornosti a grafomotoriky v různých činnostech a na rozvoj mluvní pohotovosti dítěte.</p>
                         <p><a title="Cílené cvičení oslabených oblastí, pozornost, jemná motorika" class="btn btn-default" href="/cviceni-oslabenych-oblasti/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">

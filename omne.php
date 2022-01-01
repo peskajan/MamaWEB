@@ -31,7 +31,7 @@
                     <p class="lead">V současné době pracuji jako manželský a rodinný poradce v Poradně pro rodinu, manželství a mezilidské vztahy na Kladně. 
                         Jsem psychoterapeutka a speciální pedagog. Způsob mé práce je ovlivněn filozofií výcvikového systému 
                         <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
-                        jsem členkou České arteterapeutické asociace, Asociace manželských a rodinný poradců a České asociace psychoterapeutů. 
+                        jsem členkou Asociace manželských a rodinný poradců a České asociace psychoterapeutů. 
                         Věnuji se především osobnostním, vztahovým a vývojovým obtížím a vztahové dynamice v partnerském soužití a v rodině. 
                         Za nejdůležitější ve své práci považuji vytvoření bezpečného prostředí, provázení klienta v obtížné situaci 
                         a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor Mgr. Milan Stiburek). 
@@ -81,7 +81,7 @@
                         <tr><td>Práce u hliněného pole, Netradiční využití výtvarných, hudebních a dramatických technik při práci s dětmi a mládeží, 
                                 Test stromu, Školící a výcvikový kurz Zulligerova diapozitového testu, Mimoslovní sdělování, 
                                 Sociálně psychologický zážitkově orientovaný výcvik, Neverbální psychoterapie a komunikace, Dynamika skupinového dění, 
-                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu¨.</td></tr>
+                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu, Práce se sny.</td></tr>
                     </table>
                     
                 </div>

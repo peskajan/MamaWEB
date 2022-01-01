@@ -31,7 +31,13 @@
 
         <div id="content" class="main_content container">
             <h2 class="page-heading">Kontakty</h2>
-            <p class="lead bold">Aktuálně je možné na sezení u mě čerpat příspěvek od České průmyslové zdravotní pojišťovny (pokud jste jejich pojištěnci) 5x 500Kč</p>
+            
+            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a> 
+                a od <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> (pokud jste jejich pojištěnci)
+
+                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
+            </p>
+            </br>
             <p class="lead">V případě, že máte zájem o mé služby a chtěli byste si domluvit termín nebo máte jakýkoliv dotaz, neváhejte mě kontaktovat buď přímo:</p>
             <div class="row featurette">
 

@@ -43,9 +43,9 @@
                     <table class="afterlead">
                         <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
                         <tr><td>Individuálně</td> 
-                            <td class="price">600 Kč</td></tr>
-                        <tr><td>V páru</td> 
                             <td class="price">800 Kč</td></tr>
+                        <tr><td>V páru</td> 
+                            <td class="price">1000 Kč</td></tr>
                        
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
@@ -55,16 +55,16 @@
                 </div>
             </div>
 
+            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a> 
+                a od <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> (pokud jste jejich pojištěnci)
+
+                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
+            </p>
 
             <p class="afterlead">                 
                 Poradenství probíhá v předem domluvených termínech, délka jednoho setkání je 1 hodina, 
                 počet setkání záleží na domluvě klienta s poradcem. 
             </p>
-
-            <p class="afterlead">                 
-                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
-            </p>
-            
 
             <h3 class="featurette-heading">Poradenství</h3>
             <p class="afterlead">        
