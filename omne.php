@@ -35,8 +35,7 @@
                         Věnuji se především osobnostním, vztahovým a vývojovým obtížím a vztahové dynamice v partnerském soužití a v rodině. 
                         Za nejdůležitější ve své práci považuji vytvoření bezpečného prostředí, provázení klienta v obtížné situaci 
                         a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor Mgr. Milan Stiburek). 
-                        V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Více než 20 let jsem pracovala jako speciální pedagog, 
-                        v rodinném poradenství  mám 11 let praxe.
+                        V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Více než 20 let jsem pracovala jako speciální pedagog, v poradenství mám 15 let praxe.
                     </p>
                     
                     <p class="lead">
@@ -81,7 +80,7 @@
                         <tr><td>Práce u hliněného pole, Netradiční využití výtvarných, hudebních a dramatických technik při práci s dětmi a mládeží, 
                                 Test stromu, Školící a výcvikový kurz Zulligerova diapozitového testu, Mimoslovní sdělování, 
                                 Sociálně psychologický zážitkově orientovaný výcvik, Neverbální psychoterapie a komunikace, Dynamika skupinového dění, 
-                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu, Práce se sny.</td></tr>
+                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu, Práce se sny, Psychoterapie traumatu.</td></tr>
                     </table>
                     
                 </div>

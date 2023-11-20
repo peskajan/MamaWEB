@@ -62,7 +62,7 @@
                      <div class="col-lg-4">
                          <a class="no-decor" title="Rodinné poradenství, psychoterapie, arteterapie" href="/rodinne-poradenstvi/">
                             <img class="img-circle param-header" src="/images/gallery/rodina-param.jpg" alt="Rodinné poradenství">
-                            <h2>Rodinné poradenství</h2>
+                            <h2>Poradenství</h2>
                         </a>
                         <p>Je určeno pro ty, kteří se potřebují zorientovat ve své situaci při jakékoliv osobní, vztahové či pracovní problematice. 
                             Také pro jedince v krizové situaci, kteří hledají oporu a potřebují získat nadhled.</p>

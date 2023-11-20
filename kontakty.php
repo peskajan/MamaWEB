@@ -32,8 +32,10 @@
         <div id="content" class="main_content container">
             <h2 class="page-heading">Kontakty</h2>
             
-            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a> 
-                a od <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> (pokud jste jejich pojištěnci)
+            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od 
+                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a>, 
+                <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> a 
+                <a href="https://www.zpmvcr.cz/pojistenci/bonusy-na-prevenci/program-podpory-dusevniho-zdravi" target="_blank">Zdravotní pojišťovny ministerstva vnitra</a> (pokud jste jejich pojištěnci)
 
                 <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
             </p>

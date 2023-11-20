@@ -25,7 +25,7 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Rodinné poradenství, psychoterapie, arteterapie</h2>
+            <h2 class="page-heading">Poradenství, psychoterapie, arteterapie</h2>
 
             <h3 class="featurette-heading">Je určeno lidem v problematické partnerské či životní situaci, např:</h3>
             <ul class="afterlead">
@@ -43,9 +43,9 @@
                     <table class="afterlead">
                         <tr><th>Ceník <a id="a-price-detail" href="" title="Podrobněji o ceně">(*)</a></th></tr>
                         <tr><td>Individuálně</td> 
-                            <td class="price">800 Kč</td></tr>
-                        <tr><td>V páru</td> 
                             <td class="price">1000 Kč</td></tr>
+                        <tr><td>Párové, rodinné</td> 
+                            <td class="price">1200 Kč</td></tr>
                        
                     </table>
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
@@ -55,8 +55,10 @@
                 </div>
             </div>
 
-            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a> 
-                a od <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> (pokud jste jejich pojištěnci)
+            <p class="lead bold">Na sezení u mě je možné čerpat příspěvek od 
+                <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank">Všeobecné zdravotní pojišťovny</a>, 
+                <a href="https://www.cpzp.cz/preventivni-program/64" target="_blank">České průmyslové zdravotní pojišťovny</a> a 
+                <a href="https://www.zpmvcr.cz/pojistenci/bonusy-na-prevenci/program-podpory-dusevniho-zdravi" target="_blank">Zdravotní pojišťovny ministerstva vnitra</a> (pokud jste jejich pojištěnci)
 
                 <a href="https://dusevnizdravi.vzp.cz/informace-o-prispevku/" target="_blank"><img title="VZP příspěvek" class="banner" src="/images/banner-vzp.png" alt="VZP příspěvek"/></a>
             </p>
@@ -97,19 +99,20 @@
             <h3 class="featurette-heading">U všech uvedených služeb můžete využít:</h3>
             <ul class="afterlead">
 
-                <li><b>Individuální konzultace</b> - Poradenského procesu se účastní jen klient starší 16let a odborný pracovník. 
+                <li><b>Individuální konzultace</b> - procesu se účastní jen klient starší 16let a odborný pracovník. 
                     Je určena pro ty, kteří chtějí více porozumět sami sobě a kořenům svých obtíží. Je v ní dostatek prostoru pro rozlišení 
                     „co z toho co dělám je  pro mě užitečné a co mi naopak škodí“. V rámci individuální terapie můžete hledat 
-                    jiné možnosti a tvořivější způsoby řešení svých obtíží.</li>
+                    jiné možnosti a tvořivější způsoby řešení svých obtíží. U dětí mladších 16 let jsou individuální 
+                    konzultace s dítětem podmíněny spoluprací s rodiči, kteří v pravidelných intervalech 
+                    docházejí na rodičovská setkání - dle dohody s terapeutem</li>
 
-                <li><b>Párová konzultace</b> - Poradenského procesu se účastní pár, který má možnost jak společných 
-                    tak individuálních konzultací s terapeutem. Je určena pro ty, kteří prožívají krizi v partnerském vztahu a vlivem silných emocí, 
-                    vzájemného zraňování a obviňování nemohou najít a překonat příčinu krize.  Je zde prostor pochopit lépe jeden druhého 
-                    a společně změnit to, co vztahu škodí a hledat „co potřebujeme aby nám spolu bylo lépe“.</li>
+                <li><b>Párová konzultace</b> - je určena pro páry, které prožívají krizi v partnerském vztahu a vlivem silných emocí, 
+                    vzájemného zraňování a obviňování nemohou najít a překonat příčinu krize. Je zde prostor pochopit lépe jeden druhého 
+                    a společně změnit to, co vztahu škodí a hledat „co potřebujeme aby nám spolu bylo lépe“. Konzultací s terapeutem se 
+                    vždy účastní oba partneři</li>
 
-                <li><b>Rodinná konzultace</b> - Zaměřuje se na celou rodinu včetně dětí, věnuje pozornost vzájemným vztahům v celé rodině. 
-                    Konzultace samotného dítěte mladšího 16let je možná v případě označení problému jako rodinného, 
-                    podepsaným souhlasem zákonného zástupce. Je určena pro ty, kteří se ve svém rodinném systému potýkají s těžkou situací. 
+                <li><b>Rodinná konzultace</b> - zaměřuje se na celou rodinu včetně dětí, věnuje pozornost vzájemným vztahům v celé rodině. 
+                    Je určena pro ty, kteří se ve svém rodinném systému potýkají s těžkou situací. 
                     Je zde prostor pro všechny členy rodiny uvědomit si a říct ostatním jak situaci vnímají a společně hledat možná 
                     východiska z aktuálně nepříznivé situace.</li>
             </ul>
