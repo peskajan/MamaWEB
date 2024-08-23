@@ -45,7 +45,7 @@
 
                 <div class="col-md-6">
                     <table class="afterlead">
-                        <tr><td>Katka Pešková</td></tr>
+                        <tr><td>PhDr. Kateřina Pešková</td></tr>
                         <tr><td><a title="Psychoterapeut, Speciální pedadog - Katka Pešková" href="tel:+420 776 134 539" target="_top">
                                     <img class="contact-icon" src="/images/phone.png" alt="telefon"/>+420 776 134 539</a>
                             </td></tr>
