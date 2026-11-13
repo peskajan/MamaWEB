@@ -28,14 +28,14 @@
             
             <div class="row featurette">
                 <div class="col-md-8">
-                    <p class="lead">V současné době pracuji jako manželský a rodinný poradce v Poradně pro rodinu, manželství a mezilidské vztahy na Kladně. 
+                    <p class="lead">V současné době mám soukromou praxi poradenské psychoterapie ve Slaném.
                         Jsem psychoterapeutka a speciální pedagog. Způsob mé práce je ovlivněn filozofií výcvikového systému 
                         <a id="a-sur" href="">SUR</a> a <a id="a-arte" href="">arteterapie</a>, 
                         jsem členkou Asociace manželských a rodinný poradců a České asociace psychoterapeutů. 
                         Věnuji se především osobnostním, vztahovým a vývojovým obtížím a vztahové dynamice v partnerském soužití a v rodině. 
                         Za nejdůležitější ve své práci považuji vytvoření bezpečného prostředí, provázení klienta v obtížné situaci 
-                        a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizor Mgr. Milan Stiburek). 
-                        V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Více než 20 let jsem pracovala jako speciální pedagog, v poradenství mám 15 let praxe.
+                        a pomoc při hledání možných řešení. Pravidelně absolvuji supervizi své práce (supervizorka PhDr. Věra Rašková).
+                        V rámci kontinuálního vzdělávání absolvuji různé workshopy, kurzy, konference... Více než 20 let jsem pracovala jako speciální pedagog, v poradenství mám 20 let praxe.
                     </p>
                     
                     <p class="lead">
@@ -44,7 +44,8 @@
                     
                     <table class="afterlead">
                         <tr><th colspan="2" >Pracovní zkušenosti</th></tr>
-                        <tr><td nowrap>2016  - dosud</td><td>rodinný  poradce – Poradna pro rodinu, manželství a mezilidské vztahy Kladno</td></tr>
+                        <tr><td nowrap>2006 – dosud</td><td>soukromá praxe</td></tr>
+                        <tr><td nowrap>2016 – 2026</td><td>rodinný poradce – ZSI</td></tr>
                         <tr><td nowrap>2009  - 2016</td><td>rodinný  poradce – Rodinná poradna Slaný, Kolpingova rodina Smečno</td></tr>
                         <tr><td nowrap>2001 – 2012</td><td>speciální pedagog – Pedagogicko psychologická poradna  SK, pracoviště Kladno</td></tr>
                         <tr><td nowrap>1992 -  2001</td><td>speciální pedagog a zástupce ředitele Speciální mateřské školy Slaný</td></tr>
@@ -61,6 +62,8 @@
 
                     <table class="afterlead">
                         <tr><th colspan="2" >Dosažené vzdělání</th></tr>
+                        <tr><td nowrap>2026</td><td>Práce s psychosomatickým klientem</td></tr>
+                        <tr><td nowrap>2022</td><td>Psychoterapie traumatu</td></tr>
                         <tr><td nowrap>2017 - 2019</td><td>Výcvik v psychoanalytické párové a rodinné terapii</td></tr>
                         <tr><td nowrap>2016</td><td>Kurz rodinného poradenství (112 hod)</td></tr>
                         <tr><td nowrap>2014</td><td>Řemeslo skupinové psychoterapie – GestaltStream (54 hod)</td></tr>
@@ -80,7 +83,8 @@
                         <tr><td>Práce u hliněného pole, Netradiční využití výtvarných, hudebních a dramatických technik při práci s dětmi a mládeží, 
                                 Test stromu, Školící a výcvikový kurz Zulligerova diapozitového testu, Mimoslovní sdělování, 
                                 Sociálně psychologický zážitkově orientovaný výcvik, Neverbální psychoterapie a komunikace, Dynamika skupinového dění, 
-                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu, Práce se sny, Psychoterapie traumatu.</td></tr>
+                                Jak si lidé rozumějí,  Využití arteterapie u osob s ADHD, Kurz základní opory v poradenském procesu, Práce se sny, Vliv vztahové vazby na párovou dynamiku, Práce s páry v psychoterapii,
+                                Attachment v těle, Práce se sebevražedným klientem, Všímavost v psychoterapii, Koncept vnitřních částí v psychoterapii.</td></tr>
                     </table>
                     
                 </div>
